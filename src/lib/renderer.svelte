@@ -8,7 +8,7 @@
 	const malloyScript = `
     ## renderer_next
 
-    source: example is duckdb.sql('select * from "https://media.githubusercontent.com/media/datablist/sample-csv-files/main/files/customers/customers-100.csv"') extend {}
+    source: example is duckdb.sql('select * from "https://raw.githubusercontent.com/malloydata/malloy-svelte-example/main/data/customers-100.csv"') extend {}
     `;
 
 	runQuery(malloyScript, 'run: example -> { select: * }').then((result) => {
