@@ -1,0 +1,1001 @@
+date,first_name,last_name,email_address,Product,category,source,street_address,city,state,postal_code,country,returned,revenue,cost,Repeat Customer?
+2022-02-10 16:44:11,Gwenette,Booy,gbooy0@usa.gov,"Lamb - Leg, Bone In",Shoes,mobile,9 Arizona Pass,El Paso,Texas,88541,United States,true,26.56,55.66,true
+2022-09-15 05:25:18,Valli,Stoves,vstoves1@diigo.com,"Beef - Tongue, Fresh",Automotive,mobile,3587 Crescent Oaks Center,Denver,Colorado,80299,United States,true,77.23,81.86,false
+2022-01-19 18:10:10,Clayborn,Simukov,csimukov2@behance.net,Beef Cheek Fresh,Jewelry,direct,6690 Southridge Drive,Baton Rouge,Louisiana,70883,United States,true,13.17,78.85,false
+2023-04-25 08:06:06,Ray,Ravenhill,rravenhill3@blog.com,Wine - White Cab Sauv.on,Books,paid search,17 Brickson Park Way,Topeka,Kansas,66606,United States,true,5.18,34.1,false
+2022-09-15 17:07:52,Steffen,Caroli,scaroli4@phoca.cz,"Beef - Kindney, Whole",Movies,video,4 Merrick Parkway,Santa Ana,California,92725,United States,true,85.27,11.34,true
+2022-10-17 06:33:43,Shep,Celes,sceles5@bbb.org,Cookie Trail Mix,Baby,paid search,26345 New Castle Road,Jackson,Mississippi,39216,United States,true,22.26,52.67,false
+2022-03-16 02:08:07,Wileen,January 1st,wjanuaryst6@wsj.com,"Star Anise, Whole",Health,paid social,8986 Ramsey Hill,Beaverton,Oregon,97075,United States,true,98.34,71.89,true
+2022-11-25 02:06:42,Cary,Earwaker,cearwaker7@ucoz.com,Lettuce - California Mix,Sports,mobile,58 6th Crossing,Hialeah,Florida,33018,United States,true,82.63,7.7,true
+2022-10-29 17:26:37,Shannen,Kordova,skordova8@amazon.de,Cheese - Brie Roitelet,Kids,paid search,9618 Esch Drive,Washington,District of Columbia,20244,United States,true,59.54,73.94,false
+2022-06-25 09:01:11,Godart,Stower,gstower9@simplemachines.org,Creme De Menth - White,Sports,paid social,3090 Briar Crest Lane,Washington,District of Columbia,20392,United States,false,43.07,94.7,true
+2022-02-28 22:25:50,Sibel,Jeffryes,sjeffryesa@bloglines.com,Danishes - Mini Raspberry,Movies,paid search,2213 Di Loreto Court,Hampton,Virginia,23668,United States,true,13.21,71.45,true
+2022-10-16 11:30:18,Reilly,Beveridge,rbeveridgeb@opera.com,Pork - Backfat,Health,paid social,3687 Nevada Park,Los Angeles,California,90101,United States,true,78.47,84.91,true
+2023-09-19 17:52:43,Uriah,Hubbert,uhubbertc@nhs.uk,Foam Cup 6 Oz,Industrial,direct,2707 Straubel Point,Springfield,Illinois,62764,United States,true,7.02,62.38,false
+2022-08-10 09:39:03,Tamar,Stoddard,tstoddardd@ebay.com,Sausage - Chorizo,Books,mobile,5937 Union Plaza,South Bend,Indiana,46620,United States,false,69.73,7.51,true
+2023-01-22 23:36:30,Shirlee,Thorp,sthorpe@indiatimes.com,"Pasta - Shells, Medium, Dry",Automotive,promotions,59 Lakeland Crossing,Washington,District of Columbia,20067,United States,true,40.87,44.78,false
+2022-12-26 21:31:11,Art,Gavini,agavinif@devhub.com,Sping Loaded Cup Dispenser,Jewelry,direct,2 Glacier Hill Court,Pueblo,Colorado,81015,United States,false,10.23,69.43,false
+2022-03-28 16:11:35,Harlan,Archell,harchellg@newyorker.com,Long Island Ice Tea,Garden,direct,2 Badeau Hill,San Diego,California,92137,United States,true,19.27,20.58,false
+2022-11-08 03:59:48,Onfre,Robarts,orobartsh@upenn.edu,Fiddlehead - Frozen,Beauty,paid social,9423 Kenwood Center,Tallahassee,Florida,32314,United States,false,50.43,87.87,true
+2022-07-12 17:48:48,Liam,Franciskiewicz,lfranciskiewiczi@cafepress.com,"Tomatoes - Plum, Canned",Electronics,direct,95 Marquette Park,Honolulu,Hawaii,96810,United States,true,29.15,56.04,true
+2023-03-09 10:46:21,Conrade,Digginson,cdigginsonj@dell.com,Capers - Pickled,Sports,paid social,4 Fairfield Plaza,Denver,Colorado,80235,United States,false,31.64,78.02,true
+2023-03-20 06:13:21,Fergus,Risbie,frisbiek@tumblr.com,Ice Cream Bar - Oreo Cone,Garden,direct,0 Old Gate Place,Houston,Texas,77065,United States,true,78.28,99.4,true
+2022-10-08 05:49:30,Ashley,MacAdam,amacadaml@cdbaby.com,Beef Dry Aged Tenderloin Aaa,Shoes,mobile,71 Browning Pass,Palatine,Illinois,60078,United States,true,48.57,44.72,false
+2023-03-23 12:14:12,Fonzie,Willison,fwillisonm@sina.com.cn,Eggplant - Asian,Toys,paid search,9 Westend Terrace,Spring,Texas,77386,United States,true,83.94,21.44,true
+2022-02-22 08:29:15,Madelin,Necolds,mnecoldsn@domainmarket.com,"Pepper - Paprika, Spanish",Kids,direct,7 Veith Terrace,New Brunswick,New Jersey,08922,United States,false,53.6,51.21,false
+2022-10-12 17:01:41,Ryon,Sigert,rsigerto@wix.com,Bols Melon Liqueur,Clothing,paid search,66 Lillian Hill,Springfield,Massachusetts,01105,United States,false,93.12,16.3,true
+2022-08-10 18:06:21,Hayes,Surr,hsurrp@earthlink.net,Lambcasing,Sports,paid search,09396 Old Gate Hill,Modesto,California,95354,United States,true,38.78,3.13,true
+2023-09-25 08:14:49,Niel,De Dei,ndedeiq@imgur.com,"Appetizer - Mini Egg Roll, Shrimp",Clothing,direct,989 Fairview Pass,Orlando,Florida,32891,United States,true,54.1,6.9,false
+2023-06-26 19:24:22,Pietrek,Phateplace,pphateplacer@taobao.com,Pasta - Ravioli,Electronics,direct,50 Truax Parkway,Albany,Georgia,31704,United States,true,10.42,23.84,true
+2022-05-26 14:50:14,Trisha,Stilgoe,tstilgoes@exblog.jp,"Soup - Campbells, Classic Chix",Garden,paid search,5 Daystar Street,Omaha,Nebraska,68144,United States,true,66.05,76.37,true
+2023-08-31 12:07:37,Lay,Pipe,lpipet@newsvine.com,Towels - Paper / Kraft,Books,direct,9915 Mayfield Lane,San Antonio,Texas,78250,United States,true,1.76,20.83,false
+2022-02-05 06:57:12,Yolande,Conkling,yconklingu@smugmug.com,Bread - 10 Grain Parisian,Industrial,paid social,4482 Prentice Circle,Bronx,New York,10474,United States,false,36.43,49.54,false
+2022-10-21 21:45:02,Fidole,Behr,fbehrv@creativecommons.org,Sauce - Soy Low Sodium - 3.87l,Garden,paid search,2201 2nd Circle,Sioux Falls,South Dakota,57198,United States,true,4.04,51.86,true
+2022-08-29 22:11:43,Robin,Layfield,rlayfieldw@bloglines.com,Coffee - 10oz Cup 92961,Books,direct,1 Grasskamp Plaza,Little Rock,Arkansas,72231,United States,true,70.36,71.16,false
+2022-11-10 22:27:02,Christyna,Ledington,cledingtonx@unicef.org,Cream - 18%,Games,direct,96333 Bay Park,Decatur,Georgia,30089,United States,true,24.09,90.78,false
+2022-12-21 17:38:02,Chlo,Pretsel,cpretsely@deviantart.com,Crackers - Melba Toast,Grocery,paid search,6 Westerfield Alley,Orange,California,92867,United States,false,35.94,17.12,true
+2023-06-14 10:32:58,Tiff,McIntosh,tmcintoshz@webnode.com,Caviar - Salmon,Computers,paid search,8 Crescent Oaks Crossing,Orlando,Florida,32885,United States,true,44.63,51.82,true
+2022-01-16 20:50:08,Even,Doeg,edoeg10@multiply.com,Sprouts - Brussel,Baby,direct,09 Fordem Lane,Saint Louis,Missouri,63196,United States,true,28.58,84.86,false
+2022-02-05 14:06:28,Madonna,Rembrandt,mrembrandt11@a8.net,"Sauce - White, Mix",Health,direct,98 Norway Maple Avenue,El Paso,Texas,79968,United States,true,70.05,77.7,false
+2022-09-12 16:41:35,Selinda,Wythill,swythill12@vk.com,Cheese - Victor Et Berthold,Beauty,paid search,207 Bowman Park,Riverside,California,92519,United States,true,73.98,99.54,true
+2023-01-26 18:41:44,Allianora,Ratchford,aratchford13@miitbeian.gov.cn,Chips - Doritos,Electronics,mobile,214 Debs Plaza,Cincinnati,Ohio,45228,United States,false,11.95,81.12,true
+2023-06-17 09:45:02,Sunny,Percifull,spercifull14@shareasale.com,Eggwhite Frozen,Baby,direct,5 Lawn Road,Bronx,New York,10474,United States,true,56.49,89.61,true
+2022-05-12 06:26:43,Toinette,Sabbatier,tsabbatier15@disqus.com,"Appetizer - Spring Roll, Veg",Toys,direct,1464 Carey Lane,Oakland,California,94605,United States,true,18.84,63.78,false
+2023-01-09 02:01:25,Nessie,Kimbly,nkimbly16@timesonline.co.uk,"Lamb - Leg, Diced",Baby,mobile,9409 Cascade Alley,Amarillo,Texas,79116,United States,true,50.03,81.28,false
+2022-12-13 16:04:59,Ethelda,Danev,edanev17@tuttocitta.it,Vaccum Bag - 14x20,Automotive,paid social,4 Kenwood Road,Kansas City,Missouri,64101,United States,false,6.81,17.82,false
+2023-03-09 12:35:27,Robinett,Karp,rkarp18@cnet.com,Anchovy Fillets,Jewelry,paid social,2 Mockingbird Circle,Indianapolis,Indiana,46226,United States,true,11.98,41.56,false
+2022-08-06 15:03:55,Meta,Howell,mhowell19@sourceforge.net,Apple - Fuji,Health,video,13 Lunder Hill,Indianapolis,Indiana,46216,United States,true,41.21,20.2,true
+2022-02-10 03:07:08,Gaby,Koba,gkoba1a@noaa.gov,Yeast Dry - Fleischman,Outdoors,paid social,91180 Di Loreto Pass,Riverside,California,92519,United States,true,14.35,62.88,false
+2023-01-01 14:35:27,Cori,Stronge,cstronge1b@microsoft.com,Cake - Mini Cheesecake,Automotive,paid social,70137 Orin Pass,Durham,North Carolina,27710,United States,true,48.8,93.27,true
+2022-12-03 06:18:44,Ebony,Larderot,elarderot1c@cocolog-nifty.com,"Lettuce - Romaine, Heart",Music,video,15 Sachtjen Terrace,Bronx,New York,10474,United States,false,41.65,33.05,true
+2023-07-23 18:14:22,Skippie,Blackmore,sblackmore1d@uol.com.br,"Chicken - Leg, Boneless",Automotive,video,583 Old Shore Court,Philadelphia,Pennsylvania,19191,United States,true,39.72,56.82,false
+2023-07-30 14:25:16,Gonzales,Delucia,gdelucia1e@nydailynews.com,Sambuca Cream,Tools,video,67 Victoria Junction,Corpus Christi,Texas,78475,United States,true,99.91,13.33,true
+2023-04-13 07:57:05,Inessa,Mahmood,imahmood1f@utexas.edu,Grapefruit - Pink,Music,promotions,8 Ruskin Circle,Saint Paul,Minnesota,55127,United States,true,41.68,34.97,false
+2023-04-01 08:25:59,Gretta,Brandone,gbrandone1g@addthis.com,Wine - Sicilia Igt Nero Avola,Music,direct,70104 Morrow Place,Augusta,Georgia,30919,United States,false,95.43,1.64,false
+2022-12-25 01:53:25,Bartram,Quinion,bquinion1h@gov.uk,Lime Cordial - Roses,Computers,paid social,74 Gulseth Circle,Anchorage,Alaska,99599,United States,true,22.14,73.5,false
+2023-09-27 03:51:28,Shanna,Simioli,ssimioli1i@fastcompany.com,Juice - Orange,Grocery,paid search,9950 Lakewood Circle,Washington,District of Columbia,20260,United States,true,74.91,8.33,false
+2023-07-21 08:15:06,Samantha,Reyson,sreyson1j@jigsy.com,Wine - Clavet Saint Emilion,Toys,promotions,54971 Dovetail Point,Hayward,California,94544,United States,false,40.1,22.9,true
+2023-10-05 21:15:53,Fiona,MacNab,fmacnab1k@ibm.com,Napkin White - Starched,Jewelry,paid search,32506 Harbort Alley,Plano,Texas,75074,United States,false,67.72,30.0,false
+2022-11-04 17:48:58,Anne,Schleswig-Holstein,aschleswigholstein1l@marketwatch.com,Assorted Desserts,Electronics,direct,074 Pepper Wood Crossing,Phoenix,Arizona,85035,United States,true,74.61,18.71,true
+2022-05-05 15:27:38,Mordy,Tamlett,mtamlett1m@linkedin.com,Water - Spring 1.5lit,Computers,paid social,700 Anhalt Drive,Honolulu,Hawaii,96845,United States,false,97.87,23.83,false
+2022-11-17 03:26:25,Jenni,Habbal,jhabbal1n@phoca.cz,Soup - Campbellschix Stew,Sports,video,78 Lyons Point,Irving,Texas,75062,United States,true,22.43,11.44,false
+2022-09-21 21:19:38,Jehanna,Johnigan,jjohnigan1o@ucoz.ru,Salad Dressing,Games,paid search,75 Caliangt Crossing,North Las Vegas,Nevada,89036,United States,false,28.82,95.17,false
+2023-02-24 17:54:59,Karole,Veljes,kveljes1p@jimdo.com,Oil - Macadamia,Home,promotions,8124 Bobwhite Avenue,Detroit,Michigan,48258,United States,true,69.25,83.72,false
+2022-08-11 21:59:27,Sammie,Littledike,slittledike1q@baidu.com,Broom And Broom Rack White,Kids,video,099 Waxwing Circle,Hartford,Connecticut,06145,United States,true,36.65,56.77,false
+2022-01-11 23:56:14,Vonni,Sheehan,vsheehan1r@joomla.org,Strawberries - California,Games,promotions,21 Upham Plaza,Pueblo,Colorado,81005,United States,true,79.57,39.61,false
+2023-07-24 03:00:55,Gertrude,Kain,gkain1s@unblog.fr,"Rum - Light, Captain Morgan",Movies,video,27 Merrick Parkway,Albany,New York,12227,United States,false,36.76,64.81,false
+2023-10-27 21:30:58,Rubina,Blease,rblease1t@cornell.edu,Chinese Foods - Cantonese,Shoes,promotions,6463 Miller Hill,Colorado Springs,Colorado,80925,United States,true,59.49,89.71,true
+2023-10-05 05:01:12,Chelsey,Mc Carrick,cmccarrick1u@privacy.gov.au,Coffee Swiss Choc Almond,Games,direct,142 Anderson Way,Van Nuys,California,91499,United States,true,98.18,72.16,true
+2022-09-12 06:35:25,Darnell,Sjollema,dsjollema1v@last.fm,Bag Clear 10 Lb,Tools,paid search,98123 Lotheville Court,Omaha,Nebraska,68197,United States,true,31.26,85.56,true
+2023-03-20 18:08:29,Giles,O'Carmody,gocarmody1w@rediff.com,"Pineapple - Canned, Rings",Automotive,video,768 Fulton Court,Erie,Pennsylvania,16510,United States,true,92.07,96.29,false
+2022-03-30 14:08:16,Shandy,Taplin,staplin1x@bing.com,Liquid Aminios Acid - Braggs,Music,paid social,198 Kingsford Center,Palmdale,California,93591,United States,true,53.66,13.67,true
+2022-05-19 16:12:32,Laurianne,McNysche,lmcnysche1y@smh.com.au,"Chocolate - Semi Sweet, Calets",Games,mobile,22948 New Castle Terrace,Houston,Texas,77070,United States,true,27.12,37.37,false
+2023-02-23 13:20:21,Jo,De Witt,jdewitt1z@facebook.com,Scallops - Live In Shell,Health,direct,5 Paget Junction,Pomona,California,91797,United States,true,51.98,84.8,true
+2023-02-17 02:55:26,Raychel,Etherson,retherson20@imgur.com,"Wine - White, Ej",Beauty,promotions,10 Merrick Parkway,El Paso,Texas,79905,United States,true,17.38,19.13,true
+2022-02-21 06:37:59,Ashlie,Seage,aseage21@apache.org,Steam Pan Full Lid,Sports,paid search,7412 Eagle Crest Place,Chesapeake,Virginia,23324,United States,true,76.91,37.53,true
+2022-01-15 15:25:05,Kari,Elix,kelix22@tiny.cc,Pike - Frozen Fillet,Sports,direct,4124 Onsgard Trail,Shreveport,Louisiana,71105,United States,true,81.27,63.03,false
+2022-10-02 10:51:10,Vincenz,Hush,vhush23@barnesandnoble.com,Wine - Coteaux Du Tricastin Ac,Electronics,paid social,16595 Twin Pines Alley,Memphis,Tennessee,38197,United States,true,18.74,21.71,false
+2022-10-27 00:48:47,Kacie,Seckington,kseckington24@taobao.com,Pepper - Green Thai,Baby,direct,298 Tennessee Plaza,Dallas,Texas,75216,United States,true,39.16,25.74,false
+2022-05-20 19:10:26,Nilson,Proffitt,nproffitt25@oracle.com,Mudslide,Kids,paid social,79 Scoville Way,San Francisco,California,94137,United States,false,78.02,80.92,true
+2022-05-04 04:55:38,Ameline,Archibold,aarchibold26@shutterfly.com,Beans - Soya Bean,Sports,direct,9 Hintze Hill,San Jose,California,95155,United States,true,39.1,86.29,false
+2023-06-02 11:09:07,Tani,Scown,tscown27@census.gov,Sauce - Rosee,Grocery,paid search,61 Tennessee Road,Portland,Oregon,97229,United States,true,99.17,60.33,true
+2022-08-03 03:16:08,Kelby,Hickin,khickin28@flickr.com,Ecolab - Hobart Washarm End Cap,Baby,direct,29 Rigney Center,Toledo,Ohio,43635,United States,true,12.57,95.7,true
+2022-05-22 06:38:17,Rutherford,Egdal,regdal29@cbsnews.com,Calypso - Lemonade,Shoes,video,231 Esch Point,Dallas,Texas,75342,United States,true,43.34,71.02,false
+2023-03-30 13:39:59,Randy,Charlesworth,rcharlesworth2a@deviantart.com,Flower - Commercial Spider,Outdoors,mobile,24167 Tennessee Junction,Clearwater,Florida,33758,United States,true,66.75,24.32,false
+2022-09-05 11:24:09,Shela,De Mattei,sdemattei2b@behance.net,Chicken Breast Wing On,Shoes,paid search,9713 Hayes Road,El Paso,Texas,79934,United States,false,38.73,26.85,true
+2023-10-03 02:22:27,Channa,Frowen,cfrowen2c@eepurl.com,Butcher Twine 4r,Music,video,81150 Dawn Avenue,Grand Rapids,Michigan,49544,United States,true,29.25,79.37,false
+2022-03-26 22:22:19,Allys,Heinel,aheinel2d@jalbum.net,Cheese - La Sauvagine,Baby,promotions,53 Declaration Terrace,Austin,Texas,78744,United States,true,12.14,63.86,true
+2022-04-20 04:13:42,Alphard,Gecks,agecks2e@seattletimes.com,Cheese - Bocconcini,Industrial,paid social,67981 Duke Road,Providence,Rhode Island,02905,United States,true,51.19,71.73,false
+2022-07-02 23:23:11,Perrine,Guyot,pguyot2f@blinklist.com,"Bread - Pita, Mini",Home,direct,820 Pleasure Trail,Tampa,Florida,33661,United States,true,51.45,88.52,true
+2023-08-04 23:34:15,West,Blazevic,wblazevic2g@linkedin.com,Lettuce - Arugula,Baby,paid social,20 Reinke Lane,Dayton,Ohio,45470,United States,true,74.38,52.33,false
+2022-12-26 13:40:05,Ninetta,Leggan,nleggan2h@storify.com,Beef - Short Loin,Electronics,video,3 Forster Drive,Canton,Ohio,44705,United States,true,67.34,65.32,false
+2023-02-17 17:57:54,Monika,Abramzon,mabramzon2i@imdb.com,Veal - Kidney,Beauty,paid social,61912 Pawling Alley,Greensboro,North Carolina,27409,United States,false,46.9,61.65,false
+2022-04-28 00:40:45,Bobbette,Gethouse,bgethouse2j@paypal.com,Banana - Green,Clothing,paid search,815 Sugar Plaza,Fort Lauderdale,Florida,33325,United States,true,39.19,28.38,true
+2023-03-08 00:01:06,Ruddy,Minocchi,rminocchi2k@gov.uk,Eel - Smoked,Industrial,paid social,92724 Rieder Terrace,San Diego,California,92105,United States,true,50.53,49.56,true
+2023-09-27 11:11:07,Kippie,O'Cuddie,kocuddie2l@mashable.com,Juice - Lemon,Jewelry,promotions,35126 Arapahoe Circle,Jamaica,New York,11407,United States,true,49.75,54.3,true
+2023-08-20 00:10:39,Wallie,Erik,werik2m@reverbnation.com,Hersey Shakes,Tools,direct,55613 Express Place,Montgomery,Alabama,36114,United States,true,31.31,65.87,true
+2022-08-26 07:18:09,Paulette,MacGilrewy,pmacgilrewy2n@oakley.com,Cleaner - Bleach,Games,paid search,1993 Dorton Way,Tacoma,Washington,98424,United States,true,41.7,52.46,false
+2023-05-21 14:15:11,Marlin,Loch,mloch2o@comsenz.com,"Noodles - Cellophane, Thin",Outdoors,mobile,09 Loeprich Trail,Houston,Texas,77218,United States,true,32.42,77.61,false
+2022-07-02 14:29:28,Farley,Rosencwaig,frosencwaig2p@t.co,Onions - Spanish,Sports,direct,0933 Doe Crossing Center,Jackson,Mississippi,39282,United States,true,76.54,61.25,false
+2023-05-28 08:08:28,Deb,MacCallam,dmaccallam2q@ftc.gov,Dill Weed - Fresh,Health,paid search,15 Muir Place,Denver,Colorado,80249,United States,true,55.95,50.45,true
+2022-09-14 22:41:08,Daven,Merredy,dmerredy2r@diigo.com,Cut Wakame - Hanawakaba,Clothing,paid search,241 Saint Paul Alley,Nashville,Tennessee,37220,United States,true,81.51,74.28,false
+2022-10-12 17:07:36,Glynnis,Nutbeem,gnutbeem2s@usgs.gov,Carbonated Water - Strawberry,Tools,promotions,17274 Forest Place,Washington,District of Columbia,20260,United States,true,65.84,41.94,false
+2022-12-08 21:19:43,Meir,Gleder,mgleder2t@drupal.org,Island Oasis - Raspberry,Computers,direct,3 Pepper Wood Center,Long Beach,California,90810,United States,true,28.09,87.29,false
+2023-05-25 01:13:38,Zarla,Brashier,zbrashier2u@oakley.com,Soup - Boston Clam Chowder,Electronics,paid search,1539 Northview Road,Oklahoma City,Oklahoma,73147,United States,true,7.84,62.44,false
+2022-10-22 18:45:52,Jolynn,Wortt,jwortt2v@sogou.com,Wine - Montecillo Rioja Crianza,Jewelry,paid search,68348 Dapin Trail,Fort Lauderdale,Florida,33315,United States,true,4.38,18.36,false
+2023-05-05 13:59:51,Woody,Addlestone,waddlestone2w@cocolog-nifty.com,"Salmon - Atlantic, Fresh, Whole",Automotive,paid search,79 Pepper Wood Junction,Baton Rouge,Louisiana,70820,United States,true,99.56,79.6,true
+2023-10-30 06:37:01,Zea,Bozier,zbozier2x@examiner.com,Quail Eggs - Canned,Home,direct,98 Maple Wood Pass,Stockton,California,95210,United States,true,87.33,91.91,false
+2023-06-30 22:57:17,Norma,Starkings,nstarkings2y@dailymail.co.uk,Cup - 8oz Coffee Perforated,Industrial,video,64350 Gale Center,Bakersfield,California,93386,United States,true,25.0,71.07,true
+2022-09-04 20:15:50,Sheppard,Foro,sforo2z@163.com,Chicken - Base,Outdoors,paid search,66 Darwin Parkway,Las Vegas,Nevada,89115,United States,true,54.23,24.79,false
+2022-06-17 16:29:03,Balduin,Kleinberer,bkleinberer30@boston.com,Raspberries - Frozen,Clothing,paid social,0 Becker Parkway,El Paso,Texas,79905,United States,true,28.4,35.15,false
+2022-09-06 08:59:51,Letizia,Balog,lbalog31@g.co,Oven Mitts - 15 Inch,Garden,direct,373 Derek Way,Bradenton,Florida,34210,United States,true,83.11,3.44,true
+2023-08-15 07:11:03,Felipa,Irnys,firnys32@shinystat.com,"Schnappes - Peach, Walkers",Games,promotions,697 Arrowood Circle,Saint Cloud,Minnesota,56398,United States,false,30.07,10.2,true
+2022-12-11 09:46:45,Emmett,Hurler,ehurler33@canalblog.com,Mousse - Mango,Clothing,paid search,14339 Dottie Parkway,Miami,Florida,33129,United States,true,11.31,95.43,true
+2023-10-15 09:37:44,Terencio,Woodyer,twoodyer34@google.cn,Olives - Kalamata,Games,paid search,274 Anthes Point,Minneapolis,Minnesota,55423,United States,true,28.14,4.7,true
+2023-10-25 14:56:12,Grace,Beaufoy,gbeaufoy35@smh.com.au,Oneshot Automatic Soap System,Jewelry,direct,694 Kenwood Crossing,Cincinnati,Ohio,45999,United States,true,53.45,37.14,true
+2022-05-08 21:51:53,Bernardine,Lodge,blodge36@intel.com,Danishes - Mini Raspberry,Books,paid social,6 Vahlen Crossing,Pensacola,Florida,32595,United States,false,19.12,11.2,false
+2022-10-15 15:55:55,Una,Filewood,ufilewood37@pinterest.com,Chocolate - Dark,Baby,video,2 Haas Plaza,Lawrenceville,Georgia,30045,United States,false,97.82,11.5,true
+2023-09-09 11:49:03,Hartwell,Halworth,hhalworth38@elpais.com,Onion Powder,Games,video,9276 Graceland Plaza,Lexington,Kentucky,40515,United States,true,58.43,20.87,true
+2023-08-25 20:34:31,Dodie,Wawer,dwawer39@hhs.gov,Beer - Mcauslan Apricot,Jewelry,paid social,93 Buell Road,Naples,Florida,34102,United States,false,91.6,48.56,false
+2023-10-04 23:43:52,Engracia,Heibel,eheibel3a@1688.com,Jagermeister,Home,direct,797 Russell Hill,Abilene,Texas,79605,United States,true,35.85,41.2,true
+2022-09-22 12:39:38,Bobine,Matfield,bmatfield3b@japanpost.jp,Soup Campbells Split Pea And Ham,Jewelry,promotions,42900 Homewood Street,Pittsburgh,Pennsylvania,15225,United States,true,28.42,1.57,true
+2022-06-17 04:08:31,Abigael,Gogarty,agogarty3c@mit.edu,"Roe - Lump Fish, Black",Beauty,promotions,0 Ilene Lane,Washington,District of Columbia,20409,United States,true,80.74,66.13,false
+2023-04-14 00:38:23,Ezechiel,Espinoy,eespinoy3d@free.fr,Straw - Regular,Toys,paid social,1 Knutson Crossing,Little Rock,Arkansas,72209,United States,true,87.4,73.79,true
+2023-02-02 09:24:15,Laurent,Scalera,lscalera3e@tmall.com,Bols Melon Liqueur,Tools,mobile,0 Logan Crossing,Mobile,Alabama,36610,United States,true,76.81,42.32,true
+2022-01-15 11:25:17,Rollie,Andriuzzi,randriuzzi3f@biglobe.ne.jp,Oranges,Baby,direct,7 Ohio Avenue,Wichita,Kansas,67215,United States,true,9.67,47.43,false
+2022-07-24 00:48:37,Boniface,Mc Cahey,bmccahey3g@foxnews.com,Ice Cream Bar - Hagen Daz,Kids,paid social,6936 Briar Crest Court,Madison,Wisconsin,53726,United States,true,93.42,69.67,false
+2023-04-16 10:37:01,Dagmar,Sempill,dsempill3h@ustream.tv,Persimmons,Jewelry,direct,52 Dakota Point,Fort Worth,Texas,76121,United States,true,76.96,61.93,true
+2023-08-10 23:24:55,Candie,Paskins,cpaskins3i@vinaora.com,Ice Cream - Vanilla,Health,paid social,75092 Milwaukee Alley,San Diego,California,92127,United States,true,24.73,26.54,true
+2023-02-07 15:14:22,Crysta,Train,ctrain3j@odnoklassniki.ru,"Pepsi, 355 Ml",Computers,paid social,6734 Johnson Avenue,Norman,Oklahoma,73071,United States,false,82.08,6.15,false
+2022-02-08 15:42:25,Toddie,McConigal,tmcconigal3k@free.fr,Mackerel Whole Fresh,Garden,paid social,371 La Follette Alley,Greensboro,North Carolina,27415,United States,true,2.41,87.21,false
+2022-02-08 03:02:28,Fabiano,Huxley,fhuxley3l@slate.com,"Gingerale - Schweppes, 355 Ml",Tools,mobile,748 Barby Street,Columbus,Ohio,43231,United States,false,72.17,48.87,false
+2023-08-12 22:20:41,Gayel,Rielly,grielly3m@sun.com,"Lamb - Leg, Boneless",Computers,paid social,16 Almo Pass,Largo,Florida,33777,United States,true,59.38,30.54,false
+2023-02-28 07:08:43,Artus,Brotherhead,abrotherhead3n@goo.ne.jp,Broccoli - Fresh,Shoes,promotions,211 Huxley Crossing,Memphis,Tennessee,38181,United States,true,62.2,5.17,true
+2023-08-24 14:07:49,Lilith,MacGarrity,lmacgarrity3o@bloomberg.com,Broccoli - Fresh,Toys,promotions,503 Hansons Parkway,Washington,District of Columbia,20508,United States,true,58.41,20.0,true
+2022-11-10 01:09:19,Berkly,Ivett,bivett3p@reverbnation.com,Chips Potato Salt Vinegar 43g,Sports,mobile,95941 Loomis Park,Des Moines,Iowa,50320,United States,true,40.12,45.32,false
+2022-05-23 02:56:57,Gaynor,Remon,gremon3q@guardian.co.uk,Chick Peas - Canned,Electronics,paid social,6 Basil Trail,Kingsport,Tennessee,37665,United States,true,83.94,78.41,true
+2022-10-04 05:33:28,Gasper,Trembath,gtrembath3r@studiopress.com,Wine - Riesling Dr. Pauly,Sports,mobile,2 Magdeline Place,Morgantown,West Virginia,26505,United States,true,71.82,77.34,false
+2023-02-24 20:39:44,Ike,Powrie,ipowrie3s@bigcartel.com,"Yogurt - Blueberry, 175 Gr",Games,promotions,3 Esker Court,New York City,New York,10039,United States,true,17.41,5.65,false
+2023-03-19 12:16:33,Hamilton,Torres,htorres3t@naver.com,Turkey Leg With Drum And Thigh,Computers,direct,35028 Clove Lane,Lees Summit,Missouri,64082,United States,true,25.77,28.11,true
+2023-09-04 19:44:00,Cleve,Richter,crichter3u@mapquest.com,Vegetable - Base,Grocery,paid search,28264 Crescent Oaks Terrace,Evansville,Indiana,47712,United States,true,89.64,18.76,true
+2022-07-28 03:36:18,Tarah,Bau,tbau3v@diigo.com,Lettuce - Frisee,Sports,promotions,46 Eastlawn Road,Memphis,Tennessee,38150,United States,true,8.82,60.06,true
+2022-05-25 13:38:58,Nevin,Liccardo,nliccardo3w@goo.gl,"Salmon - Whole, 4 - 6 Pounds",Home,direct,7344 Schiller Avenue,Austin,Texas,78789,United States,true,79.17,60.83,true
+2023-05-05 16:13:41,Moreen,Southby,msouthby3x@unc.edu,"Asparagus - White, Canned",Movies,video,27 Burrows Road,Birmingham,Alabama,35225,United States,true,3.5,56.82,true
+2022-11-26 19:17:04,Gabey,Unsworth,gunsworth3y@google.com.br,The Pop Shoppe - Grape,Sports,mobile,01027 Becker Circle,Scranton,Pennsylvania,18505,United States,false,79.5,53.05,false
+2023-04-26 16:14:50,Imogen,Walmsley,iwalmsley3z@mail.ru,Jolt Cola - Electric Blue,Clothing,video,17022 Kedzie Street,Fort Myers,Florida,33906,United States,false,93.93,47.34,true
+2023-03-24 15:45:10,George,Copson,gcopson40@freewebs.com,"Salmon - Atlantic, Fresh, Whole",Automotive,mobile,093 Bunker Hill Court,Boynton Beach,Florida,33436,United States,true,6.31,20.0,true
+2022-06-10 12:01:56,Ermentrude,Peizer,epeizer41@springer.com,"Potatoes - Instant, Mashed",Garden,direct,332 Loeprich Road,Tacoma,Washington,98442,United States,true,75.09,10.11,false
+2023-09-20 08:58:42,Royall,Mayfield,rmayfield42@spotify.com,Broom - Push,Home,paid social,50 Declaration Place,Spokane,Washington,99252,United States,true,93.33,76.17,true
+2023-07-05 22:01:10,Donal,Meech,dmeech43@hc360.com,Island Oasis - Banana Daiquiri,Shoes,paid social,23389 Clemons Way,Washington,District of Columbia,20299,United States,true,80.23,33.04,false
+2022-01-20 14:04:21,Leela,Killelay,lkillelay44@google.com.hk,Muffin Mix - Banana Nut,Jewelry,mobile,3 Debra Crossing,Peoria,Arizona,85383,United States,true,82.51,99.41,true
+2022-07-27 02:02:03,Benedict,McGuirk,bmcguirk45@answers.com,Tea - Honey Green Tea,Games,paid social,6 Annamark Alley,Wichita,Kansas,67220,United States,false,64.54,89.45,true
+2022-07-11 16:58:17,Pietro,Barrabeale,pbarrabeale46@dropbox.com,Sandwich Wrap,Computers,direct,8 Sauthoff Way,Orlando,Florida,32854,United States,true,2.62,16.63,true
+2023-04-01 19:18:46,Alphard,Sterte,asterte47@nbcnews.com,Muffin - Banana Nut Individual,Health,paid social,66 Logan Hill,Kansas City,Kansas,66160,United States,true,84.68,43.2,true
+2022-12-22 13:37:51,Evie,Vinter,evinter48@loc.gov,Pate Pans Yellow,Shoes,video,5 Hoard Circle,Des Moines,Iowa,50981,United States,true,33.58,16.42,false
+2022-05-02 02:09:32,Reider,Waterworth,rwaterworth49@msn.com,"Cookies - Oreo, 4 Pack",Outdoors,paid search,7 Sage Way,Monticello,Minnesota,55585,United States,true,14.17,90.12,true
+2023-01-23 23:24:21,Robbie,Zoellner,rzoellner4a@vkontakte.ru,Pork - Liver,Electronics,video,9663 Bartillon Alley,Irvine,California,92717,United States,true,86.66,3.97,false
+2022-11-08 13:57:34,Katharina,Nolin,knolin4b@businessinsider.com,Wine - Shiraz South Eastern,Sports,video,7 Tennyson Hill,Washington,District of Columbia,20210,United States,true,72.42,84.6,false
+2023-10-27 21:34:24,Waneta,Bleckly,wbleckly4c@people.com.cn,Sea Bass - Fillets,Movies,mobile,0 Quincy Plaza,Toledo,Ohio,43635,United States,true,15.31,26.58,true
+2023-07-12 22:32:04,Leese,Frangleton,lfrangleton4d@imdb.com,Salt - Kosher,Electronics,video,53 Fieldstone Drive,Tampa,Florida,33633,United States,true,30.88,20.95,true
+2023-01-28 07:11:48,Ivie,Poulgreen,ipoulgreen4e@netscape.com,"Yogurt - Raspberry, 175 Gr",Baby,paid search,210 Hooker Terrace,Honolulu,Hawaii,96850,United States,true,7.8,7.08,true
+2022-07-24 01:28:36,Urbain,Hartles,uhartles4f@slate.com,"Cheese - Brie, Triple Creme",Home,paid social,35364 Corben Point,Naples,Florida,33961,United States,false,6.5,96.63,false
+2022-05-24 13:02:59,Libbey,Lefever,llefever4g@hud.gov,Clam - Cherrystone,Computers,direct,4 Texas Point,Fort Wayne,Indiana,46896,United States,true,45.99,23.19,true
+2023-10-18 02:29:16,Imojean,Dougill,idougill4h@opensource.org,"Mop Head - Cotton, 24 Oz",Shoes,video,1193 Pepper Wood Circle,Omaha,Nebraska,68144,United States,true,92.94,96.19,false
+2022-11-03 06:32:51,Kriste,Tague,ktague4i@theguardian.com,Oil - Canola,Kids,direct,9550 Derek Terrace,Washington,District of Columbia,20029,United States,true,3.33,19.09,false
+2022-12-07 10:25:22,Pammi,Sustins,psustins4j@flavors.me,Longos - Lasagna Beef,Music,paid search,0 Bartillon Terrace,Winston Salem,North Carolina,27110,United States,true,3.91,90.14,true
+2022-04-12 06:24:58,Merv,Swateridge,mswateridge4k@feedburner.com,Soup - Campbells Chili,Garden,paid search,35 Eagan Alley,Indianapolis,Indiana,46254,United States,true,48.08,32.78,false
+2022-03-17 02:52:06,Vida,Braunds,vbraunds4l@facebook.com,Nut - Pumpkin Seeds,Beauty,promotions,696 Gerald Parkway,Los Angeles,California,90040,United States,true,51.6,47.67,false
+2023-01-06 03:34:05,Armstrong,Tremayle,atremayle4m@sphinn.com,Turnip - White,Electronics,promotions,514 Grasskamp Park,Virginia Beach,Virginia,23471,United States,true,79.86,25.17,true
+2023-02-03 21:07:44,Marysa,Palle,mpalle4n@squarespace.com,Plaintain,Computers,video,080 Mcbride Drive,Lubbock,Texas,79452,United States,true,93.08,15.48,true
+2022-01-10 08:10:50,Gratiana,McGuff,gmcguff4o@sogou.com,"Vodka - Hot, Lnferno",Clothing,video,42 Delladonna Alley,Cleveland,Ohio,44111,United States,true,83.83,36.55,true
+2023-02-25 02:03:17,Janella,Gieraths,jgieraths4p@loc.gov,"Beef - Ox Tail, Frozen",Tools,mobile,1070 1st Park,Pittsburgh,Pennsylvania,15220,United States,true,50.91,36.35,false
+2023-05-26 13:44:15,Valaria,Lean,vlean4q@uiuc.edu,Veal - Eye Of Round,Tools,mobile,6436 Katie Avenue,Baltimore,Maryland,21275,United States,true,50.43,55.61,true
+2022-11-09 15:40:00,Kirsten,Keal,kkeal4r@businesswire.com,Peach - Halves,Jewelry,video,627 Pierstorff Terrace,Honolulu,Hawaii,96845,United States,true,59.77,16.51,false
+2022-05-01 10:02:29,Hortense,Trevino,htrevino4s@ed.gov,Brandy Cherry - Mcguinness,Books,direct,78120 Northridge Court,Atlanta,Georgia,31136,United States,true,25.35,75.88,false
+2023-01-23 17:09:27,Lauryn,Rafe,lrafe4t@fema.gov,Passion Fruit,Electronics,promotions,5517 Tennessee Crossing,Tulsa,Oklahoma,74126,United States,true,97.53,12.27,false
+2023-10-23 14:04:09,Stan,Koppes,skoppes4u@hexun.com,Temperature Recording Station,Computers,video,5 Ruskin Hill,Maple Plain,Minnesota,55579,United States,true,89.69,69.27,false
+2022-09-14 03:47:05,Humbert,Jirick,hjirick4v@icq.com,Isomalt,Kids,mobile,25086 Lakeland Plaza,Hampton,Virginia,23668,United States,true,23.01,60.08,false
+2023-02-18 03:57:21,Britney,Pattullo,bpattullo4w@nih.gov,Sprouts - Peppercress,Baby,promotions,97815 Lawn Plaza,Oklahoma City,Oklahoma,73157,United States,true,59.81,41.23,true
+2023-09-01 20:17:14,Catharina,Beefon,cbeefon4x@ed.gov,Island Oasis - Magarita Mix,Health,promotions,5 Becker Hill,Long Beach,California,90831,United States,true,92.37,1.75,true
+2022-12-25 22:34:42,Tess,O'Loughlin,toloughlin4y@last.fm,"Soup - Knorr, French Onion",Kids,paid search,5626 Bonner Circle,San Jose,California,95118,United States,true,3.79,69.22,true
+2022-11-11 03:36:43,Lincoln,Gutans,lgutans4z@google.com.au,Bar Bran Honey Nut,Movies,paid search,50013 Summit Pass,Denver,Colorado,80291,United States,true,76.68,19.64,true
+2022-04-22 22:07:50,Faulkner,Greste,fgreste50@dmoz.org,Cheese - St. Andre,Movies,promotions,1776 Arapahoe Avenue,Miami,Florida,33175,United States,true,84.93,87.33,false
+2023-03-22 21:27:24,Donica,Gitthouse,dgitthouse51@domainmarket.com,Bread - Bistro Sour,Industrial,video,59 La Follette Junction,Cleveland,Ohio,44125,United States,true,78.65,85.05,false
+2023-10-24 07:26:39,Elsy,Belk,ebelk52@sun.com,Napkin - Beverage 1 Ply,Baby,video,0411 Anniversary Avenue,Lansing,Michigan,48930,United States,true,86.11,66.32,false
+2023-07-06 10:26:26,Robers,Titterell,rtitterell53@istockphoto.com,"Artichokes - Knobless, White",Home,video,435 Thackeray Plaza,Los Angeles,California,90020,United States,false,99.66,68.82,true
+2022-07-09 19:38:06,Duffie,Finlason,dfinlason54@unblog.fr,Pickles - Gherkins,Computers,mobile,1 Manley Trail,Greensboro,North Carolina,27455,United States,false,54.63,44.16,true
+2023-09-06 09:47:43,Laureen,Murrow,lmurrow55@tiny.cc,"Cherries - Bing, Canned",Home,paid search,96 Prentice Terrace,Pensacola,Florida,32511,United States,true,66.85,67.6,false
+2023-02-28 22:32:58,Haslett,Sly,hsly56@de.vu,Curry Powder,Jewelry,paid social,52620 Memorial Circle,Springfield,Virginia,22156,United States,true,27.46,39.21,false
+2022-05-28 16:30:48,Pren,Reneke,preneke57@bizjournals.com,"Fish - Artic Char, Cold Smoked",Books,mobile,644 Anhalt Street,El Paso,Texas,88525,United States,true,9.26,13.43,false
+2023-10-20 09:14:36,Udale,Benito,ubenito58@latimes.com,Lamb - Bones,Beauty,promotions,87 Redwing Pass,Madison,Wisconsin,53726,United States,true,69.75,4.27,false
+2022-07-28 02:40:55,Ilysa,Malyan,imalyan59@umn.edu,Cleaner - Lime Away,Industrial,paid search,124 Straubel Circle,Philadelphia,Pennsylvania,19120,United States,true,56.36,10.68,true
+2022-03-11 21:06:27,Mackenzie,Alster,malster5a@so-net.ne.jp,Flower - Commercial Spider,Jewelry,paid social,23156 Alpine Park,Cedar Rapids,Iowa,52410,United States,true,79.74,53.61,false
+2023-02-25 19:30:43,Eugen,Pontefract,epontefract5b@cbsnews.com,Veal - Osso Bucco,Sports,direct,9 Manufacturers Drive,Corona,California,92878,United States,true,43.93,27.47,true
+2022-03-03 01:32:40,Kimberlee,Beckey,kbeckey5c@nydailynews.com,Peach - Halves,Home,direct,98 Bluejay Place,Edmond,Oklahoma,73034,United States,false,18.33,91.42,true
+2023-09-20 00:36:35,Lindsay,Eskell,leskell5d@house.gov,Wine - Shiraz South Eastern,Books,paid social,49 Crowley Trail,San Diego,California,92115,United States,true,88.35,19.24,false
+2022-09-12 11:22:01,Jorge,Cleeves,jcleeves5e@vinaora.com,Pail For Lid 1537,Grocery,video,24 Maywood Circle,Cambridge,Massachusetts,02142,United States,false,43.33,8.54,false
+2023-03-27 09:23:27,Elyssa,Adamou,eadamou5f@hc360.com,Bread - Onion Focaccia,Kids,promotions,232 Butternut Drive,El Paso,Texas,88558,United States,true,38.1,97.92,false
+2023-10-04 10:27:19,Morganica,Ilyasov,milyasov5g@nsw.gov.au,Whmis - Spray Bottle Trigger,Toys,promotions,238 Loftsgordon Way,Hartford,Connecticut,06105,United States,false,86.43,7.43,false
+2022-05-01 16:47:34,Barnebas,Rearie,brearie5h@domainmarket.com,Arizona - Plum Green Tea,Clothing,video,8449 Prairie Rose Court,Pittsburgh,Pennsylvania,15220,United States,true,17.34,95.87,true
+2022-05-11 21:02:06,Chico,Broomer,cbroomer5i@wikimedia.org,Skirt - 24 Foot,Movies,video,61 Larry Drive,Raleigh,North Carolina,27635,United States,true,92.01,80.36,false
+2022-11-04 15:29:38,Pedro,Steuart,psteuart5j@si.edu,Soup - Base Broth Beef,Outdoors,promotions,057 Leroy Court,Washington,District of Columbia,20425,United States,true,81.96,52.59,false
+2022-02-07 17:10:23,Albie,Stoodale,astoodale5k@printfriendly.com,Foil Wrap,Toys,promotions,88 Merry Lane,Lexington,Kentucky,40510,United States,false,85.38,34.14,false
+2023-09-30 02:58:25,Donaugh,Stuther,dstuther5l@geocities.com,"Veal - Insides, Grains",Electronics,paid search,03094 Carpenter Drive,Rochester,New York,14604,United States,true,5.72,8.41,true
+2023-06-24 13:51:11,Joeann,Proudman,jproudman5m@list-manage.com,Wiberg Super Cure,Clothing,paid search,14 Di Loreto Avenue,Indianapolis,Indiana,46202,United States,true,5.55,89.4,false
+2023-07-14 14:58:30,Herc,Sherwell,hsherwell5n@comcast.net,"Chocolate - Pistoles, White",Outdoors,direct,128 Gale Court,Greensboro,North Carolina,27499,United States,true,4.72,17.61,true
+2022-09-29 21:24:41,Thane,Brookton,tbrookton5o@yandex.ru,Mangostein,Electronics,mobile,040 Mifflin Hill,Oklahoma City,Oklahoma,73119,United States,true,20.03,80.65,true
+2023-02-08 22:13:32,Noble,Giannini,ngiannini5p@boston.com,Cheese - Bocconcini,Music,video,93710 Sauthoff Street,Spring,Texas,77388,United States,true,70.77,30.05,true
+2023-03-21 20:43:28,Zenia,Kilgallen,zkilgallen5q@bigcartel.com,Wine - Chateau Bonnet,Games,video,4 Nancy Trail,Philadelphia,Pennsylvania,19141,United States,true,16.78,2.66,false
+2022-09-19 03:34:13,Ransell,Chrichton,rchrichton5r@networkadvertising.org,"Fish - Base, Bouillion",Outdoors,paid social,86874 Tennessee Trail,Sioux Falls,South Dakota,57198,United States,false,22.82,96.01,true
+2022-11-14 18:30:57,Joannes,Columbell,jcolumbell5s@google.com,Dc Hikiage Hira Huba,Shoes,mobile,820 Manitowish Parkway,Houston,Texas,77276,United States,true,47.78,65.03,false
+2023-10-03 04:09:02,Tiffanie,Trays,ttrays5t@discovery.com,Orange - Tangerine,Health,paid social,453 Lake View Parkway,Lynchburg,Virginia,24515,United States,true,57.9,17.22,true
+2023-09-23 04:09:51,Liz,Grewer,lgrewer5u@trellian.com,Ecolab - Hand Soap Form Antibac,Books,promotions,66851 Meadow Ridge Crossing,Dayton,Ohio,45426,United States,true,60.54,11.94,true
+2022-11-09 20:16:37,Benita,Puckett,bpuckett5v@hubpages.com,"Pork - Sausage, Medium",Grocery,video,8 Union Pass,Cheyenne,Wyoming,82007,United States,true,7.59,43.23,false
+2023-02-06 06:14:01,Holden,Voak,hvoak5w@ehow.com,Cheese - Parmesan Grated,Industrial,direct,14 Colorado Drive,New York City,New York,10249,United States,true,85.6,67.68,true
+2023-01-25 13:01:44,North,Jekel,njekel5x@disqus.com,Fudge - Chocolate Fudge,Sports,mobile,54954 Moland Drive,Jackson,Mississippi,39296,United States,false,54.48,31.18,true
+2022-08-20 20:42:24,Conney,Radmer,cradmer5y@apache.org,Beef - Tenderloin,Health,video,41 Hanson Hill,Tulsa,Oklahoma,74103,United States,false,13.61,52.47,false
+2022-08-31 20:43:22,Dorice,Grzegorzewicz,dgrzegorzewicz5z@comcast.net,Steam Pan - Half Size Deep,Clothing,video,018 Starling Terrace,Billings,Montana,59105,United States,true,12.2,50.49,false
+2022-05-25 11:50:54,Oliviero,Vigneron,ovigneron60@sogou.com,Cheese - Cottage Cheese,Games,paid search,24613 Bultman Crossing,Denver,Colorado,80262,United States,true,2.3,91.01,false
+2022-11-22 09:09:05,Jessalyn,Urian,jurian61@mapy.cz,Vaccum Bag 10x13,Music,direct,867 Coolidge Lane,Ogden,Utah,84403,United States,true,99.08,77.59,false
+2023-06-19 10:51:53,Viva,Isaksson,visaksson62@cloudflare.com,Lettuce - Baby Salad Greens,Books,mobile,2 Schlimgen Alley,Santa Monica,California,90410,United States,true,41.56,93.49,true
+2022-08-31 00:41:54,Alice,Baalham,abaalham63@xrea.com,Icecream - Dibs,Music,video,0 Moose Hill,Hollywood,Florida,33028,United States,true,88.95,4.86,true
+2023-08-08 21:21:03,Drew,Bottleson,dbottleson64@blogtalkradio.com,Cheese - Ricotta,Outdoors,promotions,4 Maryland Alley,Newark,Delaware,19714,United States,true,41.19,85.67,false
+2023-10-25 20:40:18,Holt,Rupp,hrupp65@blog.com,Wine - Vidal Icewine Magnotta,Garden,video,9 International Drive,Columbus,Ohio,43215,United States,true,41.2,53.0,false
+2023-02-27 01:16:55,Nikolai,Rudd,nrudd66@businesswire.com,Cheese - Mix,Movies,promotions,8 Waywood Drive,Colorado Springs,Colorado,80951,United States,true,1.19,10.19,true
+2022-12-29 01:46:43,Roderic,Waples,rwaples67@fastcompany.com,Galliano,Books,paid search,2705 Union Plaza,Houston,Texas,77288,United States,true,16.91,1.16,false
+2022-02-24 18:41:44,Raimundo,Taylor,rtaylor68@i2i.jp,Whmis Spray Bottle Graduated,Industrial,direct,12109 Bobwhite Way,Gatesville,Texas,76598,United States,true,92.14,29.63,false
+2023-08-06 19:34:16,Loreen,Mabon,lmabon69@seattletimes.com,Rice - Aborio,Games,paid search,19051 Cody Alley,Atlanta,Georgia,30392,United States,true,88.42,93.87,true
+2023-08-16 13:19:21,Judi,Waggett,jwaggett6a@ask.com,Beer - Rickards Red,Games,direct,7009 American Ash Alley,Evansville,Indiana,47737,United States,false,67.35,34.09,false
+2023-01-04 00:11:49,Mavra,Petricek,mpetricek6b@parallels.com,"Wine - Mas Chicet Rose, Vintage",Health,direct,857 Dawn Alley,Colorado Springs,Colorado,80951,United States,true,38.04,42.93,true
+2023-09-02 13:03:43,Herbert,Reinert,hreinert6c@slate.com,Absolut Citron,Tools,video,9 Nancy Circle,Norman,Oklahoma,73071,United States,true,95.16,4.32,true
+2023-07-05 18:28:49,Godard,Merryweather,gmerryweather6d@hc360.com,"Nut - Pistachio, Shelled",Outdoors,promotions,8 Corben Parkway,Macon,Georgia,31296,United States,true,93.14,91.22,true
+2023-02-14 07:45:07,Silvio,Newvell,snewvell6e@sun.com,Milk - 1%,Kids,video,3704 Anzinger Way,Baltimore,Maryland,21290,United States,true,80.51,27.15,false
+2022-08-02 04:52:55,Donaugh,Klementz,dklementz6f@eventbrite.com,Butter - Unsalted,Clothing,paid social,7830 Thackeray Street,Saint Petersburg,Florida,33737,United States,false,89.02,50.25,true
+2022-03-09 05:58:09,Simmonds,Philipard,sphilipard6g@engadget.com,Veal - Nuckle,Computers,paid social,3275 Manufacturers Street,Palo Alto,California,94302,United States,true,19.88,21.74,false
+2023-06-23 08:15:32,Lida,Dellatorre,ldellatorre6h@nbcnews.com,Pineapple - Golden,Music,paid search,6364 Sloan Plaza,Macon,Georgia,31217,United States,true,57.96,3.04,true
+2022-11-29 19:51:28,Laina,Fontell,lfontell6i@dailymail.co.uk,Buffalo - Tenderloin,Baby,paid social,387 American Ash Center,El Paso,Texas,88584,United States,true,69.22,74.31,true
+2023-06-21 17:50:17,Loni,Leate,lleate6j@toplist.cz,Butter - Unsalted,Books,video,5 Kingsford Court,Scranton,Pennsylvania,18505,United States,true,97.06,11.65,false
+2022-03-17 00:21:22,Alicia,Gadeaux,agadeaux6k@nifty.com,Chutney Sauce,Tools,paid search,0092 Red Cloud Center,Arlington,Virginia,22234,United States,true,11.15,77.51,false
+2023-05-04 09:06:18,Darin,Gobourn,dgobourn6l@smh.com.au,"Wine - Red, Lurton Merlot De",Movies,mobile,282 Melby Road,Evansville,Indiana,47747,United States,true,15.5,91.0,true
+2022-03-13 04:04:21,Christine,Stickland,cstickland6m@usa.gov,Bagel - Everything Presliced,Tools,video,20 Dwight Crossing,Springfield,Illinois,62794,United States,true,56.38,32.25,true
+2023-06-11 21:48:48,Paolo,Colcomb,pcolcomb6n@ow.ly,Sole - Fillet,Movies,direct,3173 Briar Crest Plaza,Oklahoma City,Oklahoma,73179,United States,true,43.48,29.14,false
+2023-05-15 17:45:15,Neale,Nudde,nnudde6o@toplist.cz,Fireball Whisky,Home,video,87 Loeprich Drive,Pasadena,California,91199,United States,true,28.07,18.17,false
+2022-01-26 10:33:16,Rosmunda,Matchett,rmatchett6p@fc2.com,Marzipan 50/50,Music,paid social,60 Porter Court,Newport News,Virginia,23612,United States,true,97.17,10.27,false
+2023-03-27 01:47:30,Sidonia,Munn,smunn6q@theguardian.com,Wine - White Cab Sauv.on,Automotive,paid search,92253 Commercial Alley,Garden Grove,California,92645,United States,true,22.26,38.38,false
+2022-11-04 10:04:39,Keelby,Leaney,kleaney6r@desdev.cn,Beer - Camerons Cream Ale,Electronics,paid social,4769 Birchwood Street,Fort Wayne,Indiana,46867,United States,true,20.08,59.04,true
+2023-08-26 13:25:00,Giles,Ivanitsa,givanitsa6s@psu.edu,Beer - Upper Canada Lager,Electronics,mobile,964 Miller Point,Brooklyn,New York,11241,United States,true,33.25,20.02,true
+2022-06-11 19:18:36,Christabel,Ebbrell,cebbrell6t@cbsnews.com,Cheese - Cheddarsliced,Health,direct,56 Morrow Trail,Fort Pierce,Florida,34949,United States,true,89.52,22.67,false
+2023-04-18 07:04:44,Carole,Roman,croman6u@wix.com,Bread - Corn Muffaleta Onion,Outdoors,direct,78123 Sutteridge Circle,Sioux Falls,South Dakota,57188,United States,true,98.51,79.43,false
+2023-02-09 09:32:08,Zach,Bavridge,zbavridge6v@usnews.com,Cake - Cheese Cake 9 Inch,Electronics,video,7 Twin Pines Crossing,Lincoln,Nebraska,68531,United States,true,1.56,62.74,false
+2022-02-19 05:13:12,Dalis,Glozman,dglozman6w@taobao.com,Wine - Ruffino Chianti,Movies,mobile,51 Coleman Street,Naples,Florida,34102,United States,false,66.05,87.02,false
+2022-03-16 06:15:53,Gustavo,Bentz,gbentz6x@etsy.com,Chocolate Bar - Coffee Crisp,Outdoors,paid social,34289 Summer Ridge Parkway,Indianapolis,Indiana,46266,United States,true,20.85,19.66,true
+2023-01-24 21:47:26,Si,Robbert,srobbert6y@bigcartel.com,Curry Powder,Baby,video,950 Union Alley,Washington,District of Columbia,20430,United States,true,17.89,14.15,true
+2023-07-04 14:40:23,Kathe,Miles,kmiles6z@wordpress.com,"Bread - Roll, Italian",Beauty,mobile,2541 Crownhardt Hill,Sioux Falls,South Dakota,57110,United States,false,94.11,53.4,true
+2023-07-26 18:02:03,Kanya,Sudworth,ksudworth70@cnbc.com,Wine - Malbec Trapiche Reserve,Health,video,3956 Bartelt Way,Fresno,California,93704,United States,true,16.31,61.68,false
+2023-05-03 00:21:56,Noland,Annandale,nannandale71@google.es,Blueberries,Computers,video,172 Gerald Park,Panama City,Florida,32412,United States,true,80.43,57.1,false
+2022-11-26 06:27:11,Amii,Santore,asantore72@ucla.edu,Cheese - Mozzarella,Toys,paid search,0705 Rutledge Court,Houston,Texas,77070,United States,true,39.21,2.69,false
+2023-04-05 04:59:54,Sibella,Done,sdone73@wiley.com,Nescafe - Frothy French Vanilla,Home,direct,2324 School Plaza,Atlanta,Georgia,30368,United States,true,29.72,41.55,false
+2022-02-11 04:15:04,Baxy,Babber,bbabber74@foxnews.com,Truffle Cups - White Paper,Tools,paid social,08 Lunder Crossing,Tacoma,Washington,98442,United States,false,59.46,62.32,true
+2022-05-29 12:02:29,Christoper,Pointin,cpointin75@naver.com,Chinese Lemon Pork,Garden,video,524 1st Way,Colorado Springs,Colorado,80940,United States,true,54.14,20.97,false
+2023-01-05 21:35:03,Eugenio,Lowdeane,elowdeane76@over-blog.com,Dooleys Toffee,Games,paid social,34682 Kim Drive,Fayetteville,North Carolina,28305,United States,true,52.0,94.51,true
+2022-06-28 20:06:12,Max,Scapens,mscapens77@archive.org,Cheese - Brie Roitelet,Toys,direct,71 Meadow Ridge Trail,Newton,Massachusetts,02162,United States,true,15.18,58.47,false
+2023-08-16 23:36:03,Fan,Narducci,fnarducci78@fotki.com,"Trout - Rainbow, Frozen",Outdoors,video,5 Canary Plaza,Orlando,Florida,32808,United States,true,97.76,59.55,true
+2022-01-08 22:33:48,Paulina,Wynett,pwynett79@stumbleupon.com,Cream Of Tartar,Games,mobile,1 Forest Terrace,Clearwater,Florida,34620,United States,true,16.22,22.11,false
+2023-07-14 03:01:43,Mady,Mattosoff,mmattosoff7a@irs.gov,Vinegar - Rice,Health,paid social,4 Lukken Drive,Lubbock,Texas,79452,United States,true,80.83,31.88,true
+2023-08-04 06:58:10,Aurelie,Schwandermann,aschwandermann7b@t-online.de,"Potatoes - Yukon Gold, 80 Ct",Automotive,mobile,770 Pennsylvania Crossing,Anchorage,Alaska,99522,United States,true,5.72,11.64,true
+2022-08-02 05:19:42,Diane-marie,Pena,dpena7c@illinois.edu,"Wine - Red, Pelee Island Merlot",Sports,direct,162 Continental Pass,Charleston,West Virginia,25389,United States,true,1.84,18.26,true
+2022-09-13 11:20:15,Gene,Clemoes,gclemoes7d@purevolume.com,Ice Cream - Vanilla,Health,paid social,2 Erie Court,Baton Rouge,Louisiana,70820,United States,true,25.6,66.91,true
+2022-09-21 22:54:10,Stanwood,McKelvey,smckelvey7e@parallels.com,Jolt Cola,Garden,mobile,5 Clemons Road,Dayton,Ohio,45454,United States,true,96.49,83.64,false
+2022-08-26 05:07:59,Otis,Beton,obeton7f@github.com,"Pepper - Black, Ground",Music,paid search,88547 Burning Wood Junction,Los Angeles,California,90030,United States,false,58.57,99.21,false
+2022-11-28 15:33:50,Rollin,Helm,rhelm7g@ucla.edu,"Roe - Lump Fish, Red",Books,paid social,24 Columbus Center,Milwaukee,Wisconsin,53277,United States,true,92.32,79.19,false
+2023-05-19 23:54:05,Freddie,Pioch,fpioch7h@google.pl,Cape Capensis - Fillet,Clothing,video,78752 Garrison Point,Arlington,Virginia,22225,United States,false,58.07,4.53,false
+2022-08-15 17:04:52,Micah,Gomes,mgomes7i@pen.io,Glass Clear 8 Oz,Beauty,mobile,64830 Pearson Avenue,Boise,Idaho,83727,United States,true,83.97,62.28,true
+2023-02-16 03:38:52,Nona,Burchard,nburchard7j@twitpic.com,Cheese - Asiago,Beauty,paid search,8 Mosinee Street,Atlanta,Georgia,31119,United States,true,78.56,21.85,true
+2022-05-02 16:51:23,Eran,Piperley,epiperley7k@walmart.com,Dish Towel,Health,direct,72992 Northfield Circle,Pittsburgh,Pennsylvania,15250,United States,true,19.07,41.07,false
+2023-06-08 12:26:00,Isadore,Hanalan,ihanalan7l@sphinn.com,Salt And Pepper Mix - Black,Clothing,paid search,7 Thompson Center,Tampa,Florida,33647,United States,true,17.63,22.52,false
+2022-05-21 18:48:40,Penni,MacDonough,pmacdonough7m@shinystat.com,Praline Paste,Automotive,promotions,36 Dennis Point,Mesa,Arizona,85205,United States,true,27.59,62.21,true
+2023-01-27 22:00:55,Felicle,Weatherell,fweatherell7n@howstuffworks.com,Cheese - Roquefort Pappillon,Automotive,direct,15460 Harbort Junction,Wilkes Barre,Pennsylvania,18706,United States,true,36.72,58.99,false
+2022-08-26 21:24:51,Pippo,Burleigh,pburleigh7o@va.gov,Roe - Flying Fish,Automotive,paid search,4528 Brentwood Street,Portland,Maine,04109,United States,true,24.87,12.61,true
+2023-03-26 12:14:38,Romola,Geater,rgeater7p@china.com.cn,Gelatine Leaves - Envelopes,Jewelry,paid social,6648 Center Street,Aurora,Colorado,80015,United States,true,31.98,62.46,true
+2022-06-04 20:17:52,Trixy,Fransewich,tfransewich7q@moonfruit.com,"Chestnuts - Whole,canned",Kids,promotions,83 Springview Trail,San Antonio,Texas,78296,United States,true,3.15,68.94,true
+2022-12-16 06:31:03,Sharai,Baszniak,sbaszniak7r@flavors.me,Towel - Roll White,Tools,promotions,6947 Parkside Way,Sacramento,California,95852,United States,true,61.95,83.97,true
+2022-01-28 23:08:21,Kinnie,A'Barrow,kabarrow7s@wikimedia.org,Beef - Inside Round,Grocery,video,7 Grasskamp Avenue,Washington,District of Columbia,20067,United States,true,36.2,71.19,true
+2023-02-05 01:54:04,Yettie,Matysik,ymatysik7t@columbia.edu,Raisin - Golden,Home,video,8 2nd Park,Dallas,Texas,75241,United States,true,12.21,15.07,false
+2023-04-06 02:10:50,Coralie,Fearneley,cfearneley7u@harvard.edu,Pike - Frozen Fillet,Health,paid search,2224 Elgar Junction,Cleveland,Ohio,44125,United States,true,7.13,39.17,true
+2022-10-22 10:57:51,Tiffani,Churches,tchurches7v@cnbc.com,"Cup - 6oz, Foam",Music,video,3 Novick Plaza,Honolulu,Hawaii,96810,United States,true,34.97,78.02,false
+2023-10-20 07:19:17,Krysta,Belitz,kbelitz7w@google.ru,Wine - Black Tower Qr,Home,paid social,5 Eastlawn Court,Newark,Delaware,19714,United States,true,82.98,12.5,true
+2022-03-07 16:52:27,Tabby,Pheby,tpheby7x@icq.com,Sugar - Splenda Sweetener,Electronics,video,9 New Castle Pass,Kalamazoo,Michigan,49048,United States,true,26.44,20.53,false
+2022-03-27 06:55:19,Jard,McCleary,jmccleary7y@hugedomains.com,Sauce - Alfredo,Electronics,mobile,51 Anniversary Street,Omaha,Nebraska,68124,United States,true,37.44,50.8,true
+2023-03-19 18:25:37,Kelby,Arnell,karnell7z@google.co.uk,Longan,Jewelry,direct,23 3rd Lane,Jacksonville,Florida,32277,United States,true,84.4,64.85,false
+2022-12-01 23:06:54,Brynn,Danelut,bdanelut80@addtoany.com,Pastry - Baked Scones - Mini,Baby,direct,346 Carey Road,El Paso,Texas,79923,United States,true,16.22,9.16,false
+2023-08-19 16:29:49,Hilarius,Larkcum,hlarkcum81@issuu.com,Pork - Backs - Boneless,Shoes,promotions,1 Corscot Street,Irving,Texas,75062,United States,true,55.33,51.63,false
+2023-06-16 16:35:20,Berta,Franck,bfranck82@ifeng.com,Rice Paper,Grocery,video,19 Carioca Junction,Hampton,Virginia,23668,United States,true,85.39,83.19,false
+2022-01-11 22:31:57,Gabie,Le Clercq,gleclercq83@google.nl,Table Cloth 72x144 White,Music,promotions,0 8th Junction,Durham,North Carolina,27705,United States,true,7.63,65.76,true
+2023-10-28 12:02:12,Jeanelle,Mannagh,jmannagh84@lycos.com,Crab - Meat Combo,Toys,paid search,63765 Nevada Parkway,Omaha,Nebraska,68110,United States,true,46.87,3.05,true
+2022-10-09 19:07:52,Kalie,Lamas,klamas85@alibaba.com,Puree - Mocha,Beauty,video,5989 Linden Circle,Memphis,Tennessee,38109,United States,true,55.27,5.89,true
+2022-08-02 06:31:11,Tailor,Kegg,tkegg86@live.com,Chocolate Bar - Oh Henry,Jewelry,mobile,0 Reindahl Park,Fayetteville,North Carolina,28305,United States,true,92.27,62.19,false
+2022-01-15 09:25:35,Parry,Tumulty,ptumulty87@yellowbook.com,Calypso - Pineapple Passion,Grocery,mobile,8 Morningstar Pass,Jacksonville,Florida,32230,United States,true,64.88,16.19,false
+2022-09-17 09:19:34,Kit,Baldi,kbaldi88@gov.uk,"Yogurt - Raspberry, 175 Gr",Home,video,51589 Caliangt Center,Memphis,Tennessee,38143,United States,true,96.63,21.62,true
+2022-11-08 19:24:47,Korella,Costigan,kcostigan89@ustream.tv,Lettuce - Red Leaf,Shoes,promotions,43657 Kings Park,Montpelier,Vermont,05609,United States,true,43.35,72.43,true
+2023-03-28 05:58:47,Drusilla,Oxbury,doxbury8a@eepurl.com,Chicken - Bones,Jewelry,direct,1208 Shoshone Alley,Salt Lake City,Utah,84130,United States,true,86.31,53.83,true
+2022-05-28 07:32:21,Faunie,Wanklyn,fwanklyn8b@hud.gov,Nantucket - Carrot Orange,Computers,mobile,2 Ilene Plaza,Cleveland,Ohio,44191,United States,true,42.43,39.92,false
+2023-05-24 23:20:03,Wolf,Kingcott,wkingcott8c@reference.com,"Glass - Wine, Plastic, Clear 5 Oz",Music,mobile,65 Forest Dale Center,San Jose,California,95173,United States,true,81.06,49.38,true
+2022-12-01 06:53:23,Ranique,Mixon,rmixon8d@yellowpages.com,Filter - Coffee,Beauty,video,49559 Artisan Plaza,Round Rock,Texas,78682,United States,true,56.34,45.78,false
+2023-10-13 20:51:58,Madlin,Betham,mbetham8e@squidoo.com,Beef - Inside Round,Grocery,mobile,4120 Crowley Point,New Haven,Connecticut,06520,United States,true,96.44,18.19,true
+2023-05-13 07:16:49,Bale,Monget,bmonget8f@noaa.gov,Rabbit - Legs,Tools,mobile,96308 Summer Ridge Hill,Shawnee Mission,Kansas,66225,United States,false,42.89,55.54,true
+2022-03-30 01:41:08,Claudine,Latehouse,clatehouse8g@canalblog.com,Sunflower Seed Raw,Clothing,direct,592 Del Sol Hill,Rochester,New York,14639,United States,true,39.98,6.59,true
+2022-12-29 18:25:13,Christiana,Cuseick,ccuseick8h@woothemes.com,Water - Evian 355 Ml,Jewelry,promotions,082 7th Street,Dallas,Texas,75287,United States,true,79.76,36.36,false
+2022-04-29 03:07:37,Jaquenette,Children,jchildren8i@com.com,Lid Tray - 16in Dome,Shoes,paid search,03671 Truax Junction,Gatesville,Texas,76598,United States,true,65.94,56.59,true
+2023-01-25 14:11:38,Yvon,Hammerich,yhammerich8j@craigslist.org,Sobe - Orange Carrot,Outdoors,mobile,697 Straubel Drive,Fargo,North Dakota,58122,United States,true,91.53,78.61,true
+2022-02-10 07:27:10,Niels,Cheine,ncheine8k@ebay.co.uk,Truffle Shells - White Chocolate,Health,direct,5514 Oxford Park,Cumming,Georgia,30130,United States,true,96.37,30.36,false
+2022-04-06 11:27:15,Vitia,Albrighton,valbrighton8l@dedecms.com,Wine - Montecillo Rioja Crianza,Games,paid social,73497 Oriole Trail,Chicago,Illinois,60686,United States,true,28.0,50.31,true
+2022-12-23 17:46:59,Giacobo,Chazelle,gchazelle8m@msn.com,Coffee - Almond Amaretto,Sports,promotions,645 Granby Parkway,Sacramento,California,95838,United States,false,63.23,51.18,true
+2023-01-27 06:50:00,Braden,Flasby,bflasby8n@salon.com,Tea - Decaf 1 Cup,Toys,video,99 Hoffman Crossing,Baltimore,Maryland,21211,United States,true,62.49,82.25,false
+2023-05-03 18:59:52,Felipe,Garraway,fgarraway8o@wikimedia.org,Bread Crumbs - Panko,Computers,direct,114 Brentwood Drive,Milwaukee,Wisconsin,53205,United States,true,59.16,54.68,true
+2023-06-06 00:46:01,Morley,Quinevan,mquinevan8p@cargocollective.com,Pur Source,Electronics,mobile,5630 Schlimgen Terrace,Seattle,Washington,98158,United States,true,94.7,34.37,true
+2023-05-16 10:56:42,Archibald,Whitlam,awhitlam8q@mediafire.com,Onions - Spanish,Shoes,video,78 Jay Center,Washington,District of Columbia,20414,United States,true,71.56,97.52,false
+2023-03-02 07:40:18,Graig,Moggle,gmoggle8r@imageshack.us,Chocolate Bar - Oh Henry,Garden,video,78518 Superior Junction,Oklahoma City,Oklahoma,73167,United States,true,48.32,88.86,false
+2023-05-11 00:01:22,Horatia,Itzcovichch,hitzcovichch8s@seattletimes.com,Beer - Camerons Auburn,Computers,direct,57161 Dixon Crossing,Los Angeles,California,90060,United States,true,15.12,43.34,false
+2023-01-20 08:20:42,Gayel,Athey,gathey8t@ftc.gov,Table Cloth 72x144 White,Jewelry,paid search,931 Red Cloud Plaza,Saint Petersburg,Florida,33737,United States,true,13.23,23.48,true
+2022-03-20 05:41:17,Maryrose,Dallison,mdallison8u@omniture.com,Icecream Cone - Areo Chocolate,Kids,promotions,29 Mockingbird Junction,San Antonio,Texas,78260,United States,true,74.66,25.2,true
+2022-08-09 21:56:56,Mil,Clemoes,mclemoes8v@mapquest.com,Cilantro / Coriander - Fresh,Industrial,video,1114 Erie Alley,Wichita,Kansas,67215,United States,true,2.46,68.27,false
+2022-07-28 16:31:41,Latisha,Cassells,lcassells8w@51.la,Gherkin,Baby,promotions,3 Mosinee Pass,Winston Salem,North Carolina,27116,United States,true,75.87,48.96,false
+2022-09-26 15:48:11,Darren,Emanuel,demanuel8x@phpbb.com,"Wine - Saint - Bris 2002, Sauv",Sports,paid social,6 Elgar Avenue,New York City,New York,10029,United States,true,20.11,22.97,true
+2023-09-13 20:21:44,Franklin,Wessing,fwessing8y@parallels.com,Coffee Cup 8oz 5338cd,Tools,video,61 Homewood Place,Columbia,South Carolina,29220,United States,true,96.56,28.7,false
+2022-08-02 22:40:54,Donella,Koubu,dkoubu8z@hc360.com,Table Cloth 54x54 Colour,Books,paid search,36 Marquette Circle,Dayton,Ohio,45490,United States,true,10.41,41.1,false
+2022-10-15 21:34:39,Burgess,Crosseland,bcrosseland90@scribd.com,Flower - Daisies,Grocery,paid social,5 Donald Court,Greenville,South Carolina,29605,United States,true,63.86,88.92,true
+2023-07-18 21:10:26,Ginger,Ethersey,gethersey91@elpais.com,"Ranchero - Primerba, Paste",Shoes,video,2 Westport Park,Louisville,Kentucky,40225,United States,false,48.0,13.19,true
+2022-12-29 07:25:06,Carleton,Devigne,cdevigne92@hao123.com,"Soup - Knorr, French Onion",Toys,paid search,1189 South Circle,San Francisco,California,94116,United States,true,54.22,47.18,false
+2022-08-18 21:06:38,Pearl,Pegden,ppegden93@deviantart.com,Melon - Honey Dew,Baby,paid social,93074 Crescent Oaks Alley,Pittsburgh,Pennsylvania,15235,United States,true,21.2,51.56,true
+2022-04-09 02:32:56,Thorpe,Goublier,tgoublier94@nbcnews.com,Nori Sea Weed,Tools,mobile,91561 Union Trail,Des Moines,Iowa,50335,United States,true,74.62,28.24,true
+2022-09-18 15:55:42,Gregoire,Halfacre,ghalfacre95@hubpages.com,Soup - Verve - Chipotle Chicken,Clothing,promotions,2 Artisan Pass,Sarasota,Florida,34276,United States,true,13.06,68.73,false
+2022-09-28 05:29:44,Bev,Coatman,bcoatman96@is.gd,Filter - Coffee,Computers,mobile,5 Gerald Street,Oklahoma City,Oklahoma,73152,United States,true,11.08,40.8,false
+2022-01-19 17:07:31,Babara,Duncklee,bduncklee97@psu.edu,Beer - Sleemans Honey Brown,Books,mobile,0365 Vera Court,Canton,Ohio,44710,United States,true,89.34,26.11,true
+2022-06-28 06:36:47,Leena,Radin,lradin98@dion.ne.jp,Arizona - Plum Green Tea,Beauty,mobile,842 Dahle Circle,Duluth,Minnesota,55805,United States,true,86.41,14.94,false
+2022-10-03 05:33:30,Myron,Helliwell,mhelliwell99@sciencedirect.com,Potatoes - Mini Red,Computers,promotions,33651 Londonderry Place,Albuquerque,New Mexico,87105,United States,true,13.19,74.37,true
+2022-01-06 17:36:22,Allsun,Yukhov,ayukhov9a@github.com,Ecolab - Medallion,Kids,paid social,80 Menomonie Park,Clearwater,Florida,34615,United States,true,30.48,29.61,true
+2022-04-04 22:02:31,Daryn,Dunstan,ddunstan9b@blog.com,Cups 10oz Trans,Sports,direct,2596 Portage Park,Milwaukee,Wisconsin,53210,United States,true,30.03,28.51,false
+2022-06-22 18:05:11,Quinlan,Gooddy,qgooddy9c@google.ru,Venison - Denver Leg Boneless,Music,paid social,738 American Ash Terrace,Sarasota,Florida,34233,United States,true,3.71,25.98,true
+2023-07-26 01:08:19,Shayla,Casari,scasari9d@home.pl,Sprouts - Corn,Jewelry,mobile,9 Service Place,San Jose,California,95138,United States,true,65.7,11.14,false
+2022-08-19 18:56:04,Glennie,Bartosiak,gbartosiak9e@acquirethisname.com,Extract - Almond,Computers,video,51068 Lillian Pass,Cincinnati,Ohio,45213,United States,true,35.03,34.77,true
+2022-01-18 10:06:06,Matthew,Furzey,mfurzey9f@cnbc.com,Fireball Whisky,Games,promotions,15103 Gerald Parkway,Bellevue,Washington,98008,United States,true,46.57,99.86,false
+2023-09-05 16:58:12,Kermy,Ebbings,kebbings9g@alibaba.com,"Wine - White, Chardonnay",Beauty,paid social,13374 Eastlawn Place,Seattle,Washington,98133,United States,true,99.05,79.79,true
+2022-01-23 15:21:41,Scot,Pays,spays9h@whitehouse.gov,Food Colouring - Green,Music,video,05 Maple Wood Pass,Saint Louis,Missouri,63158,United States,true,39.38,47.3,false
+2022-08-23 12:01:46,Jacqui,Maryman,jmaryman9i@tinypic.com,Lid Tray - 16in Dome,Health,video,95 Northwestern Center,Melbourne,Florida,32919,United States,true,89.69,11.39,true
+2023-07-16 02:23:33,Torin,Wildman,twildman9j@rediff.com,Lambcasing,Jewelry,paid search,8 Cascade Lane,Clearwater,Florida,34620,United States,true,68.27,62.19,true
+2023-01-17 19:42:11,Sofia,Lacroix,slacroix9k@opera.com,"Bag - Bread, White, Plain",Games,paid search,223 Lakeland Point,Clearwater,Florida,33763,United States,false,89.48,19.42,false
+2023-10-28 10:51:07,Nonnah,McKevany,nmckevany9l@behance.net,"Crush - Orange, 355ml",Kids,video,24191 Hoepker Point,Birmingham,Alabama,35244,United States,false,82.11,78.54,false
+2022-01-10 14:09:56,Joannes,Quogan,jquogan9m@myspace.com,"Yogurt - Strawberry, 175 Gr",Home,promotions,0431 Messerschmidt Crossing,Rochester,New York,14639,United States,false,42.62,67.1,false
+2023-07-20 03:33:32,Claudius,Vardon,cvardon9n@apple.com,Spice - Greek 1 Step,Health,paid social,2 Buell Crossing,Colorado Springs,Colorado,80935,United States,true,16.14,94.13,true
+2022-05-24 07:06:51,Merrile,Dunford,mdunford9o@issuu.com,Artichokes - Jerusalem,Shoes,mobile,19056 Eastlawn Terrace,Honolulu,Hawaii,96825,United States,true,99.58,41.31,false
+2023-09-06 12:55:52,Ilysa,Dach,idach9p@google.fr,Soup - Campbells Beef Noodle,Clothing,direct,075 Petterle Terrace,Bethesda,Maryland,20892,United States,true,97.84,27.23,true
+2022-12-11 17:58:04,Bartie,Dockrill,bdockrill9q@ucsd.edu,Sesame Seed,Clothing,video,299 Ridgeview Street,Brooklyn,New York,11210,United States,true,86.72,18.16,false
+2022-03-31 01:53:21,Norrie,Jannex,njannex9r@wp.com,Wood Chips - Regular,Electronics,paid social,15955 Mallard Center,Lakeland,Florida,33811,United States,false,61.8,76.19,false
+2023-03-28 18:38:17,Brigida,Semarke,bsemarke9s@usda.gov,Wine - Rioja Campo Viejo,Toys,paid social,20 Shasta Park,San Diego,California,92121,United States,true,33.28,7.33,false
+2022-12-08 00:01:45,Vallie,MacInherney,vmacinherney9t@lulu.com,Wasabi Powder,Automotive,paid social,0267 Goodland Road,Kansas City,Missouri,64193,United States,true,8.79,85.11,false
+2023-09-29 00:47:36,Wenona,Dinning,wdinning9u@europa.eu,Curry Powder,Kids,promotions,94 Garrison Terrace,Orlando,Florida,32885,United States,true,45.0,97.5,false
+2023-04-25 17:07:31,Gasper,Aldham,galdham9v@hatena.ne.jp,Hot Choc Vending,Health,video,0 Fair Oaks Plaza,Anderson,Indiana,46015,United States,true,2.91,61.22,false
+2022-01-10 15:48:44,Erasmus,Lovat,elovat9w@bbb.org,"Juice - Tomato, 10 Oz",Grocery,mobile,252 Claremont Center,Jackson,Mississippi,39236,United States,true,13.31,85.54,false
+2022-03-15 17:03:15,Carlynn,Counter,ccounter9x@de.vu,Squid - U - 10 Thailand,Sports,mobile,74625 American Pass,Salt Lake City,Utah,84120,United States,true,20.24,40.59,true
+2023-02-06 20:02:33,Lorilyn,Manger,lmanger9y@addtoany.com,Sauce - Caesar Dressing,Games,paid search,9365 Maywood Avenue,El Paso,Texas,79905,United States,true,93.68,56.61,true
+2023-05-06 00:19:30,Lark,Davidovic,ldavidovic9z@theatlantic.com,Sambuca Cream,Automotive,paid search,7405 Crowley Street,Las Vegas,Nevada,89110,United States,false,52.43,83.54,false
+2022-05-02 05:27:32,Conchita,Amiable,camiablea0@hud.gov,Soup Campbells,Garden,video,9 Marquette Lane,Jackson,Mississippi,39296,United States,true,42.03,82.84,true
+2022-08-17 16:18:44,Darryl,Blumer,dblumera1@rakuten.co.jp,Chick Peas - Dried,Shoes,paid social,7 Doe Crossing Point,Miami,Florida,33196,United States,true,84.88,89.98,true
+2022-11-23 18:32:58,Noel,Dingley,ndingleya2@nih.gov,Pork - Smoked Kassler,Kids,promotions,22665 David Trail,Providence,Rhode Island,02912,United States,true,93.82,39.59,false
+2022-03-08 02:10:23,Marsh,Hardy-Piggin,mhardypiggina3@mediafire.com,Fondant - Icing,Health,paid search,26212 Schurz Hill,Atlanta,Georgia,31165,United States,true,11.89,2.19,false
+2022-12-20 19:14:27,Florance,Strond,fstronda4@parallels.com,Salt - Celery,Health,direct,3440 Novick Avenue,Jamaica,New York,11436,United States,true,51.35,89.51,false
+2022-08-25 01:31:11,Alfredo,Huge,ahugea5@cocolog-nifty.com,Sponge Cake Mix - Vanilla,Grocery,direct,8 Jenifer Parkway,Saint Paul,Minnesota,55146,United States,true,30.63,23.67,true
+2023-02-06 01:22:48,Avril,Filippazzo,afilippazzoa6@surveymonkey.com,Chinese Foods - Plain Fried Rice,Industrial,promotions,080 Hermina Way,Springfield,Illinois,62711,United States,true,94.3,79.17,false
+2023-08-01 08:07:40,Bekki,Mularkey,bmularkeya7@edublogs.org,Foam Espresso Cup Plain White,Shoes,mobile,46829 Oak Street,Cincinnati,Ohio,45213,United States,true,52.17,81.05,false
+2023-04-27 04:53:24,Cleveland,Manis,cmanisa8@miitbeian.gov.cn,Wine - Baron De Rothschild,Tools,video,83 Delaware Court,Saint Petersburg,Florida,33715,United States,true,17.78,91.01,false
+2022-09-17 11:09:41,Nona,Jaffra,njaffraa9@cnn.com,"Wine - White, Riesling, Henry Of",Health,mobile,10777 Dryden Terrace,San Jose,California,95113,United States,true,49.31,15.68,false
+2023-10-05 11:24:41,Jocko,Bracchi,jbracchiaa@cbsnews.com,Onions - Spanish,Tools,paid social,92 Eastwood Court,Tacoma,Washington,98464,United States,true,37.36,49.67,true
+2022-02-12 04:59:47,Christos,Simeons,csimeonsab@ebay.co.uk,Soup Campbells Split Pea And Ham,Books,mobile,9416 Brown Hill,Muncie,Indiana,47306,United States,true,15.37,83.69,true
+2023-03-01 19:35:58,Sherilyn,Eglaise,seglaiseac@github.io,Brandy - Bar,Kids,promotions,49 Sachs Park,Palmdale,California,93591,United States,true,80.42,71.67,false
+2022-12-12 23:57:13,Edy,Geane,egeanead@nytimes.com,Wine - Riesling Alsace Ac 2001,Grocery,paid social,0655 Saint Paul Junction,San Francisco,California,94116,United States,true,23.03,88.93,true
+2023-05-20 20:43:39,Audrey,Holbarrow,aholbarrowae@tuttocitta.it,"Sugar - Brown, Individual",Baby,mobile,9355 Elka Park,San Diego,California,92145,United States,true,41.67,18.67,false
+2022-04-20 16:14:18,Rosanne,Newland,rnewlandaf@paypal.com,"Stock - Chicken, White",Computers,paid search,6 Pankratz Trail,Virginia Beach,Virginia,23459,United States,true,19.34,85.28,false
+2022-07-27 01:56:21,Shannah,Ace,saceag@studiopress.com,Sauce - Alfredo,Jewelry,paid social,03633 Haas Road,Tampa,Florida,33605,United States,true,17.63,83.27,false
+2022-08-25 08:41:03,Reynolds,Gaiger,rgaigerah@lulu.com,Chicken Giblets,Health,video,0 Lukken Crossing,Wichita,Kansas,67205,United States,true,22.32,60.27,true
+2023-07-03 12:43:33,Arie,Balke,abalkeai@microsoft.com,Sea Urchin,Beauty,video,62202 Sloan Hill,Omaha,Nebraska,68105,United States,true,18.47,36.17,false
+2022-05-30 20:47:45,Nisse,Kneesha,nkneeshaaj@ezinearticles.com,Milk - Chocolate 250 Ml,Shoes,paid social,244 Elka Drive,Spring Hill,Florida,34611,United States,true,92.58,57.3,true
+2023-08-28 22:04:56,Dacy,Birden,dbirdenak@meetup.com,Onions - Pearl,Garden,video,85 2nd Lane,Boise,Idaho,83757,United States,true,97.16,95.45,false
+2023-01-31 01:44:44,Emelina,Fiorentino,efiorentinoal@nationalgeographic.com,"Chicken - Leg, Boneless",Toys,mobile,15 Little Fleur Hill,Iowa City,Iowa,52245,United States,true,10.5,18.15,false
+2022-07-13 01:27:50,Phineas,Draisey,pdraiseyam@mit.edu,Fuji Apples,Music,video,17198 1st Pass,Chicago,Illinois,60669,United States,true,30.12,84.18,true
+2022-08-26 04:15:02,Marillin,Treven,mtrevenan@addthis.com,Tea - Herbal Sweet Dreams,Computers,mobile,17354 Corry Trail,Boulder,Colorado,80310,United States,true,26.13,50.75,true
+2023-06-09 12:25:49,Antonius,Mugridge,amugridgeao@intel.com,Cookie Dough - Double,Books,direct,03597 Lunder Terrace,Portsmouth,Virginia,23705,United States,true,76.72,51.69,true
+2022-05-29 22:33:49,Clive,Kirsz,ckirszap@github.com,"Lemonade - Black Cherry, 591 Ml",Electronics,mobile,06279 Northview Plaza,San Diego,California,92170,United States,true,61.62,24.6,true
+2022-05-22 20:25:25,Christalle,Botton,cbottonaq@hostgator.com,Skirt - 24 Foot,Health,video,60667 Fairfield Center,Pasadena,California,91125,United States,true,48.53,1.12,true
+2023-01-03 13:50:25,Lazar,Tschursch,ltschurschar@wisc.edu,Flour - Teff,Beauty,video,97029 Clemons Avenue,Dallas,Texas,75397,United States,true,93.76,50.47,false
+2022-08-15 08:04:47,Gearard,Berks,gberksas@amazon.de,Pepper - Red Chili,Computers,video,45878 Killdeer Trail,Wichita Falls,Texas,76305,United States,true,57.14,19.91,false
+2023-08-06 00:57:30,Marieann,Quixley,mquixleyat@wordpress.org,Juice - Ocean Spray Kiwi,Outdoors,direct,45 North Terrace,Frederick,Maryland,21705,United States,true,8.35,88.49,true
+2023-05-29 06:51:39,Nickey,Martill,nmartillau@chicagotribune.com,Vegetable - Base,Kids,direct,4301 High Crossing Drive,New Orleans,Louisiana,70160,United States,true,52.05,81.91,true
+2023-09-06 12:33:32,Loraine,Gillyatt,lgillyattav@histats.com,Lettuce - Lolla Rosa,Home,video,3 Ryan Terrace,Roanoke,Virginia,24040,United States,true,69.46,46.92,true
+2023-05-23 19:54:01,Tabbi,Stride,tstrideaw@webeden.co.uk,Table Cloth 54x72 White,Automotive,mobile,51288 Weeping Birch Pass,Pompano Beach,Florida,33075,United States,true,14.78,64.17,false
+2023-05-17 10:28:43,Bond,Brackstone,bbrackstoneax@fastcompany.com,Coffee - Dark Roast,Grocery,video,6 Susan Court,Houston,Texas,77293,United States,true,59.05,10.69,false
+2022-02-24 21:51:24,Brendon,Bauldrey,bbauldreyay@ftc.gov,Lamb - Shanks,Books,promotions,9 East Park,Baltimore,Maryland,21265,United States,true,20.47,65.08,true
+2022-08-13 17:43:41,Zahara,Tirrey,ztirreyaz@edublogs.org,"Vermacelli - Sprinkles, Assorted",Baby,mobile,371 Blackbird Avenue,Boston,Massachusetts,02119,United States,false,10.2,64.46,false
+2022-01-17 03:24:07,Corry,Mallon,cmallonb0@abc.net.au,Wine - Rosso Toscano Igt,Home,mobile,02 Miller Plaza,Dayton,Ohio,45440,United States,true,31.44,42.97,true
+2023-08-19 00:13:44,Alicea,Danhel,adanhelb1@ifeng.com,Scallops - In Shell,Industrial,direct,83 Heffernan Junction,New York City,New York,10275,United States,true,17.05,86.19,false
+2022-05-14 10:37:23,Consolata,Kleinschmidt,ckleinschmidtb2@wordpress.com,Beef - Tenderloin Tails,Baby,direct,8266 Laurel Place,Austin,Texas,78778,United States,true,11.74,47.79,true
+2022-06-14 08:01:40,Ab,Dunne,adunneb3@tuttocitta.it,Drambuie,Grocery,paid search,9 Cottonwood Parkway,Little Rock,Arkansas,72215,United States,true,80.11,8.54,false
+2023-01-19 03:14:01,Nikola,Lettley,nlettleyb4@g.co,Blackberries,Jewelry,paid social,2139 New Castle Terrace,Reston,Virginia,22096,United States,false,74.05,78.68,false
+2022-10-04 10:02:55,Clarine,Blackway,cblackwayb5@weather.com,Appetizer - Tarragon Chicken,Home,direct,382 Kim Terrace,Carson City,Nevada,89706,United States,true,25.36,52.75,false
+2022-04-21 18:30:14,Alisander,Linnard,alinnardb6@etsy.com,Bagel - Ched Chs Presliced,Baby,direct,13601 Garrison Terrace,Los Angeles,California,90010,United States,true,42.51,54.63,true
+2023-08-07 20:28:19,Kaia,Goulthorp,kgoulthorpb7@webeden.co.uk,Table Cloth 62x120 Colour,Automotive,mobile,798 Monument Alley,Oakland,California,94622,United States,true,61.85,52.13,true
+2023-09-24 04:16:47,Yolane,MacKain,ymackainb8@4shared.com,Cake - Pancake,Grocery,paid search,4 Springview Park,Mobile,Alabama,36670,United States,true,2.16,16.75,true
+2023-08-06 17:22:56,Brynna,Allchorn,ballchornb9@hud.gov,Dill Weed - Dry,Health,paid search,87995 Columbus Parkway,Washington,District of Columbia,20557,United States,true,4.1,49.06,false
+2022-08-06 01:33:51,Friederike,Eggleston,fegglestonba@histats.com,Bread Bowl Plain,Kids,promotions,9009 New Castle Pass,Elmira,New York,14905,United States,true,24.6,80.14,false
+2022-03-26 16:29:11,Vivienne,Minmagh,vminmaghbb@cbsnews.com,Bread Sour Rolls,Beauty,paid search,9 Village Green Terrace,Pensacola,Florida,32575,United States,true,29.52,26.45,false
+2022-03-12 14:47:25,Troy,Case,tcasebc@linkedin.com,Shichimi Togarashi Peppeers,Garden,paid social,7919 Corben Way,Huntington,West Virginia,25770,United States,true,86.25,32.38,true
+2022-02-12 03:42:23,Ardene,Brain,abrainbd@prnewswire.com,Tomato Paste,Toys,promotions,04 Cordelia Trail,Cincinnati,Ohio,45223,United States,true,72.91,65.31,false
+2023-10-22 08:43:15,Jaime,Duly,jdulybe@cbc.ca,Bread - Raisin Walnut Oval,Games,paid search,9 Kennedy Drive,Arlington,Texas,76011,United States,false,27.77,60.89,true
+2022-02-25 21:37:47,Mordy,Gianolo,mgianolobf@latimes.com,"Fish - Soup Base, Bouillon",Games,promotions,87729 Portage Circle,Topeka,Kansas,66606,United States,true,52.15,25.58,false
+2023-07-01 00:05:25,Leeanne,Rumble,lrumblebg@netvibes.com,"Soup - Campbells, Lentil",Electronics,promotions,3092 Barnett Park,Shreveport,Louisiana,71151,United States,true,63.22,83.61,true
+2022-03-06 07:39:57,Jilli,Helstrom,jhelstrombh@typepad.com,Soup - Cream Of Potato / Leek,Electronics,paid search,99545 Daystar Crossing,San Jose,California,95155,United States,true,94.32,47.2,true
+2023-01-17 18:54:41,Brooks,Jury,bjurybi@godaddy.com,Chocolate - White,Baby,paid search,9 Prairieview Trail,Rochester,New York,14609,United States,false,88.16,51.98,false
+2022-05-05 05:13:01,Laureen,Fakes,lfakesbj@gravatar.com,Cinnamon - Stick,Garden,paid search,06 Brentwood Junction,Washington,District of Columbia,20231,United States,false,23.09,20.57,true
+2022-10-17 14:07:27,Shae,Shark,ssharkbk@bloglovin.com,"Sauce - Apple, Unsweetened",Electronics,video,66569 Pennsylvania Way,Grand Junction,Colorado,81505,United States,true,50.21,88.2,true
+2023-05-18 12:06:10,Bengt,Thow,bthowbl@chron.com,Beef - Ground Medium,Health,paid social,1 Knutson Place,Pensacola,Florida,32595,United States,true,22.04,68.28,false
+2022-06-21 00:37:38,Hilde,Wilks,hwilksbm@mozilla.com,Crush - Cream Soda,Books,video,2 Summerview Point,Monroe,Louisiana,71208,United States,true,14.34,69.83,false
+2023-05-16 03:57:08,Tucky,Tart,ttartbn@slideshare.net,Beef - Tenderloin Tails,Music,promotions,15740 Monument Alley,Peoria,Arizona,85383,United States,false,87.06,45.7,true
+2022-04-08 19:39:16,Felisha,Phizakarley,fphizakarleybo@ucla.edu,"Cheese - Cheddar, Medium",Books,paid search,90 Bultman Parkway,Wilkes Barre,Pennsylvania,18768,United States,true,53.97,95.38,false
+2022-06-11 16:48:04,Lizbeth,Abisetti,labisettibp@yandex.ru,Truffle Cups - Brown,Health,paid social,3 Lillian Alley,San Diego,California,92115,United States,true,15.73,27.16,true
+2022-11-20 01:10:15,Roderick,Mellon,rmellonbq@mozilla.com,Beer - Molson Excel,Shoes,paid search,8 Northview Center,New York City,New York,10045,United States,true,96.21,25.16,false
+2023-07-05 14:23:14,Blake,Penhalewick,bpenhalewickbr@yahoo.com,Pepper - Cayenne,Toys,paid search,0525 Forest Run Terrace,White Plains,New York,10633,United States,true,29.27,7.72,true
+2023-06-26 22:24:26,Gisella,Dobrowlski,gdobrowlskibs@oakley.com,"Pail - 4l White, With Handle",Tools,paid social,01962 Victoria Lane,Lubbock,Texas,79491,United States,true,67.6,9.29,true
+2022-12-21 05:33:23,Bowie,Able,bablebt@twitter.com,Cornflakes,Music,direct,61510 Clarendon Park,Wichita,Kansas,67236,United States,true,99.32,61.62,false
+2023-09-25 03:05:33,Ichabod,Cossem,icossembu@wp.com,Soup - Campbells - Chicken Noodle,Electronics,video,79 Montana Plaza,Pittsburgh,Pennsylvania,15240,United States,true,48.55,86.3,false
+2022-05-09 14:27:36,Zaccaria,Wordington,zwordingtonbv@artisteer.com,"Quail - Eggs, Fresh",Tools,paid social,5835 Bellgrove Alley,Portland,Oregon,97221,United States,true,1.86,58.56,true
+2023-03-29 10:58:13,Hall,Waud,hwaudbw@dropbox.com,Tomatoes - Cherry,Home,promotions,201 Laurel Park,Oklahoma City,Oklahoma,73167,United States,false,47.38,15.54,false
+2022-10-22 16:38:48,Cobbie,Yakunchikov,cyakunchikovbx@archive.org,Flour Pastry Super Fine,Automotive,mobile,6 Northfield Center,Austin,Texas,78749,United States,true,70.97,44.6,false
+2023-03-12 16:09:57,Junette,Truin,jtruinby@multiply.com,Milk - Skim,Shoes,direct,27 Laurel Crossing,Houston,Texas,77090,United States,true,28.99,93.99,true
+2023-10-09 00:22:49,Martita,Spraggs,mspraggsbz@narod.ru,"Bread - Roll, Calabrese",Kids,mobile,1 Morningstar Way,Washington,District of Columbia,20238,United States,false,44.17,70.15,false
+2023-09-14 00:14:59,Toddy,Burborough,tburboroughc0@google.cn,Salmon Steak - Cohoe 6 Oz,Sports,promotions,0 Aberg Avenue,Winston Salem,North Carolina,27157,United States,false,37.41,63.43,false
+2022-05-28 04:42:16,Matt,Stanion,mstanionc1@java.com,Octopus,Home,video,2 Gina Drive,Santa Barbara,California,93150,United States,false,80.93,17.14,false
+2022-05-22 20:35:54,Ronica,Berger,rbergerc2@livejournal.com,"Trout - Rainbow, Frozen",Toys,paid social,0673 Namekagon Park,Raleigh,North Carolina,27615,United States,true,76.84,20.68,true
+2023-08-14 09:06:27,Sigismundo,Larder,slarderc3@army.mil,English Muffin,Health,mobile,6 Fairfield Parkway,Midland,Texas,79710,United States,true,5.4,76.43,true
+2023-08-24 17:49:44,Gwendolen,McGourty,gmcgourtyc4@blinklist.com,Salami - Genova,Clothing,promotions,34521 Dennis Avenue,Lehigh Acres,Florida,33972,United States,true,20.42,93.62,true
+2022-09-12 20:52:04,Barth,Gabbott,bgabbottc5@goo.ne.jp,Mayonnaise - Individual Pkg,Movies,promotions,1464 Del Sol Lane,Little Rock,Arkansas,72222,United States,true,34.17,48.1,true
+2023-06-24 13:17:02,Ricki,Dorbon,rdorbonc6@usda.gov,Shiratamako - Rice Flour,Computers,paid search,02388 Hintze Court,San Antonio,Texas,78245,United States,true,42.84,47.79,true
+2022-10-26 13:17:50,Blake,McKechnie,bmckechniec7@mapquest.com,Carbonated Water - Peach,Electronics,paid search,4 Carioca Alley,Philadelphia,Pennsylvania,19146,United States,true,88.65,32.54,false
+2022-07-06 09:01:32,Francoise,Bramble,fbramblec8@123-reg.co.uk,"Tuna - Canned, Flaked, Light",Jewelry,video,4 Holy Cross Point,Springfield,Illinois,62794,United States,true,98.88,1.27,true
+2023-06-03 09:44:41,Amargo,Lowen,alowenc9@utexas.edu,Sage - Ground,Books,paid social,26050 Spenser Avenue,Chicago,Illinois,60697,United States,true,11.19,38.6,false
+2022-05-21 21:08:27,Marje,Shropsheir,mshropsheirca@mail.ru,Fish - Bones,Movies,paid social,6690 Ohio Place,Englewood,Colorado,80150,United States,true,62.99,70.78,true
+2023-05-07 22:17:00,Ric,MacInherney,rmacinherneycb@squidoo.com,Shrimp - Black Tiger 16/20,Home,direct,623 Bayside Lane,Columbia,Missouri,65218,United States,true,48.24,90.2,false
+2022-10-24 23:26:31,Erena,Labden,elabdencc@vistaprint.com,Kohlrabi,Books,video,41651 Forster Circle,Houston,Texas,77271,United States,true,8.37,17.89,true
+2023-01-24 11:31:42,Mayer,Toppin,mtoppincd@constantcontact.com,"Cake Circle, Foil, Scallop",Grocery,mobile,2755 Steensland Drive,Austin,Texas,78715,United States,true,80.47,98.6,false
+2022-07-24 06:04:27,Leonora,Balshaw,lbalshawce@de.vu,"Soup - Campbells, Lentil",Jewelry,promotions,8679 Arkansas Plaza,San Antonio,Texas,78205,United States,true,21.36,44.78,true
+2023-08-24 00:35:02,Ellswerth,Southeran,esoutherancf@nifty.com,Water - Evian 355 Ml,Music,promotions,863 Ridgeview Plaza,Madison,Wisconsin,53726,United States,true,72.18,37.49,false
+2022-08-16 08:51:54,Harper,Walthew,hwalthewcg@vimeo.com,"Salt - Rock, Course",Beauty,direct,114 Talisman Point,Huntington,West Virginia,25770,United States,true,61.87,3.83,true
+2022-10-03 19:03:32,Antonia,Wellstead,awellsteadch@washington.edu,Tumeric,Sports,promotions,6610 Bunting Trail,Loretto,Minnesota,55598,United States,true,62.64,14.44,false
+2022-05-20 23:50:46,Bea,Carpmile,bcarpmileci@yolasite.com,Cheese - Stilton,Movies,paid social,87 Hooker Terrace,White Plains,New York,10633,United States,true,75.58,91.57,true
+2022-07-17 16:24:32,Susy,Worman,swormancj@blog.com,Pastry - Cherry Danish - Mini,Outdoors,video,439 Montana Street,Grand Forks,North Dakota,58207,United States,true,81.37,69.62,true
+2023-08-26 18:16:15,Marian,Brammar,mbrammarck@de.vu,Basil - Seedlings Cookstown,Health,video,95715 Kim Hill,Silver Spring,Maryland,20918,United States,true,16.77,74.63,true
+2022-03-01 05:16:44,Stormi,Francello,sfrancellocl@whitehouse.gov,Capers - Pickled,Games,paid social,749 Corscot Junction,Birmingham,Alabama,35220,United States,true,39.07,20.0,false
+2022-01-29 10:27:56,Chelsae,Arnecke,carneckecm@princeton.edu,Wine - Jaboulet Cotes Du Rhone,Tools,mobile,67 Bluestem Alley,El Paso,Texas,79989,United States,true,86.91,28.18,false
+2023-07-21 18:30:48,Gertrude,Elms,gelmscn@printfriendly.com,"Brandy - Orange, Mc Guiness",Movies,paid social,11 Charing Cross Parkway,Portland,Oregon,97296,United States,false,91.02,65.46,true
+2022-03-08 23:11:12,Borg,Lendrem,blendremco@omniture.com,Tea Peppermint,Tools,video,208 Roth Road,Boise,Idaho,83722,United States,true,72.21,52.69,true
+2023-04-28 05:18:19,Enrica,Lashmore,elashmorecp@merriam-webster.com,Nantucket Apple Juice,Outdoors,paid social,06283 Melby Trail,Baltimore,Maryland,21239,United States,true,6.78,12.24,true
+2022-11-22 00:43:05,Brynna,Garham,bgarhamcq@booking.com,Tea - English Breakfast,Movies,paid social,69435 Messerschmidt Plaza,San Francisco,California,94147,United States,true,41.11,17.02,false
+2022-09-01 01:46:14,Agathe,Gilston,agilstoncr@opensource.org,Pineapple - Regular,Games,paid search,93665 Crownhardt Hill,Shawnee Mission,Kansas,66215,United States,true,51.43,46.14,true
+2022-05-17 00:32:02,Wallie,Teager,wteagercs@addthis.com,Dc Hikiage Hira Huba,Shoes,video,0 Kropf Lane,Wilmington,North Carolina,28410,United States,true,86.46,62.36,true
+2023-03-12 22:14:40,Vonni,Woan,vwoanct@webeden.co.uk,"Trout - Hot Smkd, Dbl Fillet",Industrial,video,941 Elka Lane,Milwaukee,Wisconsin,53277,United States,true,87.17,23.78,false
+2023-09-07 10:20:22,Tyne,Kendle,tkendlecu@ihg.com,Puree - Guava,Beauty,direct,6961 Manitowish Way,San Francisco,California,94177,United States,true,91.38,53.52,false
+2022-03-24 08:42:41,Kenon,Fulk,kfulkcv@ezinearticles.com,Ice Cream - Strawberry,Automotive,promotions,07 Golf View Road,Fort Lauderdale,Florida,33320,United States,true,3.42,7.91,true
+2023-10-19 05:19:46,Burr,Besse,bbessecw@blog.com,Versatainer Nc - 8288,Industrial,mobile,0060 Swallow Parkway,Beaverton,Oregon,97075,United States,true,98.83,79.9,false
+2023-10-05 09:37:43,Tristan,Pickerin,tpickerincx@va.gov,"Pasta - Canelloni, Single Serve",Baby,promotions,144 Miller Point,Louisville,Kentucky,40256,United States,true,71.49,21.94,false
+2022-11-26 12:48:30,Annette,Grinyer,agrinyercy@boston.com,Milk 2% 500 Ml,Music,paid social,72 Charing Cross Terrace,Louisville,Kentucky,40298,United States,false,23.67,8.15,true
+2023-04-04 14:14:44,Trina,Di Francesco,tdifrancescocz@google.de,Wine - Piper Heidsieck Brut,Industrial,paid search,3 Larry Hill,Appleton,Wisconsin,54915,United States,true,61.62,47.06,true
+2023-01-31 03:06:55,Wallis,Cawthera,wcawtherad0@symantec.com,"Bread - Dark Rye, Loaf",Sports,promotions,681 Glendale Drive,Tampa,Florida,33673,United States,false,24.65,89.07,false
+2023-06-03 09:32:40,Babara,Blackett,bblackettd1@gov.uk,Sole - Fillet,Computers,paid search,023 Macpherson Trail,Pittsburgh,Pennsylvania,15286,United States,true,68.68,14.42,false
+2022-11-16 23:05:24,Lenette,Magill,lmagilld2@dagondesign.com,Dried Apple,Jewelry,promotions,63 Ohio Circle,Miami,Florida,33283,United States,false,27.97,66.61,true
+2023-07-19 18:36:56,Sandra,Escala,sescalad3@businesswire.com,Calypso - Strawberry Lemonade,Baby,paid social,87662 Magdeline Avenue,Kansas City,Missouri,64130,United States,true,26.27,37.82,true
+2023-07-07 12:24:56,Claudette,Lory,cloryd4@msu.edu,Oil - Sunflower,Music,paid search,52294 Becker Crossing,Hartford,Connecticut,06183,United States,true,52.68,84.95,true
+2022-12-23 01:39:51,Lancelot,Farndell,lfarndelld5@auda.org.au,Syrup - Chocolate,Books,paid social,83248 Lunder Lane,Green Bay,Wisconsin,54313,United States,true,93.49,18.84,false
+2022-07-30 20:42:10,Harmonie,Limbert,hlimbertd6@paypal.com,Chicken - Soup Base,Computers,paid search,04545 Lakeland Terrace,Wilkes Barre,Pennsylvania,18706,United States,true,58.96,14.31,true
+2022-09-16 00:03:09,Luelle,Morter,lmorterd7@soup.io,Anchovy In Oil,Industrial,video,1 Fordem Way,Fayetteville,North Carolina,28305,United States,true,13.97,60.37,true
+2023-02-22 12:19:23,Cross,Bocke,cbocked8@europa.eu,Artichokes - Jerusalem,Books,mobile,97701 Portage Junction,Miami,Florida,33185,United States,true,17.38,37.23,false
+2023-05-28 01:19:19,Jerome,Perrinchief,jperrinchiefd9@sciencedirect.com,"Trout - Rainbow, Fresh",Kids,direct,79618 Larry Street,Minneapolis,Minnesota,55407,United States,true,75.22,12.15,false
+2022-09-11 11:40:15,Sioux,Wedon,swedonda@qq.com,Wine - Chablis J Moreau Et Fils,Music,promotions,953 Green Ridge Terrace,Huntington,West Virginia,25711,United States,true,93.92,8.11,false
+2023-01-29 23:11:38,Jacques,Handyside,jhandysidedb@godaddy.com,"Veal - Leg, Provimi - 50 Lb Max",Sports,promotions,3 Haas Crossing,Erie,Pennsylvania,16565,United States,true,36.78,10.99,false
+2022-04-06 16:48:40,Layne,Halliwell,lhalliwelldc@earthlink.net,Cheese - Parmesan Grated,Kids,promotions,721 Darwin Point,London,Kentucky,40745,United States,true,16.66,97.79,false
+2023-01-20 03:57:57,Rubie,Icke,rickedd@slashdot.org,Lotus Leaves,Music,video,770 Onsgard Circle,New Hyde Park,New York,11044,United States,true,92.6,14.93,false
+2022-01-24 11:19:35,Vitoria,Attril,vattrilde@ebay.co.uk,Cheese - Valancey,Tools,paid social,138 Linden Circle,Houston,Texas,77212,United States,false,60.05,33.27,true
+2023-10-24 21:00:31,Esdras,Saket,esaketdf@disqus.com,Nougat - Paste / Cream,Garden,paid search,2990 Superior Drive,New Haven,Connecticut,06538,United States,true,99.79,69.95,true
+2023-04-03 10:56:30,Marcel,Borsnall,mborsnalldg@flickr.com,Pork - Backs - Boneless,Shoes,mobile,27707 Fairfield Trail,Atlanta,Georgia,30301,United States,false,58.89,11.65,true
+2022-11-30 13:27:42,Jessamyn,Telford,jtelforddh@sciencedirect.com,Coffee - Almond Amaretto,Automotive,paid social,01948 Eastlawn Pass,Dallas,Texas,75265,United States,true,79.62,68.74,false
+2022-04-15 12:37:35,Cobb,Pyner,cpynerdi@cbsnews.com,Passion Fruit,Toys,video,93 Bayside Crossing,Ocala,Florida,34474,United States,false,54.64,3.97,false
+2023-08-02 06:15:59,Rosanne,Avrahamoff,ravrahamoffdj@icio.us,Milk - 2% 250 Ml,Health,mobile,23 Kings Point,Denver,Colorado,80279,United States,true,5.23,42.3,true
+2023-07-24 10:09:39,Avrit,O'Spillane,aospillanedk@google.com.hk,Juice - Ocean Spray Cranberry,Home,direct,6851 4th Terrace,Nashville,Tennessee,37228,United States,true,58.2,32.96,true
+2022-08-14 21:38:27,Adina,Kaley,akaleydl@nature.com,"Arctic Char - Fresh, Whole",Jewelry,video,465 Westport Circle,San Antonio,Texas,78230,United States,true,5.72,13.9,true
+2022-09-29 05:13:37,Feodor,Larby,flarbydm@google.it,Rappini - Andy Boy,Industrial,video,44782 Lien Alley,Springfield,Illinois,62794,United States,true,32.82,30.64,true
+2022-07-12 10:41:38,Andonis,Tipler,atiplerdn@istockphoto.com,Sauce - Balsamic Viniagrette,Toys,promotions,3 Johnson Drive,Colorado Springs,Colorado,80915,United States,true,70.72,64.98,true
+2022-09-16 11:09:07,Ermengarde,Manders,emandersdo@nps.gov,Salt - Kosher,Computers,paid search,6 Carey Plaza,Lincoln,Nebraska,68510,United States,false,22.44,27.3,true
+2022-02-25 16:51:17,Sallyanne,Stook,sstookdp@harvard.edu,Juice - Lime,Tools,paid search,094 Twin Pines Lane,Tulsa,Oklahoma,74126,United States,false,21.23,11.72,true
+2022-04-22 12:04:57,Collette,Danilov,cdanilovdq@tinypic.com,Steampan - Foil,Grocery,paid search,6 Bellgrove Avenue,Washington,District of Columbia,20057,United States,true,47.52,40.09,true
+2023-10-28 11:41:26,Phylis,Phorsby,pphorsbydr@narod.ru,Wine - Winzer Krems Gruner,Baby,paid social,8 Spohn Trail,Brea,California,92822,United States,true,81.92,61.78,true
+2022-07-15 15:01:20,Hermia,Kirsop,hkirsopds@ebay.co.uk,"Lentils - Green, Dry",Beauty,paid social,7 Melody Street,San Jose,California,95194,United States,true,41.29,58.67,false
+2023-07-21 04:32:05,Juanita,Peasegood,jpeasegooddt@feedburner.com,"Nut - Walnut, Pieces",Automotive,direct,588 Anthes Plaza,Columbus,Ohio,43284,United States,true,98.38,36.72,true
+2022-03-23 02:51:10,Christine,Bleazard,cbleazarddu@sphinn.com,Lettuce - Lambs Mash,Kids,mobile,012 Macpherson Lane,Peoria,Illinois,61629,United States,true,36.08,75.21,true
+2022-11-27 21:38:40,Fawne,Bough,fboughdv@shop-pro.jp,"Nestea - Ice Tea, Diet",Grocery,paid search,33 Fair Oaks Circle,Orlando,Florida,32830,United States,true,64.18,89.11,true
+2022-10-23 10:15:56,Jarad,Roote,jrootedw@flickr.com,Soup - Cream Of Broccoli,Baby,paid search,88079 Londonderry Hill,Tulsa,Oklahoma,74133,United States,true,99.07,45.98,false
+2023-06-27 06:16:08,Gunar,Warkup,gwarkupdx@trellian.com,Tomatoes - Grape,Industrial,mobile,82 Arrowood Circle,Fort Wayne,Indiana,46825,United States,false,8.98,41.23,false
+2023-09-08 00:53:58,Damaris,Wohlers,dwohlersdy@themeforest.net,Island Oasis - Wildberry,Toys,mobile,946 Goodland Terrace,Trenton,New Jersey,08695,United States,false,98.39,60.51,false
+2022-08-21 04:38:14,Mycah,Asipenko,masipenkodz@webs.com,"Wine - White, Ej",Baby,direct,62435 Moulton Road,Trenton,New Jersey,08650,United States,true,99.35,52.27,false
+2023-08-01 08:44:05,Melessa,Bovis,mbovise0@over-blog.com,Scallops - U - 10,Health,paid search,1676 8th Pass,Anderson,South Carolina,29625,United States,false,66.55,69.09,false
+2022-04-03 17:23:36,Waldo,Hanny,whannye1@php.net,"Pepper - Chillies, Crushed",Baby,paid social,25907 Grover Street,New Hyde Park,New York,11044,United States,true,2.6,99.36,true
+2023-01-12 12:58:52,Homere,Kampshell,hkampshelle2@yale.edu,Wine - Chablis 2003 Champs,Outdoors,mobile,7870 Eggendart Avenue,West Palm Beach,Florida,33411,United States,true,2.15,63.32,true
+2022-09-16 16:34:08,Lorena,Tolley,ltolleye3@lulu.com,Sauce - Balsamic Viniagrette,Games,direct,27511 Spohn Crossing,Alexandria,Virginia,22301,United States,true,55.14,92.69,true
+2023-04-12 19:24:22,Lara,Umbers,lumberse4@1688.com,Almonds Ground Blanched,Shoes,mobile,5419 Havey Park,Cambridge,Massachusetts,02142,United States,true,12.75,86.78,false
+2022-03-12 02:47:57,Hillel,Ditch,hditche5@hao123.com,Bread - Frozen Basket Variety,Garden,mobile,237 Old Gate Parkway,Lansing,Michigan,48901,United States,false,4.42,88.69,true
+2023-01-20 20:27:41,Corbie,Spikeings,cspikeingse6@sitemeter.com,"Rice Pilaf, Dry,package",Jewelry,paid search,2 Karstens Hill,Kansas City,Kansas,66105,United States,false,21.17,92.29,false
+2023-05-05 23:46:20,Susy,Vamplew,svamplewe7@sun.com,"Pasta - Cannelloni, Sheets, Fresh",Games,mobile,8972 Blue Bill Park Court,Lynchburg,Virginia,24503,United States,true,43.6,58.03,false
+2022-08-18 03:42:38,Karla,Aymer,kaymere8@comcast.net,"Pasta - Lasagna Noodle, Frozen",Garden,paid social,9 Manley Place,Flint,Michigan,48505,United States,true,10.07,81.29,true
+2022-09-12 05:32:20,Myra,Berrey,mberreye9@ibm.com,Bag Stand,Industrial,video,07049 Bluestem Plaza,Tulsa,Oklahoma,74108,United States,true,98.18,29.56,true
+2022-08-31 18:36:32,Tanitansy,Huncote,thuncoteea@meetup.com,"Peas - Pigeon, Dry",Baby,paid search,84941 Starling Parkway,Knoxville,Tennessee,37995,United States,true,8.13,1.72,true
+2023-07-16 12:12:24,Demetris,Maha,dmahaeb@eventbrite.com,Tea - Herbal Orange Spice,Shoes,direct,91698 Transport Center,Irvine,California,92619,United States,true,61.45,1.87,false
+2023-09-01 18:10:14,Agustin,Kinsey,akinseyec@scientificamerican.com,"Pepper - Chipotle, Canned",Shoes,video,54 Pankratz Terrace,Albuquerque,New Mexico,87195,United States,true,20.73,48.53,true
+2022-03-17 08:20:12,Gussi,Bullene,gbulleneed@mac.com,Table Cloth 91x91 Colour,Shoes,video,35 Upham Point,Washington,District of Columbia,20016,United States,true,75.32,70.17,true
+2022-06-03 14:08:06,Darrel,Loder,dloderee@360.cn,Beer - Corona,Books,paid search,05238 Waxwing Court,Sioux Falls,South Dakota,57198,United States,true,66.3,65.39,false
+2023-05-31 19:53:07,Fanchon,Bautiste,fbautisteef@cnet.com,Soy Protein,Garden,promotions,33 Ramsey Hill,Washington,District of Columbia,20319,United States,true,69.4,36.43,false
+2022-10-03 23:34:36,Aime,Henkens,ahenkenseg@newsvine.com,Boogies,Shoes,direct,9604 Emmet Center,Atlanta,Georgia,30306,United States,true,13.64,14.69,false
+2022-07-26 08:28:36,Eada,Mourant,emouranteh@alibaba.com,Beets - Mini Golden,Music,direct,498 Kingsford Pass,San Jose,California,95128,United States,true,5.72,14.81,false
+2023-01-26 12:07:12,Binnie,Bunkle,bbunkleei@timesonline.co.uk,Bread Crumbs - Panko,Automotive,direct,16816 Heffernan Terrace,Columbus,Ohio,43231,United States,true,14.79,64.73,false
+2022-05-28 13:31:14,Jasun,Sparrowe,jsparroweej@flavors.me,"Cake Circle, Paprus",Clothing,paid social,8 Bluestem Terrace,El Paso,Texas,79955,United States,true,58.9,5.85,true
+2022-09-23 15:48:20,Jennilee,Obray,jobrayek@hc360.com,Kiwi,Clothing,paid social,4861 Ronald Regan Pass,Ocala,Florida,34474,United States,true,70.19,3.08,false
+2023-10-28 09:45:07,Maximo,Larway,mlarwayel@surveymonkey.com,Apples - Sliced / Wedge,Home,direct,4479 Porter Pass,Birmingham,Alabama,35263,United States,true,67.4,82.02,false
+2023-05-26 20:10:04,Zedekiah,Spare,zspareem@stumbleupon.com,"Pepper - Chipotle, Canned",Electronics,paid social,7633 Jenna Hill,Aurora,Illinois,60505,United States,true,31.49,72.31,true
+2023-08-19 06:33:22,Mikael,Tonbye,mtonbyeen@techcrunch.com,Muffin Batt - Ban Dream Zero,Sports,direct,41700 Comanche Parkway,Akron,Ohio,44329,United States,true,43.48,82.85,false
+2022-12-17 18:04:28,Klara,Bedminster,kbedminstereo@princeton.edu,Chicken - Whole Roasting,Electronics,paid search,12 Prentice Court,Portland,Oregon,97221,United States,true,33.61,88.05,true
+2023-08-30 06:03:43,Alard,Downage,adownageep@blinklist.com,"Cod - Salted, Boneless",Garden,mobile,26 Susan Street,Chicago,Illinois,60657,United States,true,25.84,53.67,true
+2022-03-11 11:15:24,Ruperta,Sharnock,rsharnockeq@ameblo.jp,Coriander - Ground,Tools,paid search,4 Judy Drive,Cincinnati,Ohio,45271,United States,true,18.28,91.17,true
+2023-07-06 19:47:47,Timmy,Parrott,tparrotter@uiuc.edu,Energy Drink Bawls,Sports,mobile,03859 Holmberg Junction,Richmond,Virginia,23208,United States,true,41.66,19.49,false
+2022-05-03 15:44:02,Ninette,Lanfranconi,nlanfranconies@arizona.edu,Mahi Mahi,Kids,mobile,062 Esker Way,Baltimore,Maryland,21229,United States,true,90.88,90.19,true
+2023-08-08 04:36:56,Alie,Gamlin,agamlinet@xrea.com,Squeeze Bottle,Automotive,direct,4275 Eastlawn Lane,Saint Petersburg,Florida,33742,United States,true,34.3,69.97,true
+2022-05-06 22:54:30,Rickie,Bowley,rbowleyeu@hp.com,Foam Cup 6 Oz,Music,paid social,5 Truax Junction,Indianapolis,Indiana,46202,United States,true,39.81,67.2,true
+2023-10-12 11:51:58,Merla,Stamps,mstampsev@fda.gov,Rice - Wild,Electronics,paid social,3803 Emmet Way,Austin,Texas,78789,United States,true,28.4,62.65,true
+2022-10-17 18:35:11,Giffard,Endacott,gendacottew@house.gov,Green Tea Refresher,Outdoors,promotions,5288 Armistice Center,Miami,Florida,33134,United States,true,68.88,54.08,true
+2022-04-21 01:24:36,Towny,Crispe,tcrispeex@nps.gov,"Tendrils - Baby Pea, Organic",Beauty,promotions,557 Pearson Parkway,Honolulu,Hawaii,96850,United States,true,21.91,78.49,true
+2022-04-26 12:14:07,Augustina,Shoutt,ashouttey@is.gd,Cardamon Seed / Pod,Grocery,direct,65353 Corben Street,Omaha,Nebraska,68134,United States,false,88.96,30.45,true
+2022-05-11 11:53:29,Raimondo,Clemmett,rclemmettez@netlog.com,"Fish - Soup Base, Bouillon",Sports,promotions,776 Talmadge Pass,Tuscaloosa,Alabama,35487,United States,true,40.12,41.79,false
+2022-02-18 03:56:29,Trina,Morville,tmorvillef0@columbia.edu,"Quail - Eggs, Fresh",Jewelry,mobile,277 Atwood Crossing,Des Moines,Iowa,50310,United States,true,94.6,53.02,false
+2022-04-06 00:36:10,Corrinne,Scripps,cscrippsf1@google.com.au,Bread Foccacia Whole,Clothing,mobile,1 4th Avenue,Washington,District of Columbia,20231,United States,true,71.0,70.55,false
+2023-01-14 13:14:56,Cletus,Nibley,cnibleyf2@dion.ne.jp,Carbonated Water - Lemon Lime,Sports,mobile,836 Talmadge Drive,Brooksville,Florida,34605,United States,true,96.27,75.71,false
+2023-09-15 18:58:50,Bud,Alexandersson,balexanderssonf3@ucla.edu,"Veal - Inside, Choice",Movies,promotions,3949 Sunnyside Lane,Houston,Texas,77080,United States,true,89.51,9.8,true
+2023-06-25 12:55:59,Courtenay,Nayer,cnayerf4@usgs.gov,Bagel - Plain,Baby,direct,732 Lindbergh Avenue,San Bernardino,California,92424,United States,true,31.01,16.16,false
+2023-06-07 09:45:07,Phaidra,Hubback,phubbackf5@businessweek.com,Cheese - Grie Des Champ,Jewelry,video,07 Welch Place,Lexington,Kentucky,40505,United States,true,78.39,31.34,false
+2022-07-30 11:28:22,Alie,Dumphries,adumphriesf6@miitbeian.gov.cn,Lettuce - Treviso,Home,direct,17 Farwell Point,Northridge,California,91328,United States,true,31.51,94.6,false
+2023-03-07 13:59:38,Gamaliel,McGeneay,gmcgeneayf7@cdc.gov,Mcgillicuddy Vanilla Schnap,Toys,paid search,672 Merrick Center,Pittsburgh,Pennsylvania,15205,United States,true,18.69,72.18,false
+2022-05-19 10:15:12,Stewart,McIlreavy,smcilreavyf8@mayoclinic.com,Flour - Semolina,Baby,direct,6532 Katie Center,Amarillo,Texas,79118,United States,true,31.65,45.31,true
+2023-09-03 05:48:59,Moses,Cristofor,mcristoforf9@cloudflare.com,Cherries - Fresh,Garden,promotions,7593 Annamark Junction,El Paso,Texas,79989,United States,true,58.9,62.53,true
+2022-12-30 00:56:45,Brittaney,Pinckney,bpinckneyfa@hubpages.com,Bread - Frozen Basket Variety,Kids,mobile,0058 Sachtjen Drive,Garland,Texas,75044,United States,true,20.54,32.61,false
+2022-05-12 08:09:53,Hakim,Fanning,hfanningfb@blinklist.com,"Soup - French Onion, Dry",Baby,mobile,3 Dexter Park,El Paso,Texas,79950,United States,true,42.96,90.5,false
+2022-09-19 22:40:13,Collette,Curnok,ccurnokfc@scribd.com,Banana,Books,video,31586 Warbler Lane,San Diego,California,92153,United States,false,58.06,52.86,false
+2022-02-26 06:40:23,Gusella,Boyse,gboysefd@sina.com.cn,Sauce - Chili,Electronics,direct,5628 Fallview Park,Topeka,Kansas,66667,United States,true,93.48,89.8,true
+2023-06-10 22:45:34,Kristos,Creech,kcreechfe@engadget.com,Wine - Rioja Campo Viejo,Games,paid search,82 Sommers Junction,Lexington,Kentucky,40515,United States,true,11.32,15.18,true
+2022-06-23 18:23:15,Cassondra,Di Iorio,cdiiorioff@hp.com,"Chilli Paste, Sambal Oelek",Tools,video,44072 Holmberg Road,Indianapolis,Indiana,46221,United States,true,16.54,30.72,true
+2023-06-06 17:37:17,Boigie,Rossander,brossanderfg@blogspot.com,"Tart Shells - Sweet, 4",Sports,direct,52300 Pleasure Road,Baltimore,Maryland,21265,United States,true,76.5,9.25,false
+2023-02-04 08:54:20,Corenda,Esslement,cesslementfh@java.com,Langers - Cranberry Cocktail,Health,paid search,6648 Grim Way,Dayton,Ohio,45414,United States,true,69.6,12.45,false
+2023-04-19 11:59:19,Cori,Madgwich,cmadgwichfi@mayoclinic.com,Fruit Salad Deluxe,Grocery,mobile,2367 Pierstorff Way,Hagerstown,Maryland,21747,United States,false,78.86,10.2,false
+2023-03-18 15:37:54,Gregoor,Meni,gmenifj@sciencedaily.com,"Brandy - Orange, Mc Guiness",Beauty,paid search,0 Memorial Junction,Fort Worth,Texas,76134,United States,false,75.24,67.52,true
+2022-07-02 13:28:45,Egor,Tremellan,etremellanfk@uiuc.edu,Bowl 12 Oz - Showcase 92012,Garden,paid search,357 Brickson Park Park,Peoria,Illinois,61629,United States,true,60.19,88.46,false
+2023-05-15 10:34:14,Mayor,Paffley,mpaffleyfl@ted.com,Longos - Grilled Salmon With Bbq,Music,video,7 Buhler Lane,Sacramento,California,94280,United States,true,50.45,23.55,true
+2023-01-21 21:25:07,Eyde,Dartnell,edartnellfm@microsoft.com,Olives - Morracan Dired,Jewelry,mobile,9736 West Terrace,Los Angeles,California,90035,United States,true,61.59,44.0,true
+2022-03-28 04:28:10,Warden,Ramplee,wrampleefn@toplist.cz,Wine - Cousino Macul Antiguas,Home,promotions,4 Sullivan Parkway,Lynchburg,Virginia,24515,United States,false,32.56,74.17,true
+2022-03-24 06:31:27,Pris,Fant,pfantfo@moonfruit.com,Appetizer - Veg Assortment,Outdoors,paid social,886 Arrowood Hill,Arlington,Virginia,22234,United States,true,21.04,37.27,true
+2022-11-01 05:25:33,Farrel,Badini,fbadinifp@mashable.com,Cookie Dough - Oatmeal Rasin,Jewelry,direct,6 Hagan Center,Atlanta,Georgia,31190,United States,true,88.33,82.04,false
+2022-07-08 19:48:04,Nico,Elgram,nelgramfq@mayoclinic.com,Cheese Cheddar Processed,Outdoors,direct,2866 Kennedy Circle,Minneapolis,Minnesota,55470,United States,true,60.79,79.48,false
+2023-06-03 08:41:06,Cale,Montrose,cmontrosefr@shop-pro.jp,"Beef - Baby, Liver",Industrial,direct,9055 Prairieview Drive,Bellevue,Washington,98008,United States,false,29.07,57.82,true
+2022-05-12 11:41:35,Ivy,Coppock.,icoppockfs@engadget.com,Cookie Chocolate Chip With,Beauty,paid social,37970 Manufacturers Center,Beaumont,Texas,77705,United States,true,10.11,31.29,false
+2023-05-18 16:17:07,Alecia,Limb,alimbft@dailymotion.com,Tilapia - Fillets,Industrial,mobile,4883 High Crossing Lane,Milwaukee,Wisconsin,53220,United States,true,16.93,38.65,true
+2023-08-27 06:05:16,Bevin,Danson,bdansonfu@wiley.com,Dates,Kids,paid search,22 Lakewood Parkway,Philadelphia,Pennsylvania,19172,United States,true,35.66,80.71,false
+2023-03-27 07:32:44,Rudolph,Pitrasso,rpitrassofv@bigcartel.com,"Leeks - Baby, White",Electronics,video,116 Redwing Avenue,Colorado Springs,Colorado,80995,United States,true,20.73,15.8,false
+2023-09-16 20:34:12,Marthe,Janak,mjanakfw@unblog.fr,Gloves - Goldtouch Disposable,Clothing,promotions,802 Dryden Place,San Francisco,California,94142,United States,true,48.24,94.84,false
+2023-06-06 15:25:49,Diandra,Ferrandez,dferrandezfx@mozilla.org,Shopper Bag - S - 4,Sports,paid search,5337 Golden Leaf Road,New Orleans,Louisiana,70149,United States,true,88.89,46.91,true
+2023-07-21 00:33:25,Merwin,Flower,mflowerfy@dell.com,Pants Custom Dry Clean,Tools,mobile,58168 Hoffman Point,Houston,Texas,77030,United States,true,50.18,36.85,false
+2022-11-12 06:36:54,Lucais,Cattermull,lcattermullfz@mail.ru,Guava,Books,paid social,79117 Straubel Terrace,Philadelphia,Pennsylvania,19125,United States,true,14.55,41.11,true
+2023-09-24 05:48:50,Concordia,Grewar,cgrewarg0@yelp.com,"Sauce - Soya, Light",Industrial,direct,09 Hoard Trail,Bradenton,Florida,34282,United States,true,49.68,86.62,true
+2022-06-09 20:29:48,Dotti,Kochs,dkochsg1@multiply.com,"Turkey - Breast, Smoked",Books,promotions,9221 Onsgard Point,Alexandria,Virginia,22301,United States,true,64.74,99.86,true
+2022-07-06 17:21:46,Tiler,Matfield,tmatfieldg2@spiegel.de,Sugar Thermometer,Tools,mobile,8 Pearson Parkway,Terre Haute,Indiana,47812,United States,false,91.33,20.81,false
+2022-09-29 21:50:51,Lorrie,Hastin,lhasting3@ucla.edu,Muffin Batt - Carrot Spice,Grocery,paid social,7015 Oxford Trail,Chattanooga,Tennessee,37405,United States,true,36.07,42.95,false
+2023-06-04 13:53:34,Cullen,Cradick,ccradickg4@netlog.com,Lotus Leaves,Tools,mobile,723 Bartillon Road,Cape Coral,Florida,33915,United States,false,77.25,91.88,false
+2023-07-08 18:53:01,Robyn,Mouton,rmoutong5@meetup.com,Garlic Powder,Games,paid search,729 Crowley Road,Macon,Georgia,31217,United States,true,40.46,26.73,true
+2023-07-02 18:49:42,Henrieta,Teall,hteallg6@blog.com,"Pepper - White, Ground",Industrial,mobile,752 Prairie Rose Street,Lynn,Massachusetts,01905,United States,true,67.06,40.5,true
+2023-07-03 07:25:49,Ibbie,Saura,isaurag7@globo.com,Wine - Vidal Icewine Magnotta,Garden,paid search,638 Emmet Court,Dallas,Texas,75221,United States,true,58.63,43.03,true
+2022-04-01 09:00:30,Rowan,Karppi,rkarppig8@samsung.com,Turnip - White,Health,promotions,026 Roth Pass,Garden Grove,California,92844,United States,true,83.0,8.07,false
+2022-03-30 00:13:19,Domingo,Drewet,ddrewetg9@studiopress.com,Chips Potato Swt Chilli Sour,Automotive,promotions,51915 Farwell Crossing,Tampa,Florida,33633,United States,true,57.8,39.1,false
+2022-05-05 21:20:30,Jocko,Huitson,jhuitsonga@51.la,"Chestnuts - Whole,canned",Books,promotions,5277 Anthes Trail,Roanoke,Virginia,24020,United States,false,9.07,22.46,true
+2023-02-22 03:49:58,Nerti,Stiller,nstillergb@people.com.cn,Pastry - French Mini Assorted,Computers,paid search,90 Florence Parkway,Palm Bay,Florida,32909,United States,true,18.65,77.19,true
+2022-05-29 09:51:58,Raynard,Rigler,rriglergc@wiley.com,Wakami Seaweed,Computers,paid social,0 East Alley,Birmingham,Alabama,35290,United States,false,39.54,15.78,false
+2022-09-12 04:22:59,Cairistiona,Kelby,ckelbygd@hud.gov,Beer - True North Lager,Games,paid social,909 Debra Trail,Boulder,Colorado,80310,United States,true,77.88,18.22,false
+2022-09-13 12:06:22,Bernarr,Millichip,bmillichipge@bbc.co.uk,Veal - Leg,Outdoors,mobile,33 Johnson Terrace,Miami,Florida,33261,United States,true,37.46,78.97,false
+2022-04-26 23:13:48,Breanne,Roux,brouxgf@example.com,"Lentils - Green, Dry",Clothing,mobile,6989 Everett Terrace,Birmingham,Alabama,35244,United States,true,53.21,83.64,false
+2022-09-14 22:37:03,Chelsae,Lindblom,clindblomgg@hostgator.com,Pie Shells 10,Computers,video,486 Coolidge Place,Miami,Florida,33153,United States,true,96.14,75.54,true
+2022-12-14 13:40:44,Ashlie,Matches,amatchesgh@columbia.edu,Sauce - Soy Low Sodium - 3.87l,Jewelry,video,8679 Nelson Center,Trenton,New Jersey,08638,United States,true,64.52,14.97,true
+2023-03-17 08:59:12,Torin,Ivanyushin,tivanyushingi@buzzfeed.com,"Halibut - Whole, Fresh",Electronics,paid search,45884 Dexter Terrace,Monroe,Louisiana,71213,United States,false,46.44,93.98,false
+2023-09-11 14:03:34,Giustina,Belasco,gbelascogj@cyberchimps.com,Tequila - Sauza Silver,Games,paid social,23700 Bunting Trail,Springfield,Massachusetts,01105,United States,true,36.04,20.25,true
+2023-10-09 15:54:11,Leontyne,Firebrace,lfirebracegk@wordpress.org,Pork - Side Ribs,Movies,paid social,99252 Hayes Hill,San Antonio,Texas,78260,United States,true,27.07,14.36,false
+2022-11-28 10:29:08,Sidonnie,Edmett,sedmettgl@hexun.com,"Beef - Bones, Marrow",Garden,video,8 Basil Parkway,Santa Cruz,California,95064,United States,true,41.22,82.47,false
+2023-08-31 18:05:30,Robinetta,Wondraschek,rwondraschekgm@gravatar.com,Beef Tenderloin Aaa,Automotive,paid social,39382 Loomis Trail,Mobile,Alabama,36689,United States,true,7.86,48.31,false
+2022-05-20 11:09:58,Angel,Kasbye,akasbyegn@dailymail.co.uk,"Tomatoes - Cherry, Yellow",Beauty,video,18089 Hollow Ridge Alley,Harrisburg,Pennsylvania,17126,United States,false,54.93,75.4,true
+2023-06-08 18:49:32,Ambur,Dewsnap,adewsnapgo@youtu.be,Compound - Passion Fruit,Movies,paid social,2 Algoma Avenue,Colorado Springs,Colorado,80940,United States,true,63.67,12.15,true
+2022-05-09 00:40:42,Nissie,Wyborn,nwyborngp@google.it,Samosa - Veg,Grocery,video,858 Michigan Plaza,Phoenix,Arizona,85099,United States,true,44.2,7.35,false
+2023-07-09 05:44:17,Skipp,Ethridge,sethridgegq@va.gov,Lettuce - Frisee,Health,video,839 Stone Corner Road,Independence,Missouri,64054,United States,true,90.39,20.88,false
+2022-04-12 08:21:35,Dion,Hegden,dhegdengr@drupal.org,Carbonated Water - Wildberry,Home,promotions,2218 Caliangt Junction,Portland,Oregon,97221,United States,true,13.75,23.1,true
+2022-10-23 03:10:23,Luciana,Carnow,lcarnowgs@163.com,Cheese - Gorgonzola,Health,paid search,63 Schmedeman Hill,Bradenton,Florida,34205,United States,true,92.12,54.73,false
+2022-06-06 13:00:13,Celestia,Tankus,ctankusgt@tripod.com,Rabbit - Saddles,Games,promotions,95171 Caliangt Way,El Paso,Texas,88584,United States,true,20.84,18.31,true
+2022-04-26 17:07:53,Stanley,Cammidge,scammidgegu@a8.net,Salt - Celery,Health,paid social,964 Memorial Hill,Seattle,Washington,98185,United States,true,66.53,62.86,false
+2022-02-12 16:23:18,Georgi,Tiller,gtillergv@smh.com.au,"Wine - Red, Cabernet Sauvignon",Shoes,promotions,591 Jay Hill,Raleigh,North Carolina,27690,United States,true,58.26,98.0,true
+2023-04-03 04:51:08,Dell,Schulz,dschulzgw@eepurl.com,Veal - Heart,Automotive,paid social,79 Sage Way,Seattle,Washington,98166,United States,true,5.13,34.13,false
+2023-01-01 18:51:53,Meir,Gentry,mgentrygx@unicef.org,Pasta - Orecchiette,Electronics,mobile,298 Dayton Alley,Richmond,Virginia,23277,United States,true,17.99,12.22,true
+2023-09-15 14:19:05,Galvin,Chattington,gchattingtongy@issuu.com,Curry Powder Madras,Movies,direct,7 Dryden Court,Boise,Idaho,83727,United States,true,31.58,82.05,false
+2023-10-12 12:43:38,Garwin,Crummey,gcrummeygz@noaa.gov,Triple Sec - Mcguinness,Music,promotions,498 Lighthouse Bay Way,New York City,New York,10170,United States,true,34.09,92.19,true
+2022-05-08 19:35:11,Harrietta,Habbal,hhabbalh0@godaddy.com,English Muffin,Music,video,9147 Raven Center,Washington,District of Columbia,20575,United States,true,80.68,30.12,false
+2022-11-13 09:30:25,Reinhard,Parell,rparellh1@cbc.ca,Apricots Fresh,Baby,paid search,9 Grasskamp Crossing,Kingsport,Tennessee,37665,United States,true,21.94,62.57,true
+2023-06-28 13:18:55,Donnie,Zmitrovich,dzmitrovichh2@whitehouse.gov,Gatorade - Orange,Outdoors,paid social,2729 Rockefeller Alley,Eugene,Oregon,97405,United States,true,70.92,94.67,false
+2022-04-27 18:16:12,Edvard,Mattack,emattackh3@twitpic.com,"Vermacelli - Sprinkles, Assorted",Clothing,mobile,233 Brown Place,Newark,New Jersey,07188,United States,true,14.85,59.83,false
+2023-06-20 07:39:26,Lark,Winchurst,lwinchursth4@hubpages.com,"Wine - White, Schroder And Schyl",Books,promotions,12 Arkansas Terrace,Largo,Florida,33777,United States,true,11.41,34.18,false
+2022-08-24 13:46:23,Dulcea,Menicomb,dmenicombh5@ftc.gov,Sponge Cake Mix - Vanilla,Shoes,paid search,21 Arrowood Point,Charlottesville,Virginia,22903,United States,false,60.36,27.6,false
+2023-10-13 20:56:37,Ryun,Marritt,rmarritth6@cmu.edu,Bacardi Limon,Shoes,paid search,38211 Springs Pass,Houston,Texas,77025,United States,true,70.66,35.26,false
+2023-10-29 21:16:22,Bessy,Tiery,btieryh7@huffingtonpost.com,Wine - Saint Emilion Calvet,Industrial,promotions,7 Karstens Road,Houston,Texas,77271,United States,false,15.17,75.27,false
+2023-06-01 11:45:10,Viviyan,Kleehuhler,vkleehuhlerh8@earthlink.net,Shrimp - Black Tiger 8 - 12,Computers,paid social,48810 Canary Junction,Naples,Florida,34108,United States,true,93.42,60.35,true
+2023-08-02 09:44:03,Des,Nehlsen,dnehlsenh9@ezinearticles.com,Wine - Spumante Bambino White,Tools,paid social,97 Larry Crossing,Akron,Ohio,44315,United States,true,65.01,36.27,false
+2022-12-19 18:24:59,Drucill,Killingworth,dkillingworthha@un.org,Caviar - Salmon,Baby,direct,20 Red Cloud Terrace,Harrisburg,Pennsylvania,17105,United States,true,90.29,71.53,true
+2022-03-18 14:49:36,Donna,McPhee,dmcpheehb@over-blog.com,"Beef - Roasted, Cooked",Games,paid search,4 Cambridge Trail,Salt Lake City,Utah,84130,United States,true,28.42,34.27,false
+2022-03-28 12:29:34,Kiel,Seifenmacher,kseifenmacherhc@blogtalkradio.com,Wine - Riesling Alsace Ac 2001,Jewelry,paid search,4 Lawn Terrace,Cincinnati,Ohio,45254,United States,true,77.92,28.36,false
+2022-06-13 16:48:03,Portia,Kirlin,pkirlinhd@nymag.com,Orange Roughy 4/6 Oz,Books,direct,0 Laurel Trail,Washington,District of Columbia,20580,United States,true,95.87,8.39,true
+2022-03-12 05:22:27,Drusilla,Fallowes,dfalloweshe@constantcontact.com,Pepper - Green,Home,paid search,94 Elgar Hill,Paterson,New Jersey,07544,United States,true,76.08,27.84,false
+2023-01-21 18:18:16,Moshe,O'Ferris,moferrishf@acquirethisname.com,Juice - Orange 1.89l,Industrial,mobile,236 Elmside Avenue,Kansas City,Missouri,64190,United States,true,36.61,51.44,false
+2023-05-24 13:20:21,Merv,Hattoe,mhattoehg@usgs.gov,Vanilla Beans,Garden,video,9 Maple Lane,Atlanta,Georgia,30386,United States,true,5.7,33.49,false
+2022-11-13 06:18:54,Dunc,Riguard,driguardhh@ucla.edu,Orange Roughy 4/6 Oz,Electronics,promotions,1 Meadow Valley Park,Daytona Beach,Florida,32123,United States,true,13.01,77.37,true
+2023-10-22 18:21:27,Concettina,Bende,cbendehi@dropbox.com,"Jam - Marmalade, Orange",Games,paid social,032 4th Drive,Anderson,South Carolina,29625,United States,true,96.83,6.49,true
+2022-03-29 00:33:47,Caria,Shegog,cshegoghj@miibeian.gov.cn,Creme De Cacao White,Games,mobile,6589 Dakota Road,Raleigh,North Carolina,27658,United States,true,75.92,22.58,false
+2023-02-14 03:24:28,Sonny,Vedntyev,svedntyevhk@boston.com,"Lamb - Leg, Bone In",Books,paid social,5325 Huxley Plaza,Irvine,California,92710,United States,true,94.02,37.28,true
+2022-02-13 15:24:10,Crawford,Eley,celeyhl@bluehost.com,Creme De Cacao White,Health,promotions,05732 Blaine Parkway,Saint Cloud,Minnesota,56372,United States,true,46.45,11.92,false
+2022-11-09 12:10:32,Vasilis,Thistleton,vthistletonhm@hp.com,Beef - Short Ribs,Outdoors,paid search,2977 Crownhardt Road,Washington,District of Columbia,20205,United States,true,32.99,55.93,true
+2023-05-17 06:16:28,Verne,M'Chirrie,vmchirriehn@berkeley.edu,Spice - Onion Powder Granulated,Kids,promotions,339 Autumn Leaf Park,Wichita Falls,Texas,76310,United States,true,91.0,49.23,true
+2023-05-31 21:11:17,Tremaine,Burger,tburgerho@pcworld.com,Beef - Texas Style Burger,Outdoors,paid search,49 Gale Hill,Roanoke,Virginia,24014,United States,true,79.72,52.52,false
+2022-05-28 08:09:56,Weston,Conibere,wconiberehp@amazon.com,Flour - Masa De Harina Mexican,Music,paid social,83976 Mccormick Court,Chattanooga,Tennessee,37410,United States,true,79.12,59.82,false
+2022-03-01 10:23:33,Jenine,Leys,jleyshq@admin.ch,Rosemary - Dry,Toys,direct,59 Hoffman Point,Minneapolis,Minnesota,55412,United States,true,78.85,55.39,false
+2022-05-05 09:39:27,Marcel,Oulet,moulethr@cyberchimps.com,"Quail - Eggs, Fresh",Garden,mobile,9704 Continental Avenue,Pittsburgh,Pennsylvania,15274,United States,true,65.31,33.84,false
+2023-06-19 04:39:30,Clovis,Huster,chusterhs@desdev.cn,Glove - Cutting,Grocery,direct,67 Cordelia Court,Reading,Pennsylvania,19605,United States,true,83.41,1.37,true
+2022-03-29 12:16:51,Elisabet,Mainstone,emainstoneht@webeden.co.uk,Taro Root,Garden,direct,90 Little Fleur Crossing,Harrisburg,Pennsylvania,17121,United States,true,74.34,64.59,false
+2023-09-14 18:30:27,Mannie,Millgate,mmillgatehu@netvibes.com,Shopper Bag - S - 4,Health,mobile,6 Saint Paul Place,Ogden,Utah,84403,United States,true,64.27,20.27,false
+2022-04-24 00:05:05,Conn,McBratney,cmcbratneyhv@so-net.ne.jp,Cape Capensis - Fillet,Sports,video,28 Amoth Trail,Anchorage,Alaska,99512,United States,true,66.46,91.92,true
+2022-04-20 09:27:17,Sandra,Backshill,sbackshillhw@tiny.cc,"Vodka - Lemon, Absolut",Baby,paid social,6617 Arapahoe Court,Washington,District of Columbia,20535,United States,true,2.8,76.69,true
+2022-10-27 00:57:10,Leanna,Brisson,lbrissonhx@imageshack.us,Syrup - Monin - Passion Fruit,Grocery,video,65 Banding Crossing,Sacramento,California,95838,United States,true,28.99,80.98,true
+2023-04-05 03:34:25,Angele,Reese,areesehy@wordpress.com,Chocolate Eclairs,Grocery,paid social,0885 Ilene Trail,West Palm Beach,Florida,33421,United States,true,55.36,30.84,false
+2022-12-18 02:44:45,Candi,Westerman,cwestermanhz@home.pl,Pepper - Pablano,Outdoors,paid search,4797 South Terrace,El Paso,Texas,88530,United States,true,93.91,48.07,false
+2023-06-07 22:33:19,Thomasin,Crosland,tcroslandi0@uol.com.br,Soup V8 Roasted Red Pepper,Automotive,paid social,9 Fallview Avenue,El Paso,Texas,88589,United States,true,50.32,76.53,true
+2023-07-21 15:26:43,Jobye,Simeon,jsimeoni1@umich.edu,Icecream - Dstk Strw Chseck,Sports,paid search,8 Sutherland Center,Houston,Texas,77271,United States,true,26.3,98.56,true
+2023-06-14 08:42:45,Sibbie,Dautry,sdautryi2@businesswire.com,Nut - Macadamia,Baby,video,09276 Derek Park,El Paso,Texas,88569,United States,false,7.78,35.17,false
+2022-02-27 12:27:34,Scot,Ricci,sriccii3@w3.org,Crackers - Graham,Kids,paid search,5792 Blaine Parkway,Pasadena,California,91125,United States,true,87.82,23.33,false
+2022-08-14 12:14:12,Lezley,Balf,lbalfi4@icq.com,"Rum - Cream, Amarula",Tools,paid social,973 Mcbride Way,Brooksville,Florida,34605,United States,true,6.51,21.39,true
+2023-02-19 17:37:01,Nyssa,Pessler,npessleri5@github.io,Glove - Cutting,Automotive,direct,32 Brickson Park Avenue,Dallas,Texas,75226,United States,true,73.57,14.83,false
+2023-03-17 12:58:09,Beulah,O'Dempsey,bodempseyi6@bravesites.com,Mushroom Morel Fresh,Tools,direct,1423 Victoria Street,Shawnee Mission,Kansas,66215,United States,true,71.87,42.13,true
+2023-10-23 13:09:07,Jackie,Pawlata,jpawlatai7@bluehost.com,Potatoes - Mini White 3 Oz,Shoes,mobile,98 Glacier Hill Trail,Baton Rouge,Louisiana,70894,United States,true,50.59,73.39,false
+2023-06-02 19:33:35,Boyd,Petera,bpeterai8@newyorker.com,Chicken - Base,Clothing,promotions,01426 Basil Lane,Richmond,Virginia,23272,United States,false,85.14,63.05,true
+2022-11-14 16:50:23,Coralyn,Finlry,cfinlryi9@github.com,"Roe - Lump Fish, Black",Automotive,paid social,533 Pearson Trail,New Orleans,Louisiana,70154,United States,true,12.92,98.57,false
+2023-04-23 05:57:13,Antonina,Dykas,adykasia@salon.com,Vacuum Bags 12x16,Games,mobile,30487 Pearson Pass,Albuquerque,New Mexico,87180,United States,true,32.29,44.1,true
+2023-04-25 06:43:38,Constancia,Deacock,cdeacockib@webmd.com,"Pasta - Gnocchi, Potato",Outdoors,promotions,10082 Truax Lane,Tallahassee,Florida,32399,United States,true,39.56,17.42,false
+2022-05-31 04:30:57,Ediva,Prodrick,eprodrickic@yahoo.com,Pectin,Industrial,mobile,8544 Warbler Plaza,Gulfport,Mississippi,39505,United States,true,60.88,7.84,false
+2022-05-17 06:52:16,Cornie,Inkpen,cinkpenid@chicagotribune.com,Cookie - Oreo 100x2,Tools,direct,2252 Memorial Terrace,Buffalo,New York,14276,United States,true,55.94,18.95,false
+2023-04-16 12:48:42,Edithe,Sprasen,esprasenie@bigcartel.com,Bar Special K,Kids,paid search,368 Anthes Place,Washington,District of Columbia,20575,United States,true,69.4,29.53,true
+2022-10-15 04:45:42,Clayson,Canland,ccanlandif@nih.gov,Bagel - Everything,Shoes,mobile,5 Rutledge Junction,Pueblo,Colorado,81010,United States,true,54.47,4.95,true
+2023-06-05 18:34:27,Marcelo,Faivre,mfaivreig@youku.com,"Liqueur Banana, Ramazzotti",Home,video,86 Carey Avenue,Saint Louis,Missouri,63143,United States,true,74.9,58.91,false
+2023-02-13 03:41:06,Rahal,Rope,rropeih@xinhuanet.com,Broom And Broom Rack White,Toys,mobile,4071 Alpine Place,Greeley,Colorado,80638,United States,false,78.66,5.56,false
+2022-06-08 00:18:25,Corina,Lippitt,clippittii@newsvine.com,"Cheese - Mozzarella, Buffalo",Books,paid social,93021 Buhler Alley,Los Angeles,California,90055,United States,true,77.38,9.86,false
+2022-04-25 12:10:36,Fred,Quadrio,fquadrioij@tuttocitta.it,Bread - Olive,Tools,paid social,530 Emmet Crossing,Houston,Texas,77271,United States,true,84.46,6.37,true
+2022-09-16 11:52:20,Hercules,Bevens,hbevensik@studiopress.com,Temperature Recording Station,Home,direct,35 Scoville Alley,Sacramento,California,95852,United States,true,14.29,54.0,false
+2022-01-24 02:53:10,Lorelle,Bride,lbrideil@ning.com,Mountain Dew,Kids,mobile,71 Hazelcrest Parkway,Raleigh,North Carolina,27621,United States,true,32.48,35.68,true
+2023-08-15 21:52:38,Yuma,Gunther,yguntherim@marriott.com,Swordfish Loin Portions,Beauty,mobile,5124 Bayside Crossing,San Jose,California,95123,United States,true,47.27,26.6,false
+2022-12-27 17:09:19,Dieter,Kleinhaut,dkleinhautin@latimes.com,Cinnamon Buns Sticky,Kids,video,26007 Heath Place,Colorado Springs,Colorado,80940,United States,false,30.63,12.54,true
+2022-01-19 14:50:14,Rennie,Vittery,rvitteryio@themeforest.net,Eel - Smoked,Grocery,paid social,44 Algoma Hill,Albany,New York,12242,United States,true,93.01,35.35,false
+2022-10-03 19:05:51,Anatol,Meeson,ameesonip@dot.gov,Sobe - Green Tea,Movies,video,62568 Dawn Way,London,Kentucky,40745,United States,true,56.39,19.96,false
+2023-01-05 16:34:15,Norris,Franz-Schoninger,nfranzschoningeriq@cornell.edu,Green Scrubbie Pad H.duty,Toys,promotions,3437 Pawling Avenue,New York City,New York,10150,United States,true,54.83,19.83,false
+2023-07-26 01:07:02,Moritz,Darch,mdarchir@php.net,Fork - Plastic,Beauty,paid social,6956 Harper Park,Montpelier,Vermont,05609,United States,true,16.43,36.94,false
+2023-07-30 10:22:51,Alfi,Fair,afairis@webeden.co.uk,Chicken - Base,Kids,promotions,2925 Bunker Hill Trail,Harrisburg,Pennsylvania,17105,United States,true,56.81,63.84,false
+2022-06-04 07:55:17,Abbe,Comben,acombenit@shinystat.com,Capicola - Hot,Games,promotions,2 Tennessee Park,Flint,Michigan,48550,United States,true,54.06,99.51,true
+2022-06-17 03:46:01,Blancha,O'Hartagan,bohartaganiu@wiley.com,Pan Grease,Kids,video,2192 Steensland Avenue,Peoria,Illinois,61605,United States,true,5.7,86.71,false
+2023-09-13 09:39:53,Latia,Stirland,lstirlandiv@buzzfeed.com,Chutney Sauce,Music,paid social,271 Rigney Alley,Newport News,Virginia,23605,United States,true,59.82,69.68,true
+2022-03-31 19:39:10,Alia,MacGaughy,amacgaughyiw@newsvine.com,Bread Foccacia Whole,Garden,paid search,83462 Dixon Crossing,Brooklyn,New York,11215,United States,false,40.35,82.63,true
+2022-04-17 06:56:48,Melisse,Eckhard,meckhardix@weebly.com,Coffee Cup 8oz 5338cd,Electronics,video,31 Esch Drive,Plano,Texas,75074,United States,true,6.13,58.73,false
+2022-11-23 15:37:18,Anselm,Doick,adoickiy@chron.com,Wine - Pinot Noir Latour,Shoes,mobile,535 Sunfield Crossing,Mesa,Arizona,85205,United States,true,56.03,4.21,false
+2022-03-13 04:24:29,Cinnamon,Howroyd,chowroydiz@domainmarket.com,"Mushroom - Shitake, Dry",Shoes,direct,1 Randy Road,Erie,Pennsylvania,16510,United States,true,28.66,7.04,false
+2023-08-03 14:38:48,David,Dunthorne,ddunthornej0@fc2.com,Zucchini - Yellow,Outdoors,mobile,5110 Sycamore Trail,Washington,District of Columbia,20503,United States,true,46.78,14.37,false
+2023-04-24 00:57:38,Netta,Dericot,ndericotj1@fema.gov,"Beef - Ox Tongue, Pickled",Baby,promotions,364 Moose Park,Salem,Oregon,97306,United States,true,80.05,19.25,true
+2022-08-21 00:34:49,Binnie,Woodgate,bwoodgatej2@ucoz.com,Carbonated Water - Peach,Electronics,direct,88 David Pass,Tallahassee,Florida,32314,United States,true,78.29,72.32,false
+2022-12-08 17:40:08,Chaddy,Merriton,cmerritonj3@facebook.com,Sansho Powder,Health,mobile,44112 Manley Pass,Fort Pierce,Florida,34949,United States,true,49.3,86.18,false
+2022-03-01 07:53:56,Marti,Hrihorovich,mhrihorovichj4@jugem.jp,Bread Sour Rolls,Home,video,6 Dottie Court,Saint Augustine,Florida,32092,United States,true,39.94,92.4,true
+2023-10-28 00:33:15,Katherina,Grayling,kgraylingj5@acquirethisname.com,Wine - Alicanca Vinho Verde,Grocery,mobile,15 Veith Avenue,Denver,Colorado,80270,United States,true,48.6,92.31,false
+2022-04-08 13:39:50,Filberto,MacRirie,fmacririej6@gnu.org,Beef - Inside Round,Health,paid social,3 Northport Junction,Davenport,Iowa,52809,United States,true,50.56,9.03,true
+2022-12-23 18:52:07,Becka,Fealy,bfealyj7@jigsy.com,"Beans - Navy, Dry",Beauty,direct,8 Blackbird Point,Indianapolis,Indiana,46231,United States,true,63.99,1.9,true
+2022-10-28 10:19:25,Alley,Yitzowitz,ayitzowitzj8@redcross.org,Energy Drink - Franks Pineapple,Grocery,mobile,873 Ilene Hill,San Diego,California,92153,United States,true,22.33,11.69,false
+2023-10-24 03:09:56,Karim,Mournian,kmournianj9@jigsy.com,"Wine - White, Antinore Orvieto",Garden,promotions,77198 Golf View Place,Houston,Texas,77090,United States,true,66.3,29.96,false
+2023-02-04 04:48:38,Jecho,Gosselin,jgosselinja@oracle.com,Wine - Placido Pinot Grigo,Music,video,610 Schurz Place,Lubbock,Texas,79415,United States,true,61.45,26.27,false
+2022-09-21 19:56:47,Sergei,Woodland,swoodlandjb@wikia.com,Cream Of Tartar,Garden,direct,17 Dapin Avenue,Colorado Springs,Colorado,80935,United States,true,81.13,10.25,true
+2023-07-29 10:02:06,Sherill,Boughton,sboughtonjc@yandex.ru,Sauce - Hollandaise,Computers,paid search,746 Lakewood Hill,Columbia,South Carolina,29240,United States,true,93.58,72.34,true
+2022-06-14 19:23:26,Clovis,Gilhespy,cgilhespyjd@mozilla.org,Juice - Apple 284ml,Baby,direct,296 Atwood Drive,Bronx,New York,10464,United States,false,12.07,48.01,false
+2022-11-22 08:53:49,Lesley,Delmonti,ldelmontije@oakley.com,Wine - Casablanca Valley,Automotive,paid social,811 Sunnyside Park,Vero Beach,Florida,32964,United States,true,81.22,7.23,true
+2022-03-27 18:14:00,Michele,Mettricke,mmettrickejf@friendfeed.com,Fennel,Shoes,paid search,30 Luster Court,Jacksonville,Florida,32209,United States,true,54.44,96.92,true
+2022-07-19 08:48:05,Dael,Hamon,dhamonjg@sohu.com,Mix Pina Colada,Books,paid search,6 Ronald Regan Circle,San Antonio,Texas,78205,United States,true,74.28,64.35,false
+2022-09-08 00:36:56,Hatti,Preston,hprestonjh@pinterest.com,Snapple - Mango Maddness,Music,direct,0280 Milwaukee Avenue,Evansville,Indiana,47719,United States,true,69.87,4.75,false
+2022-02-24 12:06:21,Haywood,Comiam,hcomiamji@4shared.com,Gherkin - Sour,Health,video,2376 Lakewood Gardens Avenue,Fairfax,Virginia,22036,United States,true,42.84,61.75,false
+2022-07-11 06:04:34,Court,Bernon,cbernonjj@behance.net,"Water - Mineral, Carbonated",Industrial,video,231 Barnett Street,Glendale,Arizona,85305,United States,true,5.33,57.59,false
+2022-02-15 09:36:12,Windham,Wildes,wwildesjk@i2i.jp,Kahlua,Shoes,direct,9 Green Ridge Road,San Antonio,Texas,78235,United States,true,12.76,7.13,false
+2022-02-06 16:02:00,Bar,Oller,bollerjl@booking.com,Bread - Rye,Toys,promotions,7189 Washington Hill,Washington,District of Columbia,20005,United States,true,28.84,20.81,false
+2022-07-08 12:24:04,Merrile,Semrad,msemradjm@ebay.com,Sobe - Green Tea,Electronics,direct,99480 Bobwhite Crossing,Houston,Texas,77005,United States,true,78.11,45.91,true
+2022-02-14 02:49:08,Celestyna,Pochet,cpochetjn@uiuc.edu,"Fish - Artic Char, Cold Smoked",Movies,paid search,3 Jay Crossing,Beaumont,Texas,77705,United States,false,30.68,48.61,false
+2023-09-26 21:16:55,Breanne,Salvin,bsalvinjo@google.cn,Filter - Coffee,Home,paid search,22220 Dottie Park,Long Beach,California,90831,United States,true,46.81,47.59,false
+2022-03-01 15:43:38,Percy,Tunno,ptunnojp@blogspot.com,"Coconut - Shredded, Sweet",Kids,direct,56 Kipling Hill,Colorado Springs,Colorado,80995,United States,true,11.29,88.84,false
+2022-08-28 03:58:30,Ilysa,Delucia,ideluciajq@techcrunch.com,Lemons,Toys,paid social,36 Stuart Court,Mountain View,California,94042,United States,true,87.39,5.93,true
+2022-07-15 01:35:18,Iain,Stronack,istronackjr@mapy.cz,"Chestnuts - Whole,canned",Clothing,video,1 Darwin Street,Albany,Georgia,31704,United States,true,32.52,42.11,false
+2022-11-06 20:53:54,Shirleen,Creaser,screaserjs@howstuffworks.com,Rosemary - Dry,Books,direct,61962 West Hill,Miami,Florida,33124,United States,true,75.79,46.16,true
+2022-09-21 04:40:43,Alexia,Ives,aivesjt@washingtonpost.com,Wine - Ruffino Chianti Classico,Outdoors,mobile,8 8th Circle,Wilmington,Delaware,19805,United States,true,25.29,12.63,false
+2023-08-12 21:06:19,Sidonia,Rhymes,srhymesju@bloglovin.com,Otomegusa Dashi Konbu,Tools,video,55 Spohn Alley,Newark,New Jersey,07112,United States,false,34.78,58.71,false
+2023-02-14 16:53:11,Zabrina,Boat,zboatjv@marriott.com,Limes,Movies,direct,028 Artisan Court,Dearborn,Michigan,48126,United States,true,40.87,67.34,true
+2022-04-24 13:26:04,Andie,Mieville,amievillejw@histats.com,Muffin - Carrot Individual Wrap,Sports,direct,1 Dryden Way,Tampa,Florida,33680,United States,true,46.27,32.54,false
+2022-01-27 03:34:19,Wilt,Rustidge,wrustidgejx@cdbaby.com,Table Cloth 54x72 Colour,Home,paid search,79063 Spenser Place,Brooklyn,New York,11205,United States,true,90.05,37.4,true
+2022-02-18 07:08:20,Kynthia,Meddows,kmeddowsjy@omniture.com,Beer - Paulaner Hefeweisse,Health,paid search,372 Waywood Street,Milwaukee,Wisconsin,53205,United States,true,91.73,39.58,false
+2022-09-18 18:35:07,Kerwinn,Wagg,kwaggjz@amazon.com,Cheese - Oka,Kids,mobile,6579 Cordelia Drive,Salem,Oregon,97312,United States,true,74.3,64.65,false
+2022-10-28 12:34:34,Blinnie,Anshell,banshellk0@engadget.com,"Lemonade - Natural, 591 Ml",Books,direct,75798 Ilene Pass,Tulsa,Oklahoma,74149,United States,true,61.07,5.36,false
+2023-07-28 09:30:22,Jolyn,Huelin,jhuelink1@weibo.com,"Crush - Grape, 355 Ml",Kids,video,9 East Way,Bozeman,Montana,59771,United States,true,99.32,42.19,true
+2023-10-18 19:24:35,Fred,Breagan,fbreagank2@nifty.com,Long Island Ice Tea,Clothing,promotions,8514 Carey Point,Honolulu,Hawaii,96825,United States,true,4.66,59.04,false
+2023-09-20 06:08:34,Corey,Horsey,chorseyk3@spotify.com,Wine - Muscadet Sur Lie,Computers,paid social,7 Brentwood Pass,Greensboro,North Carolina,27499,United States,false,44.06,12.02,true
+2023-10-21 18:06:39,Cassandry,Assiter,cassiterk4@multiply.com,"Coke - Diet, 355 Ml",Books,promotions,6 Larry Avenue,Trenton,New Jersey,08638,United States,true,40.55,5.26,true
+2022-04-13 23:50:02,Sue,Ferrulli,sferrullik5@google.cn,Marzipan 50/50,Outdoors,promotions,58743 Dottie Court,Davenport,Iowa,52809,United States,true,21.03,24.88,true
+2023-06-07 23:05:37,Stephie,O'Roan,soroank6@yahoo.com,"Lamb - Leg, Boneless",Books,mobile,251 Scott Crossing,San Antonio,Texas,78230,United States,true,33.0,90.27,false
+2022-04-02 15:01:11,Redford,Walbridge,rwalbridgek7@cmu.edu,Cranberries - Dry,Toys,promotions,866 Ridgeway Plaza,Greenville,South Carolina,29610,United States,true,63.61,51.11,true
+2022-04-25 23:13:08,Koren,Beckenham,kbeckenhamk8@hibu.com,Chocolate Bar - Smarties,Tools,direct,1114 Pearson Place,Columbus,Ohio,43210,United States,true,74.3,94.29,false
+2023-05-19 13:03:56,Ebeneser,Eliasson,eeliassonk9@java.com,Beer - Tetleys,Shoes,paid search,0 Sommers Hill,Louisville,Kentucky,40293,United States,true,49.11,68.03,false
+2022-09-20 07:44:29,Kippy,Dowzell,kdowzellka@rakuten.co.jp,"Pasta - Penne, Lisce, Dry",Toys,mobile,2047 Karstens Terrace,Glendale,Arizona,85305,United States,true,15.6,25.15,false
+2022-11-09 21:59:29,Jecho,Pallin,jpallinkb@facebook.com,"Wine - Mas Chicet Rose, Vintage",Tools,video,14 Longview Park,Seminole,Florida,34642,United States,true,53.82,99.37,true
+2022-11-20 02:21:42,Major,Bibey,mbibeykc@who.int,"Veal - Brisket, Provimi,bnls",Computers,paid social,64 Columbus Hill,Newark,Delaware,19714,United States,true,26.64,57.46,true
+2022-06-14 05:21:02,Iain,Sanbrook,isanbrookkd@cyberchimps.com,Hot Chocolate - Individual,Industrial,video,2199 Reinke Street,New York City,New York,10292,United States,true,56.39,74.56,false
+2023-10-30 20:51:57,Elle,Puleston,epulestonke@ox.ac.uk,Wine - Baron De Rothschild,Outdoors,paid social,68 Mitchell Place,Saint Paul,Minnesota,55127,United States,true,71.26,3.19,false
+2023-05-08 08:04:15,Eadith,De Bruin,edebruinkf@deviantart.com,Bread - Olive Dinner Roll,Books,mobile,0 Jay Trail,Greensboro,North Carolina,27409,United States,false,38.12,57.36,true
+2023-07-01 21:13:08,Randi,Kull,rkullkg@t.co,Jam - Raspberry,Health,mobile,2 Judy Road,Bridgeport,Connecticut,06673,United States,true,27.84,49.06,false
+2023-02-28 03:18:14,Ashlin,Wehnerr,awehnerrkh@rambler.ru,Cherries - Fresh,Sports,promotions,2269 Holmberg Parkway,San Antonio,Texas,78285,United States,true,30.13,77.26,true
+2022-10-22 09:21:24,Lind,Guswell,lguswellki@cpanel.net,Chocolate - Semi Sweet,Books,promotions,2 Oak Valley Place,Homestead,Florida,33034,United States,true,68.0,18.59,false
+2023-01-11 00:12:31,Nobe,Dikelin,ndikelinkj@pagesperso-orange.fr,Chinese Lemon Pork,Shoes,paid social,83 Ramsey Place,Hartford,Connecticut,06145,United States,true,27.94,70.13,false
+2023-02-14 06:03:18,Brittne,Haruard,bharuardkk@purevolume.com,Lemons,Movies,promotions,4 Bluestem Junction,San Jose,California,95194,United States,true,70.8,41.44,false
+2023-08-22 05:01:26,Misty,Megany,mmeganykl@bbc.co.uk,"Potatoes - Yukon Gold, 80 Ct",Electronics,paid social,59 Farmco Pass,Flushing,New York,11355,United States,true,53.79,83.2,true
+2022-07-18 19:19:15,Garrick,Faircley,gfaircleykm@mit.edu,"Lemonade - Strawberry, 591 Ml",Beauty,mobile,916 Dixon Pass,Reno,Nevada,89510,United States,true,1.86,89.78,false
+2023-10-11 02:11:58,Ambrosi,Andreou,aandreoukn@qq.com,Lobster - Base,Sports,promotions,19527 Birchwood Crossing,Helena,Montana,59623,United States,true,56.63,15.53,false
+2023-06-12 23:00:58,Andriette,Ivanonko,aivanonkoko@hexun.com,Wine - Rhine Riesling Wolf Blass,Tools,paid search,0693 Artisan Alley,Dallas,Texas,75387,United States,true,27.24,16.46,true
+2022-11-15 02:01:26,Mathias,Fisher,mfisherkp@wsj.com,Pasta - Agnolotti - Butternut,Movies,paid search,40 Dixon Terrace,Lexington,Kentucky,40546,United States,false,83.25,50.37,false
+2023-02-10 01:16:18,Josy,Moores,jmooreskq@mtv.com,"Juice - Pineapple, 48 Oz",Industrial,paid social,614 Anniversary Circle,Cincinnati,Ohio,45271,United States,false,16.61,88.11,false
+2023-08-26 18:57:51,Krishna,Dickman,kdickmankr@booking.com,Tomatoes,Garden,paid social,66 Mariners Cove Circle,New York City,New York,10019,United States,false,26.31,9.62,false
+2022-01-30 02:32:31,Gaston,Crowche,gcrowcheks@topsy.com,Beef - Top Butt,Beauty,paid social,12 Texas Road,Santa Fe,New Mexico,87592,United States,true,22.06,93.33,true
+2023-01-11 03:56:04,Vernor,Semeradova,vsemeradovakt@merriam-webster.com,"Lamb - Loin, Trimmed, Boneless",Music,mobile,43 Bayside Court,Omaha,Nebraska,68124,United States,true,42.63,47.71,false
+2023-03-15 08:57:30,Patten,Impett,pimpettku@thetimes.co.uk,"Chicken - Diced, Cooked",Home,promotions,07 Corscot Way,Pittsburgh,Pennsylvania,15210,United States,false,52.58,47.01,true
+2023-09-15 21:09:02,Franz,Haseldine,fhaseldinekv@bloomberg.com,Lobster - Cooked,Movies,mobile,1 Forest Run Terrace,Portsmouth,New Hampshire,03804,United States,false,77.31,8.63,true
+2022-11-18 03:53:49,Ingemar,Broseman,ibrosemankw@washingtonpost.com,Turkey Tenderloin Frozen,Jewelry,video,8895 Hollow Ridge Trail,El Paso,Texas,79945,United States,true,90.31,40.9,false
+2023-01-30 04:33:13,Karlyn,Trivett,ktrivettkx@amazonaws.com,Muffin - Bran Ind Wrpd,Computers,promotions,3 South Trail,El Paso,Texas,88563,United States,true,27.97,70.48,true
+2023-06-16 09:08:54,Thomasa,Heers,theersky@chicagotribune.com,"Potatoes - Purple, Organic",Grocery,paid search,9 Tennyson Road,Austin,Texas,78726,United States,true,5.19,59.72,false
+2023-01-24 17:28:44,Cristal,Citrine,ccitrinekz@i2i.jp,Kellogs Raisan Bran Bars,Jewelry,direct,5679 Bunker Hill Crossing,Charleston,South Carolina,29416,United States,true,71.25,32.7,true
+2022-10-24 10:42:15,Kaine,Jolliman,kjollimanl0@gnu.org,Cheese - Cream Cheese,Baby,direct,4 Ryan Parkway,Minneapolis,Minnesota,55412,United States,true,14.03,1.26,true
+2023-05-28 19:05:17,Bessy,Tomowicz,btomowiczl1@umich.edu,Crab - Soft Shell,Grocery,paid social,26 Saint Paul Trail,Bismarck,North Dakota,58505,United States,true,28.84,98.92,false
+2022-11-17 06:50:59,Sheena,Jennions,sjennionsl2@upenn.edu,Yogurt - French Vanilla,Shoes,paid social,3 Continental Crossing,South Bend,Indiana,46614,United States,false,86.46,84.29,false
+2023-09-20 06:14:32,Rena,Folli,rfollil3@wsj.com,Crackers Cheez It,Movies,paid search,3 Heffernan Street,Whittier,California,90605,United States,true,10.86,55.0,true
+2023-09-29 16:28:39,Adore,Bamford,abamfordl4@vk.com,Instant Coffee,Kids,paid social,2916 Mandrake Street,Indianapolis,Indiana,46221,United States,true,31.7,22.25,true
+2023-01-12 23:11:22,Alvan,Hannibal,ahanniball5@webmd.com,Dawn Professionl Pot And Pan,Health,direct,69 Center Trail,Washington,District of Columbia,20535,United States,true,11.47,56.18,true
+2022-04-15 15:47:08,Lew,Bysouth,lbysouthl6@cnn.com,Goldschalger,Shoes,promotions,6 Pearson Lane,Detroit,Michigan,48217,United States,true,30.12,56.61,false
+2022-06-23 23:26:03,Sheryl,Grombridge,sgrombridgel7@123-reg.co.uk,Cookies - Amaretto,Clothing,promotions,0750 Jenifer Circle,North Las Vegas,Nevada,89087,United States,true,51.15,25.45,true
+2022-05-20 01:42:40,Edlin,Antonucci,eantonuccil8@digg.com,Pepper - Orange,Industrial,video,9966 Myrtle Circle,San Angelo,Texas,76905,United States,true,22.59,98.29,true
+2023-03-21 19:05:15,Vivie,McIlrath,vmcilrathl9@stumbleupon.com,Buffalo - Tenderloin,Tools,paid social,7 Carey Way,Peoria,Arizona,85383,United States,false,82.54,14.98,true
+2022-09-27 11:36:24,Esteban,Gunson,egunsonla@senate.gov,Pepperoni Slices,Industrial,promotions,1 Steensland Trail,Huntsville,Texas,77343,United States,true,44.44,84.22,false
+2022-07-28 22:12:46,Deb,Kerbey,dkerbeylb@irs.gov,Beer - Steamwhistle,Jewelry,mobile,97921 Anzinger Plaza,Alexandria,Virginia,22333,United States,true,36.56,95.75,true
+2023-08-03 13:00:45,Lissi,Koppel,lkoppellc@usa.gov,Bagel - Everything,Computers,video,78 Mandrake Court,Buffalo,New York,14225,United States,true,60.0,23.62,false
+2022-12-09 18:20:38,Onofredo,Ferryman,oferrymanld@yahoo.co.jp,Bread Ww Cluster,Industrial,direct,08 Myrtle Drive,Hartford,Connecticut,06105,United States,true,32.83,58.97,false
+2023-04-15 00:26:04,Guthrie,Winsborrow,gwinsborrowle@discuz.net,Container - Foam Dixie 12 Oz,Industrial,paid social,54167 Bayside Way,Fort Lauderdale,Florida,33355,United States,true,86.25,93.86,true
+2023-04-09 20:39:25,Hana,Gery,hgerylf@google.fr,Chocolate Bar - Reese Pieces,Music,video,1 Hayes Avenue,San Diego,California,92165,United States,true,33.8,50.52,false
+2022-06-26 18:16:12,Ransom,Hendrichs,rhendrichslg@psu.edu,Calypso - Lemonade,Beauty,video,4392 Arkansas Road,Montgomery,Alabama,36177,United States,true,92.84,70.92,true
+2022-04-07 03:36:58,Milly,Aickin,maickinlh@dropbox.com,Canadian Emmenthal,Sports,paid search,5 Briar Crest Way,Portland,Oregon,97206,United States,true,94.11,22.85,true
+2023-10-12 16:38:49,Birdie,Boat,bboatli@miibeian.gov.cn,Cheese - Perron Cheddar,Health,paid social,28721 Annamark Trail,Hartford,Connecticut,06160,United States,true,28.6,6.45,false
+2023-09-03 02:32:27,Wyn,Brunner,wbrunnerlj@walmart.com,"Wine - Red, Antinori Santa",Automotive,direct,5 Sheridan Trail,Monticello,Minnesota,55590,United States,true,10.72,8.81,false
+2022-09-23 06:56:02,Sharia,Braunle,sbraunlelk@bigcartel.com,Mushroom - King Eryingii,Health,paid search,8 Badeau Hill,Greensboro,North Carolina,27409,United States,true,67.17,16.18,false
+2022-05-02 01:09:39,Annalise,Neiland,aneilandll@nymag.com,Wasabi Powder,Grocery,promotions,5 New Castle Hill,Garland,Texas,75044,United States,false,17.45,60.53,true
+2023-09-30 19:14:54,Tedie,Otham,tothamlm@amazonaws.com,Soup Campbells Split Pea And Ham,Automotive,mobile,244 Eagle Crest Drive,Baton Rouge,Louisiana,70805,United States,false,97.4,82.79,true
+2022-11-22 01:03:37,Massimiliano,Santhouse,msanthouseln@auda.org.au,Muffin Batt - Blueberry Passion,Sports,promotions,158 Continental Lane,Columbus,Ohio,43226,United States,true,52.04,43.1,true
+2023-01-27 14:43:39,Truda,Wagerfield,twagerfieldlo@cargocollective.com,Sponge Cake Mix - Vanilla,Games,paid search,5 Red Cloud Place,Erie,Pennsylvania,16510,United States,true,23.65,88.97,false
+2022-05-21 14:03:02,Jefferson,Glanister,jglanisterlp@virginia.edu,Bacardi Breezer - Tropical,Shoes,direct,18 Morning Center,Wichita Falls,Texas,76305,United States,true,19.4,23.99,true
+2022-08-17 04:18:13,Carree,Rabbitts,crabbittslq@oracle.com,Isomalt,Outdoors,promotions,33 Kedzie Plaza,Oakland,California,94605,United States,false,28.39,12.24,false
+2022-04-07 00:34:01,Dulsea,Brendeke,dbrendekelr@nhs.uk,Sauce - Soy Low Sodium - 3.87l,Toys,promotions,2 Independence Plaza,Montgomery,Alabama,36125,United States,true,52.67,33.22,false
+2022-07-10 07:53:18,Turner,George,tgeorgels@dyndns.org,Arctic Char - Fillets,Movies,video,3 Sage Alley,New York City,New York,10099,United States,true,30.14,70.63,true
+2023-03-20 21:31:59,Hinda,Skellorne,hskellornelt@cisco.com,Lambcasing,Movies,mobile,93 Old Shore Trail,Young America,Minnesota,55573,United States,true,6.59,24.87,false
+2022-10-22 06:58:42,Trent,Filipovic,tfilipoviclu@altervista.org,"Salt - Rock, Course",Beauty,paid social,1 Browning Point,San Jose,California,95160,United States,false,40.03,14.04,true
+2023-01-19 09:11:29,Odo,Rissen,orissenlv@list-manage.com,Fudge - Chocolate Fudge,Kids,paid social,15 Lakewood Gardens Park,Los Angeles,California,90040,United States,false,51.59,7.16,true
+2022-06-02 22:29:54,Toinette,Wagen,twagenlw@1688.com,Chocolate - White,Electronics,paid search,719 Upham Parkway,Round Rock,Texas,78682,United States,true,36.03,45.77,true
+2022-09-09 02:42:18,Adora,Yuill,ayuilllx@unicef.org,"Rum - Spiced, Captain Morgan",Tools,paid search,63511 Randy Hill,Springfield,Illinois,62723,United States,true,33.69,66.22,true
+2022-11-28 11:40:04,Giffard,Duetschens,gduetschensly@opera.com,Juice - Apple Cider,Electronics,promotions,21 Loeprich Plaza,Wichita Falls,Texas,76310,United States,true,93.11,86.7,true
+2023-09-03 16:09:39,Giulietta,Allgood,gallgoodlz@photobucket.com,Pork Salted Bellies,Electronics,promotions,67 Melby Road,Washington,District of Columbia,20088,United States,true,41.3,64.84,true
+2022-10-16 20:25:17,Matthew,Cordell,mcordellm0@slideshare.net,Foie Gras,Beauty,mobile,7 Paget Parkway,Albuquerque,New Mexico,87195,United States,true,59.13,69.42,false
+2022-06-06 16:35:24,Robinetta,Lovstrom,rlovstromm1@usgs.gov,Swordfish Loin Portions,Tools,paid social,04083 Fallview Street,Little Rock,Arkansas,72209,United States,true,54.94,37.18,true
+2022-03-30 18:04:34,Melosa,Leek,mleekm2@rakuten.co.jp,Wine - Niagara Peninsula Vqa,Shoes,paid social,45 Hayes Avenue,Phoenix,Arizona,85020,United States,false,90.67,84.49,true
+2023-01-27 12:07:36,Pennie,Iveans,piveansm3@narod.ru,"Pepper - White, Ground",Home,direct,24 Center Pass,San Luis Obispo,California,93407,United States,false,4.86,18.89,false
+2023-04-11 05:25:47,Colin,Gambles,cgamblesm4@squidoo.com,Sausage - Chorizo,Health,paid search,61 Tennyson Avenue,Pittsburgh,Pennsylvania,15215,United States,false,94.9,48.09,true
+2022-08-31 08:30:53,Zebedee,Oxenbury,zoxenburym5@ebay.co.uk,Pork - Backs - Boneless,Grocery,promotions,4222 Stang Place,San Jose,California,95133,United States,true,25.74,77.47,false
+2022-04-02 03:57:51,Marcel,Nerger,mnergerm6@feedburner.com,Sprouts - Onion,Books,video,553 Bobwhite Hill,Washington,District of Columbia,20062,United States,true,37.29,68.15,true
+2023-04-25 22:13:44,Elysha,Prettyjohn,eprettyjohnm7@gmpg.org,Lamb - Rack,Automotive,direct,9 Goodland Pass,Gadsden,Alabama,35905,United States,false,44.21,73.84,false
+2022-06-01 19:30:59,Alanson,Locks,alocksm8@dailymail.co.uk,Cocktail Napkin Blue,Industrial,direct,49719 Spaight Alley,San Antonio,Texas,78278,United States,true,53.4,73.93,true
+2022-12-16 00:27:04,Cedric,Vize,cvizem9@ezinearticles.com,Lamb - Shoulder,Clothing,paid search,5247 Farmco Court,Washington,District of Columbia,20062,United States,true,49.48,85.79,false
+2022-04-27 04:12:47,Malchy,Fronsek,mfronsekma@fda.gov,Sugar - Cubes,Kids,direct,2 Coolidge Point,San Francisco,California,94164,United States,true,53.95,4.02,true
+2022-01-16 21:52:52,Damian,Ghelardi,dghelardimb@theatlantic.com,Kellogs Raisan Bran Bars,Computers,promotions,29099 Onsgard Crossing,Carson City,Nevada,89714,United States,true,31.54,15.63,false
+2022-06-26 06:52:35,Micheal,Yirrell,myirrellmc@last.fm,Octopus,Clothing,paid search,41 Di Loreto Lane,San Antonio,Texas,78278,United States,true,49.23,52.44,false
+2023-09-23 10:29:33,Quinn,Rubinovitsch,qrubinovitschmd@stumbleupon.com,Cups 10oz Trans,Tools,paid social,421 Almo Point,Honolulu,Hawaii,96815,United States,true,93.1,60.2,true
+2022-12-06 03:47:30,Horst,Eaden,headenme@g.co,Goat - Whole Cut,Sports,video,63 Hoffman Park,Indianapolis,Indiana,46239,United States,true,35.06,68.96,true
+2022-05-21 19:55:36,Stanislaw,Stower,sstowermf@studiopress.com,Pate - Liver,Beauty,video,901 Ohio Park,Albuquerque,New Mexico,87110,United States,true,90.23,36.39,false
+2023-06-21 04:08:20,Beverlee,Absolon,babsolonmg@usda.gov,Limes,Outdoors,promotions,202 Northridge Point,Orange,California,92668,United States,true,73.71,61.27,false
+2023-08-27 22:08:53,Trudi,Blundan,tblundanmh@nps.gov,Dooleys Toffee,Automotive,direct,86909 Summit Avenue,Las Vegas,Nevada,89160,United States,false,92.76,63.46,true
+2022-10-22 01:03:01,Sean,Seviour,sseviourmi@tuttocitta.it,"Club Soda - Schweppes, 355 Ml",Industrial,promotions,2 Novick Point,Oxnard,California,93034,United States,true,77.53,63.0,true
+2022-09-26 07:31:10,Roselle,Molan,rmolanmj@home.pl,Waffle Stix,Grocery,promotions,8 Transport Road,Springfield,Massachusetts,01114,United States,true,5.0,73.12,false
+2022-08-30 07:47:20,Shermie,Pamphilon,spamphilonmk@intel.com,"Nut - Pistachio, Shelled",Toys,paid search,046 Westport Plaza,Sacramento,California,94245,United States,true,94.49,52.39,false
+2023-01-04 00:38:57,Sidney,Putley,sputleyml@mysql.com,Lemon Grass,Shoes,promotions,4 Boyd Plaza,Austin,Texas,78715,United States,true,16.31,69.05,false
+2023-07-12 20:25:41,Maurizia,Greenwood,mgreenwoodmm@dropbox.com,Beer - Sleemans Cream Ale,Jewelry,promotions,173 Gale Court,Boston,Massachusetts,02104,United States,true,71.49,15.25,true
+2022-06-30 08:16:58,Fan,Sieve,fsievemn@bbb.org,Towel Multifold,Movies,paid search,454 Rigney Park,Knoxville,Tennessee,37995,United States,true,50.94,40.59,true
+2022-10-07 06:49:51,Celestine,Bassil,cbassilmo@geocities.com,Island Oasis - Lemonade,Clothing,video,17443 Thompson Terrace,Fairfield,Connecticut,06825,United States,true,39.46,5.92,true
+2023-09-24 11:51:45,Nikki,Rosoni,nrosonimp@sphinn.com,Lettuce Romaine Chopped,Toys,direct,26 Forster Road,Kansas City,Missouri,64101,United States,true,55.34,64.68,false
+2023-10-04 21:27:53,Gerry,Hakonsen,ghakonsenmq@4shared.com,Sweet Pea Sprouts,Books,video,8221 Almo Drive,El Paso,Texas,79928,United States,true,86.36,21.54,true
+2022-09-15 02:14:39,Lettie,Bodycote,lbodycotemr@furl.net,"Noodles - Cellophane, Thin",Shoes,video,408 Sage Alley,Pueblo,Colorado,81010,United States,true,67.22,94.23,false
+2023-06-24 17:30:46,Salome,Scibsey,sscibseyms@dot.gov,Sauce - Plum,Tools,direct,868 Weeping Birch Hill,Pittsburgh,Pennsylvania,15240,United States,false,19.56,28.46,true
+2023-05-27 06:20:51,Britt,Shoobridge,bshoobridgemt@yahoo.com,Chicken - Leg / Back Attach,Computers,mobile,544 Oakridge Place,Syracuse,New York,13224,United States,true,50.98,59.89,true
+2022-09-17 12:34:32,Charmian,Golling,cgollingmu@livejournal.com,Loquat,Toys,video,86617 Old Shore Drive,Orlando,Florida,32854,United States,false,10.72,43.26,false
+2022-02-10 15:08:16,Wallie,Evreux,wevreuxmv@hexun.com,Syrup - Monin - Granny Smith,Jewelry,paid search,2130 Mallory Road,Dallas,Texas,75372,United States,true,35.38,22.48,true
+2022-06-16 05:12:08,Rosalynd,De Maria,rdemariamw@liveinternet.ru,Flour - Teff,Sports,direct,18 Erie Center,Young America,Minnesota,55557,United States,true,65.32,47.98,true
+2022-07-16 10:35:06,Moses,Huyche,mhuychemx@apache.org,Oil - Avocado,Automotive,direct,0 Delaware Street,Terre Haute,Indiana,47812,United States,true,57.77,85.55,true
+2023-10-15 04:30:40,Lilia,Waterson,lwatersonmy@examiner.com,"Pepper - White, Whole",Games,mobile,96 Golf Avenue,Grand Forks,North Dakota,58207,United States,true,30.21,12.49,true
+2023-01-06 17:16:57,Delmer,Feakins,dfeakinsmz@qq.com,Dish Towel,Music,promotions,89 Northwestern Street,Clearwater,Florida,33763,United States,true,62.16,36.53,true
+2022-05-31 22:53:26,Minette,Dufaur,mdufaurn0@canalblog.com,Soup - Campbells Mushroom,Music,video,22 Sachtjen Place,Colorado Springs,Colorado,80915,United States,true,10.3,69.81,false
+2023-01-16 08:38:34,Garvin,Huddles,ghuddlesn1@nytimes.com,Raisin - Dark,Home,direct,0 Talisman Drive,Detroit,Michigan,48275,United States,true,95.78,90.97,true
+2022-07-17 19:59:18,Conchita,Balaisot,cbalaisotn2@deviantart.com,"Lid - 10,12,16 Oz",Music,paid search,4518 Morningstar Terrace,New York City,New York,10155,United States,true,82.32,58.8,true
+2022-01-04 16:09:15,Lucretia,Jirusek,ljirusekn3@imdb.com,"Crush - Grape, 355 Ml",Kids,direct,13060 Jenifer Crossing,Denver,Colorado,80228,United States,true,96.21,36.09,false
+2023-05-27 03:49:47,Rodney,Myton,rmytonn4@utexas.edu,Rootbeer,Books,mobile,6397 Mandrake Point,Fairbanks,Alaska,99709,United States,true,14.02,6.55,true
+2022-12-31 18:03:16,Debera,Andreuzzi,dandreuzzin5@techcrunch.com,Dc Hikiage Hira Huba,Automotive,video,6 Continental Road,Springfield,Illinois,62764,United States,true,90.25,27.4,true
+2023-02-13 12:46:30,Druci,Glusby,dglusbyn6@cnn.com,Sauce - Fish 25 Ozf Bottle,Shoes,direct,45 Petterle Pass,Buffalo,New York,14263,United States,true,12.63,69.06,true
+2023-02-02 06:58:44,George,Leggate,gleggaten7@twitter.com,Pan Grease,Health,video,174 1st Plaza,Naples,Florida,34108,United States,false,5.36,92.69,false
+2023-01-10 19:25:40,Chantal,Huckster,chuckstern8@msn.com,Calypso - Lemonade,Sports,direct,11147 Thompson Center,Cincinnati,Ohio,45999,United States,true,76.68,23.92,true
+2022-03-15 13:20:05,Lucienne,Symson,lsymsonn9@flickr.com,"Extract - Vanilla,artificial",Baby,paid social,38 Namekagon Circle,Birmingham,Alabama,35279,United States,true,53.38,3.48,true
+2022-09-14 13:01:28,Donny,Tumioto,dtumiotona@ezinearticles.com,"Beans - Kidney, Canned",Toys,direct,7470 Holmberg Crossing,Rochester,New York,14619,United States,true,28.14,19.5,true
+2023-01-12 21:57:14,Jacki,Traylen,jtraylennb@angelfire.com,Cocoa Powder - Natural,Jewelry,paid search,220 Fremont Parkway,New York City,New York,10099,United States,true,38.68,15.45,false
+2023-08-28 01:03:32,Creight,Tondeur,ctondeurnc@bbb.org,Beef Tenderloin Aaa,Grocery,video,05 Melody Park,Sioux Falls,South Dakota,57193,United States,true,57.9,58.95,false
+2022-04-22 23:31:29,Mathilde,Darragh,mdarraghnd@guardian.co.uk,Syrup - Kahlua Chocolate,Health,video,6 Fairview Crossing,Austin,Texas,78703,United States,true,94.92,99.05,false
+2023-06-05 19:18:03,Brianne,Chance,bchancene@bravesites.com,"Brocolinni - Gaylan, Chinese",Industrial,paid social,19 Starling Street,Houston,Texas,77085,United States,true,67.03,9.08,true
+2023-10-21 13:04:18,Doretta,Bertin,dbertinnf@people.com.cn,Pheasants - Whole,Automotive,promotions,32765 Larry Circle,Fort Pierce,Florida,34949,United States,true,56.45,84.22,false
+2022-12-15 05:56:18,Izaak,Borne,iborneng@trellian.com,Pork - Backs - Boneless,Games,video,0 Monica Way,Corpus Christi,Texas,78465,United States,false,59.09,54.85,false
+2023-10-06 00:49:28,Rodolphe,Halleday,rhalledaynh@opera.com,Muffin Carrot - Individual,Outdoors,paid social,2798 Havey Point,Austin,Texas,78737,United States,true,46.57,33.89,false
+2022-01-21 07:32:04,Adelina,Meins,ameinsni@last.fm,Pork - Belly Fresh,Automotive,promotions,792 South Alley,Oklahoma City,Oklahoma,73119,United States,true,37.43,66.61,true
+2023-05-16 13:00:17,Melinda,Prover,mprovernj@gizmodo.com,Juice - Apple Cider,Beauty,promotions,916 La Follette Park,Lynn,Massachusetts,01905,United States,true,80.47,61.05,true
+2022-09-18 12:05:44,Janot,Yelyashev,jyelyashevnk@elpais.com,Veal - Knuckle,Toys,promotions,99 Shoshone Park,Clearwater,Florida,34629,United States,true,1.23,10.46,true
+2022-05-06 01:43:38,Noel,Winspeare,nwinspearenl@nba.com,Versatainer Nc - 9388,Kids,direct,35 Fairfield Junction,Washington,District of Columbia,20062,United States,true,30.07,33.58,false
+2022-01-24 19:45:58,Milicent,Simmell,msimmellnm@techcrunch.com,"Pepper - Red, Finger Hot",Electronics,paid search,0382 Colorado Circle,Tampa,Florida,33661,United States,true,43.68,55.82,false
+2023-05-11 06:31:34,Yard,Lofthouse,ylofthousenn@china.com.cn,Chicken Giblets,Tools,paid social,2 Heath Park,Dallas,Texas,75342,United States,true,63.14,8.97,false
+2022-10-17 08:50:10,Reinold,Elvins,relvinsno@de.vu,"Tart Shells - Savory, 4",Tools,promotions,0184 Kings Park,Erie,Pennsylvania,16505,United States,true,42.41,95.34,true
+2022-11-18 14:04:49,Wendell,Rous,wrousnp@godaddy.com,"Crab - Back Fin Meat, Canned",Clothing,promotions,8368 Miller Way,Baton Rouge,Louisiana,70836,United States,true,78.69,57.6,true
+2023-02-03 16:59:31,Eydie,Bayston,ebaystonnq@51.la,Rabbit - Saddles,Outdoors,video,5893 Ilene Park,Sacramento,California,94273,United States,true,41.89,79.66,false
+2023-01-16 18:14:23,Daria,Crosscombe,dcrosscombenr@fastcompany.com,Onion Powder,Sports,direct,5495 Ryan Parkway,Anchorage,Alaska,99517,United States,true,16.4,66.46,false
+2022-07-13 20:59:47,Benedikta,Winterton,bwintertonns@uol.com.br,Alize Sunset,Music,promotions,07963 Moland Alley,Tucson,Arizona,85705,United States,true,58.05,13.74,false
+2023-04-18 23:58:42,Blair,De La Cote,bdelacotent@typepad.com,Curry Powder Madras,Movies,mobile,5 Huxley Street,Harrisburg,Pennsylvania,17121,United States,true,27.87,56.81,true
+2023-02-22 14:55:29,Mallory,Kimmins,mkimminsnu@usa.gov,"Stock - Beef, Brown",Baby,paid social,622 Wayridge Way,Pittsburgh,Pennsylvania,15250,United States,true,86.93,27.23,true
+2023-08-03 19:17:48,Alaine,Bidmead,abidmeadnv@hp.com,Beer - Paulaner Hefeweisse,Music,paid search,77 Farwell Road,Arvada,Colorado,80005,United States,true,90.68,39.21,true
+2023-02-14 18:04:26,Erina,Gelland,egellandnw@chronoengine.com,Lotus Leaves,Home,paid search,88039 Kinsman Place,Greenville,South Carolina,29615,United States,true,63.6,95.49,false
+2023-04-28 13:20:21,Lexy,Avrasin,lavrasinnx@theglobeandmail.com,Lamb Rack Frenched Australian,Jewelry,direct,45150 Granby Circle,Tacoma,Washington,98417,United States,false,18.96,77.38,true
+2023-07-09 16:28:01,Wyatan,Goroni,wgoroniny@noaa.gov,Island Oasis - Sweet And Sour Mix,Outdoors,paid social,3 Delaware Parkway,Alexandria,Virginia,22301,United States,false,72.68,14.4,false
+2022-08-02 01:13:45,Joann,McMorland,jmcmorlandnz@howstuffworks.com,Blue Curacao - Marie Brizard,Games,promotions,839 Monica Point,Birmingham,Alabama,35244,United States,true,17.65,90.7,false
+2022-02-14 23:32:13,Vikky,Hurburt,vhurburto0@about.com,Garlic - Elephant,Toys,paid search,1 Glacier Hill Crossing,Scottsdale,Arizona,85260,United States,true,81.03,66.04,false
+2023-06-02 23:46:31,Cyndy,Shemilt,cshemilto1@bluehost.com,Veal - Inside,Garden,mobile,44 Mesta Plaza,Charleston,West Virginia,25326,United States,true,74.33,23.73,false
+2023-02-04 11:20:38,Dniren,Pether,dpethero2@nymag.com,Soup - Campbellschix Stew,Kids,direct,7 Sutherland Circle,San Diego,California,92145,United States,true,43.04,82.53,true
+2023-05-31 16:33:19,Willi,Daysh,wdaysho3@gov.uk,Jameson Irish Whiskey,Books,paid search,9 Utah Terrace,Atlanta,Georgia,30343,United States,true,74.86,29.32,false
+2023-02-08 00:32:46,Fabien,Kinneir,fkinneiro4@psu.edu,"Pepper - Red, Finger Hot",Toys,paid search,90873 Barnett Terrace,Lexington,Kentucky,40591,United States,true,49.65,42.28,true
+2022-06-28 00:44:01,Paulie,Balfre,pbalfreo5@eepurl.com,Piping - Bags Quizna,Electronics,direct,274 Carioca Junction,Baltimore,Maryland,21290,United States,false,44.5,49.02,true
+2023-02-01 20:38:56,Coralie,Pawlik,cpawliko6@people.com.cn,Pears - Fiorelle,Games,video,0 Huxley Alley,Warren,Michigan,48092,United States,true,90.27,61.04,false
+2022-01-07 22:30:05,Nicoli,Canedo,ncanedoo7@fema.gov,Honey - Liquid,Baby,promotions,4 Basil Place,Kansas City,Missouri,64179,United States,true,12.02,9.2,true
+2023-03-09 02:27:42,Leonora,Ortiga,lortigao8@squarespace.com,"Cheese - Havarti, Roasted Garlic",Books,paid social,31 Roxbury Avenue,Lansing,Michigan,48919,United States,true,81.72,78.02,true
+2022-01-13 02:42:15,Maris,Paule,mpauleo9@miitbeian.gov.cn,Tomato - Green,Movies,paid social,20 Hoffman Parkway,Kansas City,Missouri,64193,United States,true,79.89,50.07,true
+2023-04-09 20:34:44,Pablo,Tolchar,ptolcharoa@reference.com,Compound - Strawberry,Health,paid search,3400 Parkside Trail,Petaluma,California,94975,United States,true,3.71,96.01,false
+2023-02-03 22:49:57,Marcel,Cureton,mcuretonob@phpbb.com,Arizona - Plum Green Tea,Kids,paid search,97594 Holmberg Circle,Evansville,Indiana,47737,United States,true,15.02,22.12,false
+2022-01-17 10:23:33,Lona,Dufer,lduferoc@google.ca,Irish Cream - Baileys,Grocery,paid social,07 Lindbergh Road,Dallas,Texas,75310,United States,true,40.79,44.88,false
+2023-02-21 14:35:53,Reeta,Barbour,rbarbourod@nps.gov,Bread - Italian Corn Meal Poly,Jewelry,mobile,5861 Duke Place,Punta Gorda,Florida,33982,United States,true,38.22,85.3,false
+2023-03-13 01:11:35,Sax,Gerg,sgergoe@facebook.com,Onion Powder,Electronics,paid search,1449 Scoville Road,Worcester,Massachusetts,01654,United States,true,40.33,37.95,true
+2022-11-07 17:54:55,Rock,Yankov,ryankovof@craigslist.org,Quail - Jumbo Boneless,Electronics,video,52 Novick Hill,Lynchburg,Virginia,24515,United States,true,56.14,25.63,true
+2022-12-08 21:12:04,Cathrin,McGing,cmcgingog@fc2.com,Beer - Mcauslan Apricot,Beauty,video,7171 Maryland Drive,Morgantown,West Virginia,26505,United States,true,69.82,15.05,true
+2023-07-26 08:52:57,Sanderson,Edgar,sedgaroh@japanpost.jp,Rabbit - Saddles,Outdoors,mobile,387 Mallory Parkway,Richmond,Virginia,23285,United States,true,73.33,37.12,true
+2023-04-16 22:23:43,Marissa,Lyfield,mlyfieldoi@github.com,Sour Puss - Tangerine,Grocery,mobile,411 Loomis Trail,Sacramento,California,95823,United States,true,42.38,30.31,true
+2023-05-15 20:58:05,Maxy,Gilbey,mgilbeyoj@bravesites.com,Peppercorns - Pink,Computers,promotions,8 Esker Trail,El Paso,Texas,79940,United States,false,17.23,69.24,true
+2022-04-13 07:23:49,Clare,Judron,cjudronok@acquirethisname.com,"Napkin - Dinner, White",Electronics,direct,5 Loomis Park,Hartford,Connecticut,06105,United States,true,54.04,56.51,false
+2022-04-16 01:25:49,Ivor,Semonin,isemoninol@deliciousdays.com,Longos - Cheese Tortellini,Baby,video,503 La Follette Drive,Wilmington,Delaware,19886,United States,false,27.34,25.47,false
+2023-03-27 04:55:35,Ignace,Dabnor,idabnorom@xrea.com,"Cheese - Cheddar, Mild",Movies,paid search,73 Spenser Circle,Louisville,Kentucky,40256,United States,false,93.03,5.13,true
+2023-02-03 12:25:49,Fabio,Gauchier,fgauchieron@rakuten.co.jp,Wiberg Cure,Electronics,paid social,63623 Loftsgordon Way,Nashville,Tennessee,37240,United States,true,21.85,7.1,false
+2023-07-27 02:21:28,Edik,Petz,epetzoo@narod.ru,Salt And Pepper Mix - White,Beauty,video,809 Hoepker Court,Atlanta,Georgia,30386,United States,true,71.76,24.96,false
+2022-08-28 15:42:38,Katrina,Loeber,kloeberop@ucoz.ru,Kale - Red,Games,video,8288 Express Trail,Fort Pierce,Florida,34949,United States,false,26.3,42.85,true
+2023-07-04 00:45:23,Bamby,Oldall,boldalloq@list-manage.com,Eggwhite Frozen,Computers,paid search,38455 Golf Trail,Huntington,West Virginia,25709,United States,true,25.72,63.1,false
+2022-10-02 04:29:11,Sherye,Potteridge,spotteridgeor@va.gov,Cheese - Comtomme,Toys,paid search,51023 Little Fleur Lane,El Paso,Texas,88514,United States,true,75.5,2.16,false
+2023-07-12 16:09:20,Vernen,Regus,vregusos@craigslist.org,Couscous,Clothing,direct,64 Bowman Terrace,Washington,District of Columbia,20051,United States,true,3.45,48.93,true
+2023-01-06 21:45:05,Konstance,Thoma,kthomaot@mail.ru,Cloves - Ground,Garden,promotions,2 Kenwood Junction,Chicago,Illinois,60641,United States,true,31.8,74.92,false
+2022-06-03 17:40:18,Pandora,Tattersdill,ptattersdillou@washingtonpost.com,Chocolate - Compound Coating,Automotive,paid social,1343 Haas Park,Rochester,New York,14619,United States,true,48.21,51.01,false
+2022-03-30 17:08:44,Karena,Gameson,kgamesonov@nymag.com,Remy Red,Baby,paid social,6 Montana Point,Houston,Texas,77030,United States,true,57.37,28.2,true
+2022-05-06 15:29:42,Ulises,Tregent,utregentow@jiathis.com,Muffin Orange Individual,Beauty,direct,3 Crownhardt Park,Amarillo,Texas,79105,United States,false,52.75,44.55,true
+2023-10-26 10:41:55,Kamilah,Withull,kwithullox@myspace.com,"Rum - Light, Captain Morgan",Movies,video,53 Main Street,Grand Rapids,Michigan,49518,United States,true,48.64,49.74,true
+2023-08-12 17:49:13,Nikita,Abrahamsohn,nabrahamsohnoy@hostgator.com,"Appetizer - Spring Roll, Veg",Music,direct,88 Coleman Plaza,El Paso,Texas,88519,United States,true,4.56,31.42,false
+2022-04-09 12:04:17,Ariadne,Ricart,aricartoz@tmall.com,"Chilli Paste, Hot Sambal Oelek",Movies,mobile,2 Rusk Junction,Detroit,Michigan,48258,United States,true,77.55,56.92,true
+2023-06-19 03:47:32,Lorenzo,Mahaddy,lmahaddyp0@163.com,Cut Wakame - Hanawakaba,Kids,promotions,78 Blue Bill Park Plaza,Santa Ana,California,92705,United States,true,79.63,27.23,true
+2022-11-24 21:44:49,Amargo,Rounding,aroundingp1@latimes.com,Shopper Bag - S - 4,Jewelry,mobile,84 Longview Road,Detroit,Michigan,48275,United States,true,77.37,57.36,false
+2022-08-06 18:24:07,Godfree,Jan,gjanp2@amazonaws.com,Truffle Shells - Semi - Sweet,Books,direct,678 Butterfield Alley,Washington,District of Columbia,20210,United States,true,48.57,18.87,false
+2023-10-21 20:19:37,Francyne,Buzek,fbuzekp3@microsoft.com,Pork - Backfat,Toys,paid social,116 Florence Crossing,Lees Summit,Missouri,64082,United States,true,22.79,32.34,true
+2023-08-16 22:05:41,Corbin,Benedite,cbeneditep4@imdb.com,Pie Filling - Apple,Baby,paid social,10832 Anthes Trail,Mobile,Alabama,36622,United States,true,79.61,54.04,true
+2022-05-02 14:16:17,Jeannie,Athelstan,jathelstanp5@cnet.com,Rabbit - Whole,Health,promotions,776 Coleman Pass,Saint Cloud,Minnesota,56372,United States,true,45.63,5.06,false
+2022-04-11 12:12:43,Franciskus,Rilings,frilingsp6@wikipedia.org,Wine - Carmenere Casillero Del,Movies,promotions,01412 Derek Circle,New York City,New York,10004,United States,true,82.95,44.49,true
+2022-05-28 16:20:26,Morganne,Conklin,mconklinp7@gov.uk,Sprouts - China Rose,Books,direct,58418 Montana Center,San Jose,California,95133,United States,true,35.81,69.4,false
+2023-07-13 07:55:50,Devy,Sowthcote,dsowthcotep8@paginegialle.it,French Pastries,Automotive,paid search,2173 Roth Alley,Fort Smith,Arkansas,72916,United States,false,73.34,41.3,false
+2022-12-03 12:17:48,Wyndham,Habbert,whabbertp9@ca.gov,"Pasta - Lasagna, Dry",Baby,paid search,8 Briar Crest Terrace,Austin,Texas,78732,United States,true,79.41,41.77,false
+2023-04-22 23:12:11,Ilise,Camp,icamppa@usgs.gov,Hot Choc Vending,Computers,promotions,895 Redwing Road,Honolulu,Hawaii,96805,United States,true,98.45,32.48,false
+2022-07-20 21:21:20,Brendin,Runacres,brunacrespb@biblegateway.com,Cheese - Perron Cheddar,Garden,direct,0418 Kim Drive,Edmond,Oklahoma,73034,United States,true,96.09,4.79,false
+2022-12-22 19:15:33,Lorrayne,Gabbitus,lgabbituspc@acquirethisname.com,Mushroom - King Eryingii,Industrial,paid search,3292 High Crossing Street,Richmond,Virginia,23237,United States,true,29.35,30.21,false
+2022-12-04 18:45:28,Louisette,Robelin,lrobelinpd@irs.gov,Longan,Beauty,direct,63 Anzinger Drive,El Paso,Texas,88563,United States,true,76.0,28.12,true
+2022-07-08 06:14:36,Gauthier,Burkitt,gburkittpe@netscape.com,Blackberries,Health,promotions,99 Moulton Lane,Texarkana,Texas,75507,United States,false,76.6,98.37,true
+2023-09-05 04:33:08,Ave,Bridgement,abridgementpf@cornell.edu,Sponge Cake Mix - Vanilla,Outdoors,paid social,454 Novick Plaza,Boston,Massachusetts,02124,United States,true,20.35,69.58,true
+2023-01-23 00:40:46,Gilburt,Gareisr,ggareisrpg@lycos.com,Crackers - Soda / Saltins,Kids,promotions,76017 Mayer Circle,San Diego,California,92115,United States,true,22.41,98.06,false
+2022-02-09 14:40:37,Brittne,Linstead,blinsteadph@ehow.com,Tuna - Sushi Grade,Beauty,promotions,6006 Sheridan Point,Naples,Florida,34102,United States,true,18.56,23.3,true
+2022-04-09 01:38:55,Kennie,Matson,kmatsonpi@columbia.edu,Nantucket Pine Orangebanana,Home,mobile,19 Helena Pass,Mansfield,Ohio,44905,United States,true,86.93,11.04,false
+2022-08-13 09:10:59,Kevyn,Yousef,kyousefpj@hugedomains.com,Wine - Chateau Timberlay,Music,promotions,108 Pierstorff Way,Fort Lauderdale,Florida,33330,United States,false,68.23,53.36,false
+2023-06-12 14:10:30,Deeyn,Dufer,dduferpk@va.gov,Vinegar - Cider,Health,mobile,1650 Tony Drive,Tyler,Texas,75705,United States,true,36.13,48.69,true
+2023-06-26 09:08:53,Bess,Baudi,bbaudipl@oracle.com,Syrup - Monin - Passion Fruit,Garden,paid social,45 Knutson Crossing,Long Beach,California,90831,United States,true,11.82,32.85,true
+2022-08-27 10:02:02,Monty,Bouette,mbouettepm@opensource.org,"Juice - Cranberry, 341 Ml",Jewelry,paid search,0841 Monterey Terrace,Fresno,California,93786,United States,true,28.8,64.55,false
+2023-10-29 13:08:12,Estrellita,Hegerty,ehegertypn@cloudflare.com,"Turkey - Breast, Boneless Sk On",Clothing,mobile,87 Blackbird Street,Greensboro,North Carolina,27455,United States,true,70.82,84.89,true
+2023-05-28 23:22:13,Ikey,Kennett,ikennettpo@google.co.jp,Flour - Pastry,Shoes,promotions,90103 Luster Lane,Lincoln,Nebraska,68510,United States,true,31.01,55.23,false
+2023-06-01 19:32:53,Corrie,Brise,cbrisepp@clickbank.net,Sobe - Lizard Fuel,Books,paid social,387 Dunning Alley,Yonkers,New York,10705,United States,true,11.74,97.15,false
+2022-02-01 13:42:19,Redford,Wix,rwixpq@webnode.com,"Croissant, Raw - Mini",Health,paid social,6587 Anderson Trail,Glendale,Arizona,85311,United States,true,31.74,11.57,false
+2022-10-16 04:46:15,Nester,Paulino,npaulinopr@miibeian.gov.cn,"Lettuce - Mini Greens, Whole",Tools,video,3369 Surrey Junction,North Las Vegas,Nevada,89087,United States,true,93.27,11.47,false
+2023-06-22 13:01:24,Christie,De Cruce,cdecruceps@sogou.com,Coconut Milk - Unsweetened,Outdoors,mobile,93325 Straubel Avenue,Washington,District of Columbia,20380,United States,true,99.6,79.7,false
+2023-01-11 02:11:51,Timothea,Illem,tillempt@netlog.com,Yeast Dry - Fleischman,Health,video,20 Troy Place,Athens,Georgia,30605,United States,true,61.75,85.54,true
+2022-05-01 02:11:04,Casey,De Gowe,cdegowepu@artisteer.com,"Cheese - Romano, Grated",Health,paid search,0 Waywood Pass,Lehigh Acres,Florida,33972,United States,true,21.44,2.55,true
+2022-09-06 00:07:15,Zebedee,Kinnin,zkinninpv@trellian.com,"Jam - Marmalade, Orange",Shoes,video,7838 Pierstorff Park,Rockford,Illinois,61105,United States,true,6.73,5.68,true
+2022-03-24 05:58:42,Lorne,Vearncomb,lvearncombpw@usda.gov,Wine - Prem Select Charddonany,Clothing,paid search,126 Basil Road,Boise,Idaho,83722,United States,true,96.79,97.05,false
+2023-04-20 11:52:24,Yolande,Fonzone,yfonzonepx@oracle.com,Shrimp - Black Tiger 6 - 8,Computers,direct,5533 Hansons Place,Minneapolis,Minnesota,55480,United States,true,69.26,62.47,false
+2022-02-24 05:25:13,Peggie,Franey,pfraneypy@alexa.com,Mustard - Dijon,Tools,mobile,91 Talmadge Alley,El Paso,Texas,88535,United States,false,51.14,82.66,true
+2022-05-28 16:51:40,Witty,Sergeaunt,wsergeauntpz@google.com.br,Onions - Pearl,Shoes,video,2998 Anhalt Plaza,Seattle,Washington,98104,United States,true,19.01,52.7,false
+2023-06-22 02:08:38,Lonny,Schuler,lschulerq0@fc2.com,Icecream - Dibs,Kids,paid search,9660 Northridge Place,Longview,Texas,75605,United States,true,41.01,4.85,true
+2022-12-17 12:35:37,Odey,Pleace,opleaceq1@icq.com,"Beans - Kidney, Canned",Electronics,promotions,4 Towne Center,Atlanta,Georgia,30368,United States,true,82.66,89.93,false
+2023-01-29 03:48:47,Elyse,Herety,eheretyq2@lycos.com,Coffee - Frthy Coffee Crisp,Jewelry,mobile,7 Acker Crossing,San Antonio,Texas,78250,United States,true,44.34,77.5,false
+2022-01-05 11:41:44,Jessalyn,Daud,jdaudq3@nyu.edu,Five Alive Citrus,Books,promotions,217 Killdeer Place,Springfield,Missouri,65810,United States,true,8.27,63.26,false
+2022-07-21 05:39:59,Gerti,Lighten,glightenq4@nbcnews.com,Napkin - Beverage 1 Ply,Industrial,direct,2280 Kropf Parkway,Worcester,Massachusetts,01654,United States,true,82.41,37.15,false
+2022-11-10 16:38:14,Cherilynn,Slane,cslaneq5@nih.gov,Sprouts - Peppercress,Kids,video,5 Huxley Park,Birmingham,Alabama,35225,United States,false,18.1,31.27,true
+2023-08-06 13:51:04,Barnabas,Cornils,bcornilsq6@cloudflare.com,"Pepsi - Diet, 355 Ml",Movies,paid social,33 Lakewood Hill,Loretto,Minnesota,55598,United States,true,77.29,74.43,false
+2023-04-26 12:57:39,Lock,Georgelin,lgeorgelinq7@ftc.gov,"Mustard - Dry, Powder",Tools,video,34733 Dunning Place,Cleveland,Ohio,44105,United States,true,73.76,51.0,false
+2023-02-16 23:02:42,Star,Rosenschein,srosenscheinq8@go.com,Wiberg Super Cure,Tools,paid social,5191 Autumn Leaf Court,Merrifield,Virginia,22119,United States,true,12.14,46.1,true
+2022-02-06 11:06:51,Valina,Gambrell,vgambrellq9@prlog.org,"Bar Mix - Pina Colada, 355 Ml",Clothing,paid search,96094 Kingsford Pass,Charlotte,North Carolina,28242,United States,true,95.01,19.32,false
+2023-03-18 01:59:59,Elinor,Brainsby,ebrainsbyqa@devhub.com,Liquid Aminios Acid - Braggs,Toys,promotions,2 Union Alley,New Bedford,Massachusetts,02745,United States,false,31.81,79.07,false
+2023-01-25 00:55:14,Aldin,Bourdice,abourdiceqb@sourceforge.net,Wine - Puligny Montrachet A.,Grocery,promotions,26723 Kenwood Lane,Laurel,Maryland,20709,United States,true,46.64,80.63,true
+2023-08-25 00:37:59,Tyrus,Wondraschek,twondraschekqc@sitemeter.com,Rice - Long Grain,Home,paid social,36 Blue Bill Park Drive,Laredo,Texas,78044,United States,true,76.56,58.55,false
+2023-09-29 06:28:29,Jessamine,Lefley,jlefleyqd@cyberchimps.com,Rappini - Andy Boy,Beauty,video,4246 Talmadge Circle,Muskegon,Michigan,49444,United States,false,51.86,73.78,false
+2022-10-25 00:21:05,Candi,Caldero,ccalderoqe@scribd.com,Longos - Greek Salad,Sports,paid social,88018 Barnett Alley,Denver,Colorado,80209,United States,false,63.4,70.41,false
+2022-01-11 18:58:31,Winne,Wollacott,wwollacottqf@angelfire.com,"Jam - Marmalade, Orange",Jewelry,paid social,87200 Prairie Rose Court,Atlanta,Georgia,30368,United States,true,13.1,25.08,false
+2022-11-19 23:43:18,Dannye,Allatt,dallattqg@issuu.com,Lotus Root,Sports,paid social,36 Bluejay Hill,Rochester,New York,14619,United States,true,13.87,18.51,true
+2023-01-30 12:40:41,Polly,Wales,pwalesqh@topsy.com,Wine - Beaujolais Villages,Shoes,paid search,4 Cambridge Terrace,Salt Lake City,Utah,84145,United States,true,47.07,11.7,false
+2022-02-26 20:26:47,Lindie,Drinkhall,ldrinkhallqi@rakuten.co.jp,Hog / Sausage Casing - Pork,Tools,video,49935 Clove Drive,Waterbury,Connecticut,06726,United States,true,97.11,64.67,false
+2022-06-10 18:47:01,Claretta,Kuhlen,ckuhlenqj@goo.ne.jp,Yeast Dry - Fermipan,Industrial,video,7 Pleasure Place,Madison,Wisconsin,53710,United States,true,42.05,3.77,false
+2022-06-12 01:22:44,Clare,Nelthrop,cnelthropqk@mlb.com,Grapefruit - White,Computers,promotions,1 Bartelt Plaza,Albuquerque,New Mexico,87115,United States,true,31.03,83.18,true
+2022-12-17 00:57:43,Robers,Benting,rbentingql@simplemachines.org,"Nut - Pecan, Halves",Toys,promotions,4 Buena Vista Point,Brooklyn,New York,11241,United States,true,13.2,71.85,true
+2022-03-29 11:53:14,Lishe,Wybrow,lwybrowqm@w3.org,Appetizer - Smoked Salmon / Dill,Books,promotions,552 Bunker Hill Alley,Pasadena,Texas,77505,United States,false,85.87,47.66,true
+2022-11-21 22:07:56,Sawyer,Charleston,scharlestonqn@unblog.fr,"Coconut - Creamed, Pure",Health,paid search,54499 Sheridan Lane,Carol Stream,Illinois,60158,United States,true,66.83,83.96,false
+2023-10-02 14:32:36,Thomasine,Condy,tcondyqo@ezinearticles.com,"Pepper - Paprika, Hungarian",Clothing,video,50003 Dunning Place,Nashville,Tennessee,37245,United States,true,83.48,43.29,true
+2022-03-26 02:44:10,Derby,Czajkowska,dczajkowskaqp@arizona.edu,Cake - Dulce De Leche,Electronics,mobile,64 Mendota Crossing,Montgomery,Alabama,36177,United States,true,61.23,23.55,false
+2022-02-28 12:44:34,Charley,Sallier,csallierqq@icio.us,Extract - Almond,Grocery,promotions,706 Melody Court,Nashville,Tennessee,37210,United States,true,32.61,69.42,false
+2023-07-29 10:18:30,Randene,Jandel,rjandelqr@go.com,"Cheese - Cheddar, Old White",Beauty,video,340 Coolidge Center,Stamford,Connecticut,06912,United States,false,55.63,12.09,true
+2023-08-23 19:54:19,Isidro,Theml,ithemlqs@shop-pro.jp,Cookie Dough - Peanut Butter,Electronics,promotions,2 Autumn Leaf Street,Merrifield,Virginia,22119,United States,true,30.12,55.48,true
+2022-05-25 05:57:47,Noelani,Luigi,nluigiqt@wikipedia.org,Pickle - Dill,Computers,promotions,0552 Weeping Birch Avenue,Galveston,Texas,77554,United States,true,54.47,54.76,true
+2023-07-08 12:16:30,Karine,Frayling,kfraylingqu@merriam-webster.com,Frangelico,Computers,direct,8112 Mallory Alley,Pompano Beach,Florida,33075,United States,true,15.15,89.84,true
+2023-09-30 02:53:19,Lombard,Challenor,lchallenorqv@bloglovin.com,Muffin - Mix - Strawberry Rhubarb,Games,paid social,028 Monica Park,San Diego,California,92176,United States,true,10.09,95.08,true
+2022-11-21 09:25:19,Marchelle,Ellerey,mellereyqw@t.co,Turnip - Wax,Home,promotions,70650 Homewood Place,Washington,District of Columbia,20210,United States,true,97.47,53.05,true
+2023-07-04 02:23:45,Billy,Sleit,bsleitqx@nih.gov,Russian Prince,Baby,video,94 High Crossing Alley,Young America,Minnesota,55573,United States,false,75.1,73.72,false
+2023-09-30 23:43:31,Maura,Callf,mcallfqy@webeden.co.uk,Shrimp - Black Tiger 16/20,Home,paid social,50413 Maple Crossing,Louisville,Kentucky,40250,United States,true,50.68,90.25,true
+2022-10-16 09:55:31,Alys,Giovannetti,agiovannettiqz@admin.ch,Bag Stand,Sports,video,34 Sage Junction,Edmond,Oklahoma,73034,United States,true,9.06,63.04,true
+2023-09-05 14:46:37,Eric,Casale,ecasaler0@forbes.com,Sauce - Oyster,Books,paid search,846 Loftsgordon Terrace,Chicago,Illinois,60652,United States,true,35.66,57.17,true
+2022-11-05 09:52:17,Kariotta,Skase,kskaser1@vimeo.com,Basil - Thai,Sports,mobile,883 Randy Place,London,Kentucky,40745,United States,true,9.44,64.32,false
+2022-05-20 06:00:46,Nesta,Rawson,nrawsonr2@exblog.jp,Cookies - Englishbay Wht,Games,direct,831 Jenna Junction,Chandler,Arizona,85246,United States,true,66.6,73.87,false
+2022-06-17 23:33:34,Niki,Samples,nsamplesr3@facebook.com,Puff Pastry - Sheets,Games,promotions,1598 Center Terrace,Houston,Texas,77045,United States,true,35.13,27.23,true
+2022-02-17 05:24:45,Cassie,Myrtle,cmyrtler4@smugmug.com,Sugar - Palm,Industrial,direct,92 Hansons Park,El Paso,Texas,88519,United States,false,50.55,23.7,true
+2023-07-08 19:15:53,Sibelle,Peerman,speermanr5@youtube.com,Anisette - Mcguiness,Computers,paid social,9693 Jenna Way,Saint Louis,Missouri,63180,United States,true,78.92,27.89,true
+2022-01-21 06:35:09,Edwina,Heys,eheysr6@symantec.com,Bananas,Industrial,paid search,6 Toban Junction,Raleigh,North Carolina,27626,United States,true,98.25,71.87,false
+2023-06-13 10:45:48,Kendra,Swiffen,kswiffenr7@symantec.com,"Soup - Beef Conomme, Dry",Industrial,paid search,05 Ramsey Court,Erie,Pennsylvania,16510,United States,true,18.19,60.7,false
+2023-09-04 06:16:40,Lark,Older,lolderr8@fda.gov,"Water, Tap",Music,direct,13 Graedel Pass,Spokane,Washington,99260,United States,false,88.31,1.15,true
+2022-09-19 15:04:11,Verile,Smooth,vsmoothr9@dion.ne.jp,Eel - Smoked,Beauty,paid social,66890 Red Cloud Drive,Spokane,Washington,99220,United States,true,95.98,12.92,false
+2023-01-03 02:47:09,Herschel,McKain,hmckainra@clickbank.net,Juice - Apple Cider,Beauty,direct,145 Northfield Drive,Pasadena,California,91131,United States,true,53.27,13.57,false
+2022-03-16 08:47:05,Mayer,Dorset,mdorsetrb@sakura.ne.jp,Bread - Kimel Stick Poly,Garden,video,713 Blue Bill Park Place,Fresno,California,93726,United States,true,94.63,7.23,true
+2023-06-05 21:50:52,Horacio,Rikkard,hrikkardrc@nifty.com,Sun - Dried Tomatoes,Baby,video,70 Swallow Court,New York City,New York,10275,United States,true,3.12,65.5,true
+2023-03-03 06:49:26,Cliff,Mattisssen,cmattisssenrd@icq.com,"Wine - Red, Cabernet Merlot",Outdoors,mobile,30167 Stang Street,Oklahoma City,Oklahoma,73114,United States,true,19.85,30.83,true
+2022-12-16 01:37:38,Carita,Blest,cblestre@hostgator.com,Pear - Halves,Tools,paid search,36 Michigan Circle,Saint Louis,Missouri,63196,United States,true,14.11,8.96,false
+2022-06-13 16:25:38,Yorke,Methuen,ymethuenrf@cbsnews.com,Bamboo Shoots - Sliced,Movies,promotions,35954 Caliangt Park,Naples,Florida,33961,United States,true,8.13,30.48,false
+2022-03-31 00:03:53,Penn,Swinnard,pswinnardrg@latimes.com,"Syrup - Golden, Lyles",Books,promotions,940 Butternut Hill,El Paso,Texas,88541,United States,true,82.73,81.92,false
+2022-06-10 21:31:32,Pammy,Garmans,pgarmansrh@indiegogo.com,Sea Bass - Fillets,Health,paid social,755 Schiller Parkway,Detroit,Michigan,48232,United States,true,95.11,83.95,true
+2022-09-11 15:37:32,Joleen,Bolsteridge,jbolsteridgeri@altervista.org,Cup - Translucent 7 Oz Clear,Shoes,paid search,9526 Mcbride Trail,Tallahassee,Florida,32314,United States,true,80.66,99.08,true
+2023-09-03 20:27:25,Trula,Mcsarry,tmcsarryrj@livejournal.com,Venison - Liver,Garden,mobile,6712 Hintze Crossing,Anchorage,Alaska,99517,United States,false,28.4,83.83,false
+2023-03-29 07:01:42,Jeanine,Giamelli,jgiamellirk@berkeley.edu,Flour - Strong Pizza,Jewelry,paid search,07 Columbus Street,Annapolis,Maryland,21405,United States,true,42.28,18.87,true
+2023-05-03 20:34:12,Mariejeanne,Jenkinson,mjenkinsonrl@wikia.com,"Capon - Breast, Double, Wing On",Computers,mobile,88882 Sage Plaza,Madison,Wisconsin,53790,United States,true,81.29,81.76,false
+2023-02-07 01:17:08,Eadmund,Alenichicov,ealenichicovrm@so-net.ne.jp,"Wine - White, Pinot Grigio",Shoes,direct,10 Vernon Drive,Macon,Georgia,31210,United States,true,77.94,91.9,true
+2022-06-11 18:33:49,Ban,Nand,bnandrn@hud.gov,Cheese - Swiss,Industrial,paid social,02 Kinsman Way,Austin,Texas,78754,United States,true,50.42,1.55,false
+2023-09-07 12:30:10,Elias,Parlott,eparlottro@cafepress.com,Milkettes - 2%,Shoes,mobile,9 Amoth Place,Bakersfield,California,93311,United States,false,30.15,49.24,false
+2022-01-31 15:16:59,Angele,Hooks,ahooksrp@dyndns.org,Turkey Tenderloin Frozen,Clothing,promotions,45614 Quincy Junction,Helena,Montana,59623,United States,true,40.5,76.02,false
+2023-03-30 05:11:17,Archaimbaud,Noseworthy,anoseworthyrq@ehow.com,Tea - Earl Grey,Outdoors,direct,6 Meadow Valley Plaza,Dallas,Texas,75397,United States,true,67.43,54.4,true
+2023-09-01 09:38:13,Melba,Craigg,mcraiggrr@usgs.gov,Garlic - Elephant,Sports,paid search,57729 Oneill Trail,Saint Louis,Missouri,63136,United States,true,95.76,27.41,false
