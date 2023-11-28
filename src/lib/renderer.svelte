@@ -1,19 +1,19 @@
 <script lang="ts">
 	import type { Result } from '@malloydata/malloy';
 	import '@malloydata/render';
-	import { runQuery } from './malloy';
+	import { getMalloyModel } from './malloy';
+
+	export let query: string;
 
 	let data: Result;
 
-	const malloyScript = `
-    ## renderer_next
+	const model = getMalloyModel('malloy-model');
 
-    source: example is duckdb.sql('select * from "https://raw.githubusercontent.com/malloydata/malloy-svelte-example/main/data/customers-100.csv"') extend {}
-    `;
-
-	runQuery(malloyScript, 'run: example -> { select: * }').then((result) => {
-		data = result;
-	});
+	$: {
+		model.runQuery(query).then((result) => {
+			data = result;
+		});
+	}
 </script>
 
 {#if data}

@@ -1,0 +1,31 @@
+source: example is duckdb.sql('select * from "https://raw.githubusercontent.com/malloydata/malloy-svelte-example/main/data/Sales.csv"') extend {
+
+  measure:
+    total_revenue is revenue.sum()
+    total_cost is cost.sum()
+
+  view: records is { 
+    select: *
+    order_by: `date`
+  }
+
+  view: top_products is {
+    group_by: Product
+    aggregate: total_revenue
+    limit: 10
+  }
+
+  view: top_sources is {
+    group_by: `source`
+    aggregate: total_revenue
+    limit: 10
+  }
+
+  view: nested is {
+    group_by: state
+    aggregate: total_revenue
+    nest: top_sources
+  }
+
+
+}
