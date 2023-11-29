@@ -1,21 +1,21 @@
 <script lang="ts">
-	import type { Result } from '@malloydata/malloy';
-	import '@malloydata/render';
-	import { getMalloyModel } from './malloy';
+  import type { Result } from '@malloydata/malloy';
+  import '@malloydata/render';
+  import { getMalloyModel } from './malloy';
 
-	export let query: string;
+  export let query: string;
 
-	let data: Result;
+  let data: Result;
 
-	const model = getMalloyModel('malloy-model');
+  const model = getMalloyModel('malloy-model');
 
-	$: {
-		model.runQuery(query).then((result) => {
-			data = result;
-		});
-	}
+  $: {
+    model.runQuery(query).then((result) => {
+      data = result;
+    });
+  }
 </script>
 
 {#if data}
-	<malloy-render result={data}></malloy-render>
+  <malloy-render result={data}></malloy-render>
 {/if}
