@@ -1,18 +1,23 @@
 <script lang="ts">
 	import Card from '$lib/card.svelte';
-	import { filterStore, whereClause } from '$lib/filter-store';
+	import { whereClause } from '$lib/filter-store';
 	import Kpi from '$lib/kpi.svelte';
 	import ListBox from '$lib/list-box.svelte';
 	import MalloyProvider from '$lib/malloy-provider.svelte';
 	import Renderer from '$lib/renderer.svelte';
 	import script from '../model.malloy?raw';
 	import logo from '$lib/logo.png';
+	import LegacyRenderer from '$lib/legacy-renderer.svelte';
 
-	$: query = `run: example -> records + { where: ${$whereClause || true}} + { limit: 100 }`;
-
+	$: sourceQuery = `run: example -> records + { where: ${$whereClause || true}} + { limit: 100 }`;
 	$: topProducts = `run: example -> top_products + { where: ${$whereClause || true}}`;
-
 	$: topSources = `run: example -> nested + { where: ${$whereClause || true}}`;
+
+	// Render bar with legacy renderer
+	$: topProductsBar = `
+	# bar_chart
+	run: example ->	top_products + { where: ${$whereClause || true}};
+	`;
 </script>
 
 <MalloyProvider {script}>
@@ -32,9 +37,14 @@
 				>
 				<Card title="Top Products"><Renderer query={topProducts}></Renderer></Card>
 				<Card title="Top Sources"><Renderer query={topSources}></Renderer></Card>
+				<Card title="Top Products Bar"
+					><LegacyRenderer query={topProductsBar}></LegacyRenderer></Card
+				>
 			</div>
 
-			<Card title="Source Data" cardClass="col-span-3"><Renderer {query}></Renderer></Card>
+			<Card title="Source Data" cardClass="col-span-3"
+				><Renderer query={sourceQuery}></Renderer></Card
+			>
 		</div>
 	</div>
 </MalloyProvider>

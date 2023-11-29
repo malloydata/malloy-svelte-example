@@ -27,5 +27,4 @@ source: example is duckdb.sql('select * from "https://raw.githubusercontent.com/
     nest: top_sources
   }
 
-
 }
