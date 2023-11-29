@@ -1,5 +1,4 @@
 <script lang="ts">
-	import type { Result } from '@malloydata/malloy';
 	import { getMalloyModel } from './malloy';
 	import { filterStore, toggleFilter } from './filter-store';
 
@@ -11,24 +10,18 @@
 	let data: string[] = [];
 
 	$: {
-		model
-			.runQuery(
-				`run: example -> {
-            group_by: ${field}
-        }`
-			)
-			.then((r) => {
-				data = [];
-				for (const row of r.data) {
-					const value = row.cell(field).value as string;
-					data.push(value);
-				}
-			});
+		model.runQuery(`run: example -> { group_by: ${field} }`).then((r) => {
+			data = [];
+			for (const row of r.data) {
+				const value = row.cell(field).value as string;
+				data.push(value);
+			}
+		});
 	}
 
 	let augmentedData: Item[] = [];
 	$: {
-		const filters = $filterStore.filters[field] ?? [];
+		const filters = $filterStore[field] ?? [];
 		augmentedData = data.map((value) => ({
 			value,
 			isSelected: filters.includes(value)
@@ -39,7 +32,7 @@
 		let style = 'text-sm hover:bg-gray-100 h-full w-full text-left px-2';
 		if (item.isSelected) {
 			style += ' font-bold text-malloy-blue';
-		} else if (($filterStore.filters[field] ?? []).length > 0) {
+		} else if (($filterStore[field] ?? []).length > 0) {
 			style += ' text-gray-400';
 		} else style += ' text-gray-900';
 		return style;

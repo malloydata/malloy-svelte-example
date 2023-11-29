@@ -1,17 +1,13 @@
 import { derived, writable } from 'svelte/store';
 
-export const filterStore = writable<{
-	filters: Record<string, string[]>;
-}>({
-	filters: {}
-});
+export const filterStore = writable<Record<string, string[]>>({});
 
 export const toggleFilter = (field: string, value: string) => {
 	filterStore.update((s) => {
-		const existingFilters = s.filters[field] ?? [];
+		const existingFilters = s[field] ?? [];
 		const idx = existingFilters.indexOf(value);
 
-		s.filters[field] =
+		s[field] =
 			idx < 0
 				? [...existingFilters, value]
 				: [...existingFilters.slice(0, idx), ...existingFilters.slice(idx + 1)];
@@ -21,7 +17,7 @@ export const toggleFilter = (field: string, value: string) => {
 
 export const whereClause = derived(filterStore, (s) => {
 	const clauses: string[] = [];
-	for (const [field, values] of Object.entries(s.filters)) {
+	for (const [field, values] of Object.entries(s)) {
 		if (values.length > 0) {
 			clauses.push(`(${field} ? ${values.map((v) => `'${v}'`).join(' | ')})`);
 		}
